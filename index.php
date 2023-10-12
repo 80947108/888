@@ -1,6 +1,6 @@
 <?php
 $img_array = glob('img/*.{gif,jpg,png,jpeg,webp,bmp}', GLOB_BRACE);
-if(count($img_array) == 0) die('Ã»ÕÒµ½Í¼Æ¬ÎÄ¼þ¡£ÇëÏÈÉÏ´«Ò»Ð©Í¼Æ¬µ½ '.dirname(__FILE__).'/img/ ÎÄ¼þ¼Ð');
+if(count($img_array) == 0) die('æ²¡æ‰¾åˆ°å›¾ç‰‡æ–‡ä»¶ã€‚è¯·å…ˆä¸Šä¼ ä¸€äº›å›¾ç‰‡åˆ° '.dirname(__FILE__).'/img/ æ–‡ä»¶å¤¹');
 header('Content-Type: image/png');
 echo(file_get_contents($img_array[array_rand($img_array)]));
 ?>
