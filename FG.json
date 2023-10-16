@@ -1,5 +1,5 @@
-﻿//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//Q群：235436873
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+
 
 {
 	"spider": "./jar/FG.jar;md5;E9743FFD142C08D6D2A3DEAC455C3206",
@@ -31,7 +31,7 @@
 {"key":"6V磁力","name":"🚀6V磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/6v.json"},
 {"key":"电影港","name":"🚀DYG磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/dyg.json"},
 {"key":"4KHDR","name":"🚀HDR磁┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json"},
-{ "key": "玉米", "name": "🚀玉米┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://22222.yiyingys.asia/api.php/app/"}，
+{ "key": "玉米", "name": "🚀玉米┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://22222.yiyingys.asia/api.php/app/"},
 {"key":"圣城影视","name":"🚀圣城┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/sc1080.json"},
 {"key":"速映影视","name":"🚀速映┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/suying.json"},
 {"key":"笑笑影视","name":"🚀笑笑┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xiaoxiao.json"},
@@ -228,26 +228,26 @@
             "jar": "./jar/H/xb.jar"
         },
         {
-            "key": "*52AVAV",
-            "name": "*🔞52资源",
+            "key": "鲨鱼",
+            "name": "🔞鲨鱼资源",
             "type": 0,
-            "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
+            "api": "https://shayuapi.com/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0
         },
         {
-            "key": "*我要啪啪",
-            "name": "*🔞我要啪啪",
+            "key": "JAV名优",
+            "name": "🔞JAV名优",
             "type": 0,
-            "api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml",
+            "api": "http://mygzycj.com/api.php?ac=listl",
             "searchable": 0,
             "quickSearch": 0
         },
         {
-            "key": "*AV集中淫",
-            "name": "*🔞AV集中淫",
+            "key": "环亚",
+            "name": "*🔞环亚",
             "type": 0,
-            "api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml",
+            "api": "http://wmcj8.com/inc/sapi.php",
             "searchable": 0,
             "quickSearch": 0
         },
