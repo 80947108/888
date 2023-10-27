@@ -1,4 +1,4 @@
-var 二级=`js:
+﻿var 二级=`js:
 try {
     VOD={};
     let html1 = request(input);
@@ -43,31 +43,31 @@ try {
     for(var key in map){
       	if('kuaikan'==key){
 				arr.push({
-                flag: '🌸运输车🌸快看',
+                flag: '🌸飞哥🌸快看',
                 url: map[key],
 				sort:2
             })}
 			if('bfzym3u8'==key){
 				arr.push({
-                flag: '🌸运输车🌸暴风',
+                flag: '🌸飞哥🌸暴风',
                 url: map[key],
 				sort:1
             })}
            if('1080zyk'==key){
 				arr.push({
-                flag: '🌸运输车🌸1080',
+                flag: '🌸飞哥🌸1080',
                 url: map[key],
 				sort:3
             })}
             if('ffm3u8'==key){
 				arr.push({
-                flag: '🌸运输车🌸非凡',
+                flag: '🌸飞哥🌸非凡',
                 url: map[key],
 				sort:4
             })}
            if('lzm3u8'==key){
 				arr.push({
-                flag: '🌸运输车🌸量子',
+                flag: '🌸飞哥🌸量子',
                 url: map[key],
 				sort:5
             })}
