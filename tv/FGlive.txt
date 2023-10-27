@@ -7071,7 +7071,7 @@ jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
 高一,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
 高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
-测试_0000,#genre#
+测试,#genre#
 潘多拉完美,p2p://108.181.20.159:47352/5fe4450c000c918b829fca233c845311
 香蕉,p2p://108.181.20.159:47352/60626a760005067e6f5bbecb5816771e
 松视1,p2p://108.181.20.159:47352/5fe445280008a40682a0367c343436bb
