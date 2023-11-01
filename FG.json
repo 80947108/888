@@ -415,6 +415,7 @@
             "api": "./js/lib/drpy2.min.js",
             "ext": "./js/subaibai.js"
         },
+        {"key":"短剧网","name":"短剧网","type":3,"api":"csp_XBPQ","ext":"分类url:https://m.duanju5.com/vodshow/{cateId}--{by}------{catePg}---.html,分类:逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng"},
         {
             "key": "徕米影视",
             "name": "🚀徕米影视",
