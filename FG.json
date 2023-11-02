@@ -88,6 +88,8 @@
             "filterable": 0,
             "ext": "./py/py_cctv.py"
         },
+        {"key":"csp_SP2345_2345","name":"2345☆影视","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/2345.jar"},
+        {"key":"短剧网","name":"短剧网","type":3,"api":"csp_XBPQ","ext":"分类url:https://m.duanju5.com/vodshow/{cateId}--{by}------{catePg}---.html,分类:逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng"},
         {
             "key": "t4_wo",
             "name": "🚀玩偶┃T4",
@@ -415,7 +417,6 @@
             "api": "./js/lib/drpy2.min.js",
             "ext": "./js/subaibai.js"
         },
-        {"key":"短剧网","name":"短剧网","type":3,"api":"csp_XBPQ","ext":"分类url:https://m.duanju5.com/vodshow/{cateId}--{by}------{catePg}---.html,分类:逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng"},
         {
             "key": "徕米影视",
             "name": "🚀徕米影视",
