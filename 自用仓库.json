@@ -45,7 +45,7 @@
             "name": "🚀菜妮丝线路"
         },
         {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "url": "http://cdn.qiaoji8.com/tvbox.json",//http://pandown.pro/tvbox/tvbox.json,//https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
             "name": "🚀巧记线路"
         },
         {
@@ -87,6 +87,10 @@
         {
             "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",//https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
             "name": "🚀香雅情线路（跑路中）"
+        },
+        {
+            "url": "http://vip.weixine.link:88/vip.json"， 
+            "name": "🚀运输车VIP"
         },
         {
             "url": "https://weixine.net/ysc.json", //备用https://cf.weixine.net/ysc.json//接口https://weixine.net/api.json
