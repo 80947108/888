@@ -13,11 +13,11 @@
             "name": "🚀蜂蜜线路"
         },
         {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",//http://肥猫.love
             "name": "🚀肥猫线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/lmclub/box/main/app/conf/tv.json", //备用https://yydsys.top/duo/lm.json
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/lmclub/box/main/app/conf/tv.json", //备用https://yydsys.top/duo/lm.json//http://api.lotics.com
             "name": "🚀龙门影视"
         },
         {
@@ -45,7 +45,7 @@
             "name": "🚀菜妮丝线路"
         },
         {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",//http://pandown.pro/tvbox/tvbox.json,//https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
+            "url": "http://cdn.qiaoji8.com/tvbox.json",//废http://pandown.pro/tvbox/tvbox.json,//https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
             "name": "🚀巧记线路"
         },
         {
@@ -249,11 +249,11 @@
             "name": "蜂蜜H"
         },
         {
-            "url": "http://饭太硬.top/x/b.json"，
+            "url": "http://饭太硬.top/x/b.json",
             "name": "饭太硬H"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/jiekou.json"，
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/jiekou.json",
             "name": "自用H"
         }
     ]
