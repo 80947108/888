@@ -94,6 +94,27 @@ CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061
 
 
 
+//推流
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV2,https://node1.olelive.com:6443/live/cctv2HD/hls.m3u8
+CCTV3,https://node1.olelive.com:6443/live/cctv3HD/hls.m3u8
+CCTV4,https://node1.olelive.com:6443/live/cctv4HD/hls.m3u8
+CCTV5,https://node1.olelive.com:6443/live/cctv5HD/hls.m3u8
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV6,https://node1.olelive.com:6443/live/cctv6HD/hls.m3u8
+CCTV7,https://node1.olelive.com:6443/live/cctv7HD/hls.m3u8
+CCTV8,https://node1.olelive.com:6443/live/cctv8HD/hls.m3u8
+CCTV9,https://node1.olelive.com:6443/live/cctv9HD/hls.m3u8
+CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+CCTV11,https://node1.olelive.com:6443/live/cctv11HD/hls.m3u8
+CCTV12,https://node1.olelive.com:6443/live/cctv12HD/hls.m3u8
+CCTV13,https://node1.olelive.com:6443/live/cctv13HD/hls.m3u8
+CCTV14,https://node1.olelive.com:6443/live/cctv14HD/hls.m3u8
+CCTV15,https://node1.olelive.com:6443/live/cctv15HD/hls.m3u8
+CCTV16,https://node1.olelive.com:6443/live/cctv16HD/hls.m3u8
+CCTV17,https://node1.olelive.com:6443/live/cctv17HD/hls.m3u8
+
+
 //范明明
 CCTV1,https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
 CCTV2,https://cntv.lat/tv/zb.php?auth=231122&id=cctv2
@@ -350,7 +371,9 @@ CCTV文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8
 CCTV央视台球,http://111.20.40.163/PLTV/88888893/224/3221226956/index.m3u8
 CCTV高尔夫网球,http://111.20.40.164/PLTV/88888893/224/3221226978/index.m3u8
 CCTV文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8
-
+CHC高清电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+CHC动作电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 
 CHC高清电影,http://111.20.40.165/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清电影,http://111.20.40.166/PLTV/88888893/224/3221226463/index.m3u8
