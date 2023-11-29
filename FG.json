@@ -22,7 +22,8 @@
 {"key":"360影视","name":"🚀360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"py_cctv","name":"🚀CCTV","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/py_cctv.py"},
 {"key":"csp_SP2345_2345","name":"2345☆影视","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/2345.jar"},
-{"key":"短剧网","name":"💓短剧网","type":3,"api":"csp_XBPQ","ext":"分类url:https://m.duanju5.com/vodshow/{cateId}--{by}------{catePg}---.html,分类:逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng"},
+{"key":"短剧网","name":"💓短剧网","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/djw.js"},
+{"key":"短剧网","name":"短剧网💓","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/短剧网.json"},
 {"key":"csp_聚短视频","name":"💓聚合短剧","type":3,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/短视频.js","searchable":0,"quickSearch":0,"changeable":0},//20231128添加
 {"key":"532短剧","name":"💓532┃短剧┃","type":3,"api":"csp_XBPQ","ext":"分类url:https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"},
 {"key":"t4_wo","name":"🚀玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
