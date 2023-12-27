@@ -1,23 +1,23 @@
 {
     "urls": [
         {
-            "url": "https://yydsys.top/duo",
-            "name": "应用多多家庭版"
+            "url": "https://hyf888.eu.org/FG.json",
+           "name": "飞哥自用"
         },
         {
-            "url": "https://yydsys.top/duo/ali", //备用https://gitee.com/lekanbox/App/raw/master/ali.json
-            "name": "🚀阿里专线"
+            "url": "https://hyf888.eu.org/FGali.json", 
+            "name": "🚀飞哥阿里"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://fm.t4tv.hz.cz/json/config.json",//备用https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
             "name": "🚀蜂蜜线路"
         },
         {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",//http://肥猫.love
+            "url": "http://肥猫.live",
             "name": "🚀肥猫线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/lmclub/box/main/app/conf/tv.json", //备用https://yydsys.top/duo/lm.json//http://api.lotics.com
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lmclub/box/main/app/conf/tv.json", //备用http://api.lotics.com备用1http://conf.iqinu.com/app/conf/tv.json
             "name": "🚀龙门影视"
         },
         {
@@ -25,11 +25,11 @@
             "name": "🚀饭太硬"
         },
         {
-            "url": "https://s2.pub/xymz", //备用https://jihulab.com/ymz1231/json/-/raw/main/ymz.txt备用2https://git.acwing.com/zn777/tvlive/-/raw/main/js/tvmovie备用3https://d.looks.wang/我爱夜猫子//备用4https://download.kstore.space/download/3313/app/ymzn
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz", //备用https://download.kstore.space/download/3313/app/ymzn备用1https://jihulab.com/ymz1231/json/-/raw/main/ymz.txt备用3https://d.looks.wang/新夜猫子
             "name": "🚀夜猫子"
         },
         {
-            "url": "https://s2.pub/shaoer", //备用https://download.kstore.space/download/3313/app/ymshaoer.txt
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", 
             "name": "🚀夜猫子少儿"
         },
         {
@@ -50,31 +50,27 @@
         },
         {
             "url": "http://101.34.67.237/config/1",
-            "name": "🚀小雅线路"
+            "name": "🚀小雅（废）"
         },
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬线路"
         },
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "🚀霜辉月明"
         },
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀高天流云"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/0.json",
             "name": "🚀dxawi0线路"
         },
         {
-            "url": "http://tv.lengniuge.ga/yingshi",
-            "name": "🚀楞牛哥线路"
-        },
-        {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "🚀小苹果线路"
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🚀南风"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
@@ -85,8 +81,12 @@
             "name": "🚀easybox线路"
         },
         {
-            "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",//https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
-            "name": "🚀香雅情线路（跑路中）"
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",//https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+            "name": "🚀香雅情线路"
+        },
+        {
+            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+            "name": "🚀运输车SVIP"
         },
         {
             "url": "http://vip.weixine.link:88/vip.json",
@@ -97,7 +97,7 @@
             "name": "🚀运输车"
         },
         {
-            "url": "http://rihou.cc:88/荷城茶秀", //http://rihou.cc:99/荷城茶秀  //备用https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json//备用1http://ysc.weixine.net:88/荷城茶秀
+            "url": "http://rihou.cc:88/荷城茶秀", //http://rihou.cc:99/荷城茶秀//备用1http://ysc.weixine.net:88/荷城茶秀//备用https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json
             "name": "🚀荷城茶秀"
         },
         {
@@ -105,11 +105,11 @@
             "name": "🚀小米"
         },
         {
-            "url": "https://download.kstore.space/download/2904/258.txt",
+            "url": "https://jihulab.com/lxhfans/TV/-/raw/master/tv.txt",//https://download.kstore.space/download/2904/258.txt
             "name": "🚀奇奇乐分享"
         },
         {
-            "url": "https://www.lianyingtv.com/fast/fast",
+            "url": "https://jihulab.com/lymax/max/-/raw/main/vip1209.json",//https://www.lianyingtv.com/fast/fast
             "name": "🚀恋影"
         },
         {
@@ -121,7 +121,7 @@
             "name": "🚀小武"
         },
         {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",//https://jihulab.com/bh666/YGBH/-/raw/main/box原.json
             "name": "🐹月光宝盒"
         },
         {
@@ -129,32 +129,24 @@
             "name": "🐹4K云盘"
         },
         {
-            "url": "http://tvmvip110.club/tv/box/xc.json",
-            "name": "🐹玉玉线路"
+            "url": "https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json",
+            "name": "🐹月儿线路"
         },
         {
             "url": "https://download.kstore.space/download/2863/01.txt",
             "name": "🐹潇洒线路"
         },
         {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🐹南风线路"
-        },
-        {
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "🐹吾爱线路"
-        },
-        {
-            "url": "http://miaotvs.cn/meow",
+            "url": "http://meowtv.cn/tv",//废http://miaotvs.cn/meow
             "name": "🐹喵影视线路"
+        },
+        {
+            "url": "http://xiaohu.xzam.cn/xiaohu",
+            "name": "🐹小胡线路"
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/tvbox.json",
             "name": "🐹土鸡线路"
-        },
-        {
-            "url": "https://源享家.ml/45127",
-            "name": "🐹源享家线路"
         },
         {
             "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
@@ -169,14 +161,6 @@
             "name": "🐹分享者线路"
         },
         {
-            "url": "https://ju.binghe.ga/4.txt",
-            "name": "🐹冰河线路"
-        },
-        {
-            "url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
-            "name": "🐹小胡线路"
-        },
-        {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
             "name": "💎不良帅线路"
         },
@@ -185,19 +169,15 @@
             "name": "💎乱世线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
-            "name": "💎一影视线路"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/1.json",//备用把1.json改成api.json就行
             "name": "💎佰欣园线路"
         },
         {
             "url": "https://raw.fastgit.org/kebedd69/TVbox-interface/main/甜蜜.json",
-            "name": "💎甜蜜线路"
+            "name": "💎甜蜜线路(废)"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
             "name": "💎一木线路"
         },
         {
@@ -213,7 +193,7 @@
             "name": "💎zzz1线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
             "name": "💎二哈线路"
         },
         {
@@ -221,11 +201,11 @@
             "name": "💎刘公子线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/80947108/-/main/XC.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/80947108/-/main/XC.json",
             "name": "自用XC"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/80947108/py/main/py.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/80947108/py/main/py.json",
             "name": "自用PY线路"
         },
         {
@@ -233,15 +213,15 @@
             "name": "自用专线"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/80947108/JS/main/js.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/80947108/JS/main/js.json",
             "name": "自用JS"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json",
             "name": "自用18H"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
             "name": "2哈H"
         },
         {
@@ -253,7 +233,7 @@
             "name": "饭太硬H"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/jiekou.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/80947108/jiekou/main/jiekou.json",
             "name": "自用H"
         }
     ]
