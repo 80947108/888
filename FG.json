@@ -23,9 +23,10 @@
 {"key":"py_cctv","name":"🚀CCTV","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/py_cctv.py"},
 {"key":"csp_SP2345_2345","name":"🚀2345影视","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/2345.jar"},
 {"key":"短剧网","name":"💓短剧网","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/djw.js"},
-{"key":"影探4K","name":"🚀影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},//20231128更新
+{"key":"种子短剧","name":"💓种子短剧","type":1,"api":"http://zzdj.cc/api.php/provide/vod"},
 {"key":"csp_聚短视频","name":"💓聚合短剧","type":3,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/短视频.js","searchable":0,"quickSearch":0,"changeable":0},//20231128添加
 {"key":"532短剧","name":"💓532短剧","type":3,"api":"csp_XBPQ","ext":"分类url:https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"},
+{"key":"影探4K","name":"🚀影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},//20231128更新
 {"key":"t4_wo","name":"🚀玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"🚀玩偶4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ali.jar"},
 {"key":"爱迪影视","name":"🚀爱迪影视","type":3,"api":"csp_AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"},
