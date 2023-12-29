@@ -386,7 +386,7 @@
         {
             "name": "官解2",
             "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url=",
+            "url": "https://yinshi.eatuo.com/index.php/mvod/jx2?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -415,7 +415,7 @@
         {
             "name": "官解3",
             "type": 1,
-            "url": "https://yinshi.eatuo.com/index.php/mvod/jx2?url=",
+            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url=",
             "ext": {
                 "flag": [
                     "qq",
