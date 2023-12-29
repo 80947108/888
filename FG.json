@@ -24,9 +24,6 @@
 {"key":"csp_SP2345_2345","name":"🚀2345影视","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/2345.jar"},
 {"key":"短剧网","name":"💓短剧网","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/djw.js"},
 {"key":"影探4K","name":"🚀影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},//20231128更新
-{"key": "大鹏", "name": "🦅┃大鹏┃4K","type": 3, "playerType": 1,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://s.ether-mine.com/api.php/app/"},
-{"key": "彩虹","name": "🌈┃彩虹┃4K", "type": 3, "api": "csp_AppYsV2", "playerType": 1, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"},
-{"key":"影探4K1","name":"🚀影探4K1","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip.lyyytv.cn/api.php/app/"},
 {"key":"csp_聚短视频","name":"💓聚合短剧","type":3,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/短视频.js","searchable":0,"quickSearch":0,"changeable":0},//20231128添加
 {"key":"532短剧","name":"💓532短剧","type":3,"api":"csp_XBPQ","ext":"分类url:https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"},
 {"key":"t4_wo","name":"🚀玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
