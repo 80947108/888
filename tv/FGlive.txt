@@ -12669,7 +12669,17 @@ Tushy HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6261/index.m3u8
 Tushy HD,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12188/index.m3u8
 Tiny4K,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6258/index.m3u8
 White Boxxx,http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/6267/index.m3u8
-
+彩虹e台,p2p://ns2.hellotvvod.com:9906/6acad748a2a04915a0da24108cd74565
+彩虹电影台,p2p://ns2.hellotvvod.com:9906/924dbfa03f634782acfcd9004390a0e1
+LOOK TV,p2p://ns2.hellotvvod.com:9906/c338fd72e1af4e27b5a12f0b4a6fca2a
+潘朵啦玩美台,p2p://ns2.hellotvvod.com:9906/f5d24d67fc7e4070be7188e1edb9e022
+惊艳成人电影台,p2p://ns2.hellotvvod.com:9906/0226daf4a14e448fbc5363862caea9f7
+松视1台,p2p://ns2.hellotvvod.com:9906/1ae9051e09304f3e9f85afc72682156d
+松视2台,p2p://ns2.hellotvvod.com:9906/8190f4ca53fe41efac3a1156d4557e14
+潘朵啦粉红台,p2p://ns2.hellotvvod.com:9906/c5e6052405c14b5795a02d2cc54f82a3
+PLAYBOY,p2p://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790
+香蕉台,p2p://ns2.hellotvvod.com:9906/5b80cfe0cdc84e66a5174faf8080fbcc
+HOT,p2p://ns2.hellotvvod.com:9906/f09918ab062a4b5c91e9a24a6e0e7c53
 
 
 O-la-la,http://31.148.48.15/O-la-la/index.m3u8
