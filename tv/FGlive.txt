@@ -11,7 +11,7 @@
 澳门莲花,https://hyf000.eu.org/live/lotustv.php
 百视影院,https://bp-caster.bestv.com.cn/986/3/video.m3u8
 女神港片,https://pull.kktv8.com/livekktv/99350550.flv
-李子柒,https://hyf000.eu.org/live/huya.php?id=21969336&cdn=TX
+李子柒,https://hyf000.eu.org/live/huya.php?id=21969336
 李子柒,http://lxajh.top/tv/douyu.php?id=2901080
 李子柒,https://hyf666.eu.org/douyu/2901080
 午夜剧场,https://pull.kktv8.com/livekktv/99592190.flv
@@ -4990,33 +4990,33 @@ SiTV游戏风云,http://edu.live.cbncdn.cn/__cl/cg:live/__c/yxfyHD/__op/default/
 
 🐯虎牙斗鱼🐯,#genre#
 
-虎牙电影1,http://epg.112114.xyz/huya/11602058?cdn=TX
-虎牙电影2,http://epg.112114.xyz/huya/11601968?cdn=TX
-虎牙电影3,http://epg.112114.xyz/huya/11342412?cdn=TX
-虎牙电影4,http://epg.112114.xyz/huya/11342386?cdn=TX
-虎牙电影5,http://epg.112114.xyz/huya/11601986?cdn=TX
-虎牙电影6,http://epg.112114.xyz/huya/11601971?cdn=TX
-虎牙电影7,http://epg.112114.xyz/huya/11336592?cdn=TX
-虎牙电影8,http://epg.112114.xyz/huya/11342390?cdn=TX
-虎牙电影9,http://epg.112114.xyz/huya/11352941?cdn=TX
-虎牙电影10,http://epg.112114.xyz/huya/11279251?cdn=TX
-虎牙电影11,http://epg.112114.xyz/huya/11602041?cdn=TX
-虎牙电影12,http://epg.112114.xyz/huya/11352963?cdn=TX
-虎牙电影13,http://epg.112114.xyz/huya/11342414?cdn=TX
-虎牙电影14,http://epg.112114.xyz/huya/11602075?cdn=TX
-虎牙电影15,http://epg.112114.xyz/huya/11352962?cdn=TX
-虎牙电影16,http://epg.112114.xyz/huya/11336571?cdn=TX
-虎牙电影17,http://epg.112114.xyz/huya/11342427?cdn=TX
-虎牙电影18,http://epg.112114.xyz/huya/11336719?cdn=TX
-虎牙电影19,http://epg.112114.xyz/huya/11352894?cdn=TX
-虎牙电影20,http://epg.112114.xyz/huya/11352877?cdn=TX
-虎牙电影21,http://epg.112114.xyz/huya/11602077?cdn=TX
-虎牙电影22,http://epg.112114.xyz/huya/11601960?cdn=TX
-虎牙电影23,http://epg.112114.xyz/huya/11352965?cdn=TX
-虎牙电影25,http://epg.112114.xyz/huya/11342423?cdn=TX
-虎牙电影26,http://epg.112114.xyz/huya/11352909?cdn=TX
-虎牙电影27,http://epg.112114.xyz/huya/11352886?cdn=TX
-虎牙电影28,http://epg.112114.xyz/huya/11602044?cdn=TX
+虎牙电影1,http://epg.112114.xyz/huya/11602058
+虎牙电影2,http://epg.112114.xyz/huya/11601968
+虎牙电影3,http://epg.112114.xyz/huya/11342412
+虎牙电影4,http://epg.112114.xyz/huya/11342386
+虎牙电影5,http://epg.112114.xyz/huya/11601986
+虎牙电影6,http://epg.112114.xyz/huya/11601971
+虎牙电影7,http://epg.112114.xyz/huya/11336592
+虎牙电影8,http://epg.112114.xyz/huya/11342390
+虎牙电影9,http://epg.112114.xyz/huya/11352941
+虎牙电影10,http://epg.112114.xyz/huya/11279251
+虎牙电影11,http://epg.112114.xyz/huya/11602041
+虎牙电影12,http://epg.112114.xyz/huya/11352963
+虎牙电影13,http://epg.112114.xyz/huya/11342414
+虎牙电影14,http://epg.112114.xyz/huya/11602075
+虎牙电影15,http://epg.112114.xyz/huya/11352962
+虎牙电影16,http://epg.112114.xyz/huya/11336571
+虎牙电影17,http://epg.112114.xyz/huya/11342427
+虎牙电影18,http://epg.112114.xyz/huya/11336719
+虎牙电影19,http://epg.112114.xyz/huya/11352894
+虎牙电影20,http://epg.112114.xyz/huya/11352877
+虎牙电影21,http://epg.112114.xyz/huya/11602077
+虎牙电影22,http://epg.112114.xyz/huya/11601960
+虎牙电影23,http://epg.112114.xyz/huya/11352965
+虎牙电影25,http://epg.112114.xyz/huya/11342423
+虎牙电影26,http://epg.112114.xyz/huya/11352909
+虎牙电影27,http://epg.112114.xyz/huya/11352886
+虎牙电影28,http://epg.112114.xyz/huya/11602044
 斗鱼电影7,http://epg.112114.xyz/douyu/3637726
 斗鱼电影8,http://epg.112114.xyz/douyu/323876
 斗鱼电影10,http://epg.112114.xyz/douyu/2935323
@@ -5179,392 +5179,392 @@ SiTV游戏风云,http://edu.live.cbncdn.cn/__cl/cg:live/__c/yxfyHD/__op/default/
 
 
 🐯虎牙🐯,#genre#
-虎牙-周星驰,https://www.goodiptv.club/huya/11342412?cdn=TX
-虎牙-林正英,https://www.goodiptv.club/huya/11342421?cdn=TX
-虎牙-成龙,https://www.goodiptv.club/huya/11342386?cdn=TX
-虎牙-李连杰,https://www.goodiptv.club/huya/11342390?cdn=TX
-虎牙-周润发,https://www.goodiptv.club/huya/11342387?cdn=TX
-虎牙-刘德华,https://www.goodiptv.club/huya/11342424?cdn=TX
-虎牙-洪金宝,https://www.goodiptv.club/huya/11279251?cdn=TX
-虎牙-沈腾,https://www.goodiptv.club/huya/11601968?cdn=TX
-虎牙-徐峥,https://www.goodiptv.club/huya/11602043?cdn=TX
-虎牙-甄子丹,https://www.goodiptv.club/huya/11352935?cdn=TX
-虎牙-王晶,https://www.goodiptv.club/huya/11602058?cdn=TX
-虎牙-金庸,https://www.goodiptv.club/huya/11352897?cdn=TX
-虎牙-冯小刚,https://www.goodiptv.club/huya/11352906?cdn=TX
-虎牙-喜剧专场,https://www.goodiptv.club/huya/11602044?cdn=TX
-虎牙-猫和老鼠,https://www.goodiptv.club/huya/11352879?cdn=TX
-虎牙-中华小当家,https://www.goodiptv.club/huya/11342413?cdn=TX
-虎牙-杰森·斯坦森,https://www.goodiptv.club/huya/21059588?cdn=TX
-虎牙-巨石强森,https://www.goodiptv.club/huya/21059581?cdn=TX
-虎牙-詹姆斯邦德,https://www.goodiptv.club/huya/21059585?cdn=TX
-虎牙-徐克,https://www.goodiptv.club/huya/11352909?cdn=TX
-虎牙-许氏三杰,https://www.goodiptv.club/huya/11602033?cdn=TX
-虎牙-黄渤,https://www.goodiptv.club/huya/11352876?cdn=TX
-虎牙-张卫健,https://www.goodiptv.club/huya/11342423?cdn=TX
-虎牙-百鸟朝凤,https://www.goodiptv.club/huya/15894162?cdn=TX
-虎牙-陈翔六点半,https://www.goodiptv.club/huya/11274154?cdn=TX
-虎牙-电锯惊魂系列,https://www.goodiptv.club/huya/11352903?cdn=TX
-虎牙-电影,https://www.goodiptv.club/huya/618917?cdn=TX
-虎牙-港台电影,https://www.goodiptv.club/huya/880261?cdn=TX
-虎牙-高分电影,https://www.goodiptv.club/huya/16615910?cdn=TX
-虎牙-搞笑僵尸片,https://www.goodiptv.club/huya/11352963?cdn=TX
-虎牙-国产青春,https://www.goodiptv.club/huya/11602075?cdn=TX
-虎牙-好莱坞,https://www.goodiptv.club/huya/21059587?cdn=TX
-虎牙-黑帮斗争,https://www.goodiptv.club/huya/11342419?cdn=TX
-虎牙-红海行动,https://www.goodiptv.club/huya/11601986?cdn=TX
-虎牙-金庸的武侠世界,https://www.goodiptv.club/huya/11342435?cdn=TX
-虎牙-经典高智商,https://www.goodiptv.club/huya/11352962?cdn=TX
-虎牙-经典好片,https://www.goodiptv.club/huya/11342427?cdn=TX
-虎牙-经典喜剧片,https://www.goodiptv.club/huya/11352894?cdn=TX
-虎牙-精彩不断,https://www.goodiptv.club/huya/24396428?cdn=TX
-虎牙-精忠岳飞南征北战,https://www.goodiptv.club/huya/11336578?cdn=TX
-虎牙-警匪,https://www.goodiptv.club/huya/11352886?cdn=TX
-虎牙-看救援电影,https://www.goodiptv.club/huya/21059586?cdn=TX
-虎牙-科幻电影,https://www.goodiptv.club/huya/11602034?cdn=TX
-虎牙-路飞,https://www.goodiptv.club/huya/16913382?cdn=TX
-虎牙-麻雀,https://www.goodiptv.club/huya/11352881?cdn=TX
-虎牙-命案十三宗,https://www.goodiptv.club/huya/11601981?cdn=TX
-虎牙-魔法世界,https://www.goodiptv.club/huya/21059580?cdn=TX
-虎牙-欧美电影,https://www.goodiptv.club/huya/11352880?cdn=TX
-虎牙-欧美电影,https://www.goodiptv.club/huya/21059581?cdn=TX
-虎牙-欧美娱乐,https://www.goodiptv.club/huya/21059574?cdn=TX
-虎牙-倩女幽魂,https://www.goodiptv.club/huya/11601970?cdn=TX
+虎牙-周星驰,https://www.goodiptv.club/huya/11342412
+虎牙-林正英,https://www.goodiptv.club/huya/11342421
+虎牙-成龙,https://www.goodiptv.club/huya/11342386
+虎牙-李连杰,https://www.goodiptv.club/huya/11342390
+虎牙-周润发,https://www.goodiptv.club/huya/11342387
+虎牙-刘德华,https://www.goodiptv.club/huya/11342424
+虎牙-洪金宝,https://www.goodiptv.club/huya/11279251
+虎牙-沈腾,https://www.goodiptv.club/huya/11601968
+虎牙-徐峥,https://www.goodiptv.club/huya/11602043
+虎牙-甄子丹,https://www.goodiptv.club/huya/11352935
+虎牙-王晶,https://www.goodiptv.club/huya/11602058
+虎牙-金庸,https://www.goodiptv.club/huya/11352897
+虎牙-冯小刚,https://www.goodiptv.club/huya/11352906
+虎牙-喜剧专场,https://www.goodiptv.club/huya/11602044
+虎牙-猫和老鼠,https://www.goodiptv.club/huya/11352879
+虎牙-中华小当家,https://www.goodiptv.club/huya/11342413
+虎牙-杰森·斯坦森,https://www.goodiptv.club/huya/21059588
+虎牙-巨石强森,https://www.goodiptv.club/huya/21059581
+虎牙-詹姆斯邦德,https://www.goodiptv.club/huya/21059585
+虎牙-徐克,https://www.goodiptv.club/huya/11352909
+虎牙-许氏三杰,https://www.goodiptv.club/huya/11602033
+虎牙-黄渤,https://www.goodiptv.club/huya/11352876
+虎牙-张卫健,https://www.goodiptv.club/huya/11342423
+虎牙-百鸟朝凤,https://www.goodiptv.club/huya/15894162
+虎牙-陈翔六点半,https://www.goodiptv.club/huya/11274154
+虎牙-电锯惊魂系列,https://www.goodiptv.club/huya/11352903
+虎牙-电影,https://www.goodiptv.club/huya/618917
+虎牙-港台电影,https://www.goodiptv.club/huya/880261
+虎牙-高分电影,https://www.goodiptv.club/huya/16615910
+虎牙-搞笑僵尸片,https://www.goodiptv.club/huya/11352963
+虎牙-国产青春,https://www.goodiptv.club/huya/11602075
+虎牙-好莱坞,https://www.goodiptv.club/huya/21059587
+虎牙-黑帮斗争,https://www.goodiptv.club/huya/11342419
+虎牙-红海行动,https://www.goodiptv.club/huya/11601986
+虎牙-金庸的武侠世界,https://www.goodiptv.club/huya/11342435
+虎牙-经典高智商,https://www.goodiptv.club/huya/11352962
+虎牙-经典好片,https://www.goodiptv.club/huya/11342427
+虎牙-经典喜剧片,https://www.goodiptv.club/huya/11352894
+虎牙-精彩不断,https://www.goodiptv.club/huya/24396428
+虎牙-精忠岳飞南征北战,https://www.goodiptv.club/huya/11336578
+虎牙-警匪,https://www.goodiptv.club/huya/11352886
+虎牙-看救援电影,https://www.goodiptv.club/huya/21059586
+虎牙-科幻电影,https://www.goodiptv.club/huya/11602034
+虎牙-路飞,https://www.goodiptv.club/huya/16913382
+虎牙-麻雀,https://www.goodiptv.club/huya/11352881
+虎牙-命案十三宗,https://www.goodiptv.club/huya/11601981
+虎牙-魔法世界,https://www.goodiptv.club/huya/21059580
+虎牙-欧美电影,https://www.goodiptv.club/huya/11352880
+虎牙-欧美电影,https://www.goodiptv.club/huya/21059581
+虎牙-欧美娱乐,https://www.goodiptv.club/huya/21059574
+虎牙-倩女幽魂,https://www.goodiptv.club/huya/11601970
 女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-港台电影,https://www.goodiptv.club/huya/880261?cdn=TX
-黑帮斗争,https://www.goodiptv.club/huya/11342419?cdn=TX
-未知,https://www.goodiptv.club/huya/11601986?cdn=TX
-金庸电影,https://www.goodiptv.club/huya/11352897?cdn=TX
-经典电影,https://www.goodiptv.club/huya/11352962?cdn=TX
-经典好片,https://www.goodiptv.club/huya/11342427?cdn=TX
-经典喜剧片,https://www.goodiptv.club/huya/11352894?cdn=TX
-警匪,https://www.goodiptv.club/huya/11352886?cdn=TX
-救援电影,https://www.goodiptv.club/huya/21059586?cdn=TX
-科幻电影,https://www.goodiptv.club/huya/11602034?cdn=TX
-电影22,https://www.goodiptv.club/huya/11601981?cdn=TX
-欧美电影,https://www.goodiptv.club/huya/11352880?cdn=TX
-欧美电影,https://www.goodiptv.club/huya/21059581?cdn=TX
-电影23,https://www.goodiptv.club/huya/11601970?cdn=TX
-史诗级战争电影,https://www.goodiptv.club/huya/21059556?cdn=TX
-电影24,https://www.goodiptv.club/huya/21059579?cdn=TX
-电影55,https://www.goodiptv.club/huya/23652317?cdn=TX
-虎牙-喜剧专场,https://www.goodiptv.club/huya/11602044?cdn=TX
-电影26,https://www.goodiptv.club/huya/21059577?cdn=TX
-电影77,https://www.goodiptv.club/huya/11601971?cdn=TX
-电影78,https://www.goodiptv.club/huya/11342414?cdn=TX
-虎牙-神话,https://www.goodiptv.club/huya/11352913?cdn=TX
-虎牙-生活大爆炸,https://www.goodiptv.club/huya/11342417?cdn=TX
-虎牙-史诗级战争电影,https://www.goodiptv.club/huya/21059556?cdn=TX
-虎牙-孙悟空,https://www.goodiptv.club/huya/11342395?cdn=TX
-虎牙-太空混战,https://www.goodiptv.club/huya/21059579?cdn=TX
-虎牙-天雷滚滚,https://www.goodiptv.club/huya/11352945?cdn=TX
-虎牙-天龙八部,https://www.goodiptv.club/huya/11602041?cdn=TX
-虎牙-歪果仁动作,https://www.goodiptv.club/huya/21059552?cdn=TX
-虎牙-文成公主,https://www.goodiptv.club/huya/11352974?cdn=TX
-虎牙-我是大哥大,https://www.goodiptv.club/huya/23652317?cdn=TX
-虎牙-喜剧合家欢,https://www.goodiptv.club/huya/11352877?cdn=TX
-虎牙-喜剧专场,https://www.goodiptv.club/huya/11602044?cdn=TX
-虎牙-小鲤鱼,https://www.goodiptv.club/huya/11601961?cdn=TX
-虎牙-悬疑推理,https://www.goodiptv.club/huya/17445539?cdn=TX
-虎牙-杨门女将,https://www.goodiptv.club/huya/11336590?cdn=TX
-虎牙-医馆笑传,https://www.goodiptv.club/huya/11352891?cdn=TX
-虎牙-异形世界,https://www.goodiptv.club/huya/21059577?cdn=TX
-虎牙-甄嬛传,https://www.goodiptv.club/huya/11601971?cdn=TX
-虎牙-止戈电影,https://www.goodiptv.club/huya/19863777?cdn=TX
-虎牙-中国功夫,https://www.goodiptv.club/huya/11352941?cdn=TX
-虎牙-朱雀青龙,https://www.goodiptv.club/huya/11352905?cdn=TX
-虎牙-捉妖记,https://www.goodiptv.club/huya/11342414?cdn=TX
+港台电影,https://www.goodiptv.club/huya/880261
+黑帮斗争,https://www.goodiptv.club/huya/11342419
+未知,https://www.goodiptv.club/huya/11601986
+金庸电影,https://www.goodiptv.club/huya/11352897
+经典电影,https://www.goodiptv.club/huya/11352962
+经典好片,https://www.goodiptv.club/huya/11342427
+经典喜剧片,https://www.goodiptv.club/huya/11352894
+警匪,https://www.goodiptv.club/huya/11352886
+救援电影,https://www.goodiptv.club/huya/21059586
+科幻电影,https://www.goodiptv.club/huya/11602034
+电影22,https://www.goodiptv.club/huya/11601981
+欧美电影,https://www.goodiptv.club/huya/11352880
+欧美电影,https://www.goodiptv.club/huya/21059581
+电影23,https://www.goodiptv.club/huya/11601970
+史诗级战争电影,https://www.goodiptv.club/huya/21059556
+电影24,https://www.goodiptv.club/huya/21059579
+电影55,https://www.goodiptv.club/huya/23652317
+虎牙-喜剧专场,https://www.goodiptv.club/huya/11602044
+电影26,https://www.goodiptv.club/huya/21059577
+电影77,https://www.goodiptv.club/huya/11601971
+电影78,https://www.goodiptv.club/huya/11342414
+虎牙-神话,https://www.goodiptv.club/huya/11352913
+虎牙-生活大爆炸,https://www.goodiptv.club/huya/11342417
+虎牙-史诗级战争电影,https://www.goodiptv.club/huya/21059556
+虎牙-孙悟空,https://www.goodiptv.club/huya/11342395
+虎牙-太空混战,https://www.goodiptv.club/huya/21059579
+虎牙-天雷滚滚,https://www.goodiptv.club/huya/11352945
+虎牙-天龙八部,https://www.goodiptv.club/huya/11602041
+虎牙-歪果仁动作,https://www.goodiptv.club/huya/21059552
+虎牙-文成公主,https://www.goodiptv.club/huya/11352974
+虎牙-我是大哥大,https://www.goodiptv.club/huya/23652317
+虎牙-喜剧合家欢,https://www.goodiptv.club/huya/11352877
+虎牙-喜剧专场,https://www.goodiptv.club/huya/11602044
+虎牙-小鲤鱼,https://www.goodiptv.club/huya/11601961
+虎牙-悬疑推理,https://www.goodiptv.club/huya/17445539
+虎牙-杨门女将,https://www.goodiptv.club/huya/11336590
+虎牙-医馆笑传,https://www.goodiptv.club/huya/11352891
+虎牙-异形世界,https://www.goodiptv.club/huya/21059577
+虎牙-甄嬛传,https://www.goodiptv.club/huya/11601971
+虎牙-止戈电影,https://www.goodiptv.club/huya/19863777
+虎牙-中国功夫,https://www.goodiptv.club/huya/11352941
+虎牙-朱雀青龙,https://www.goodiptv.club/huya/11352905
+虎牙-捉妖记,https://www.goodiptv.club/huya/11342414
 
 
-虎牙-周星驰,http://43.138.170.29:35455/huya/11342412?cdn=HS
-虎牙-林正英,http://43.138.170.29:35455/huya/11342421?cdn=HS
-虎牙-成龙,http://43.138.170.29:35455/huya/11342386?cdn=HS
-虎牙-李连杰,http://43.138.170.29:35455/huya/11342390?cdn=HS
-虎牙-周润发,http://43.138.170.29:35455/huya/11342387?cdn=HS
-虎牙-刘德华,http://43.138.170.29:35455/huya/11342424?cdn=HS
-虎牙-洪金宝,http://43.138.170.29:35455/huya/11279251?cdn=HS
-虎牙-沈腾,http://43.138.170.29:35455/huya/11601968?cdn=HS
-虎牙-徐峥,http://43.138.170.29:35455/huya/11602043?cdn=HS
-虎牙-甄子丹,http://43.138.170.29:35455/huya/11352935?cdn=HS
-虎牙-王晶,http://43.138.170.29:35455/huya/11602058?cdn=HS
-虎牙-金庸,http://43.138.170.29:35455/huya/11352897?cdn=HS
-虎牙-冯小刚,http://43.138.170.29:35455/huya/11352906?cdn=HS
-虎牙-喜剧专场,http://43.138.170.29:35455/huya/11602044?cdn=HS
-虎牙-猫和老鼠,http://43.138.170.29:35455/huya/11352879?cdn=HS
-虎牙-中华小当家,http://43.138.170.29:35455/huya/11342413?cdn=HS
-虎牙-杰森·斯坦森,http://43.138.170.29:35455/huya/21059588?cdn=HS
-虎牙-巨石强森,http://43.138.170.29:35455/huya/21059581?cdn=HS
-虎牙-詹姆斯邦德,http://43.138.170.29:35455/huya/21059585?cdn=HS
-虎牙-徐克,http://43.138.170.29:35455/huya/11352909?cdn=HS
-虎牙-许氏三杰,http://43.138.170.29:35455/huya/11602033?cdn=HS
-虎牙-黄渤,http://43.138.170.29:35455/huya/11352876?cdn=HS
-虎牙-张卫健,http://43.138.170.29:35455/huya/11342423?cdn=HS
-虎牙-百鸟朝凤,http://43.138.170.29:35455/huya/15894162?cdn=HS
-虎牙-陈翔六点半,http://43.138.170.29:35455/huya/11274154?cdn=HS
-虎牙-电锯惊魂系列,http://43.138.170.29:35455/huya/11352903?cdn=HS
-虎牙-电影,http://43.138.170.29:35455/huya/618917?cdn=HS
-虎牙-港台电影,http://43.138.170.29:35455/huya/880261?cdn=HS
-虎牙-高分电影,http://43.138.170.29:35455/huya/16615910?cdn=HS
-虎牙-搞笑僵尸片,http://43.138.170.29:35455/huya/11352963?cdn=HS
-虎牙-国产青春,http://43.138.170.29:35455/huya/11602075?cdn=HS
-虎牙-好莱坞,http://43.138.170.29:35455/huya/21059587?cdn=HS
-虎牙-黑帮斗争,http://43.138.170.29:35455/huya/11342419?cdn=HS
-虎牙-红海行动,http://43.138.170.29:35455/huya/11601986?cdn=HS
-虎牙-金庸的武侠世界,http://43.138.170.29:35455/huya/11342435?cdn=HS
-虎牙-经典高智商,http://43.138.170.29:35455/huya/11352962?cdn=HS
-虎牙-经典好片,http://43.138.170.29:35455/huya/11342427?cdn=HS
-虎牙-经典喜剧片,http://43.138.170.29:35455/huya/11352894?cdn=HS
-虎牙-精彩不断,http://43.138.170.29:35455/huya/24396428?cdn=HS
-虎牙-精忠岳飞南征北战,http://43.138.170.29:35455/huya/11336578?cdn=HS
-虎牙-警匪,http://43.138.170.29:35455/huya/11352886?cdn=HS
-虎牙-看救援电影,http://43.138.170.29:35455/huya/21059586?cdn=HS
-虎牙-科幻电影,http://43.138.170.29:35455/huya/11602034?cdn=HS
-虎牙-路飞,http://43.138.170.29:35455/huya/16913382?cdn=HS
-虎牙-麻雀,http://43.138.170.29:35455/huya/11352881?cdn=HS
-虎牙-命案十三宗,http://43.138.170.29:35455/huya/11601981?cdn=HS
-虎牙-魔法世界,http://43.138.170.29:35455/huya/21059580?cdn=HS
-虎牙-欧美电影,http://43.138.170.29:35455/huya/11352880?cdn=HS
-虎牙-欧美电影,http://43.138.170.29:35455/huya/21059581?cdn=HS
-虎牙-欧美娱乐,http://43.138.170.29:35455/huya/21059574?cdn=HS
-虎牙-倩女幽魂,http://43.138.170.29:35455/huya/11601970?cdn=HS
+虎牙-周星驰,http://43.138.170.29:35455/huya/11342412
+虎牙-林正英,http://43.138.170.29:35455/huya/11342421
+虎牙-成龙,http://43.138.170.29:35455/huya/11342386
+虎牙-李连杰,http://43.138.170.29:35455/huya/11342390
+虎牙-周润发,http://43.138.170.29:35455/huya/11342387
+虎牙-刘德华,http://43.138.170.29:35455/huya/11342424
+虎牙-洪金宝,http://43.138.170.29:35455/huya/11279251
+虎牙-沈腾,http://43.138.170.29:35455/huya/11601968
+虎牙-徐峥,http://43.138.170.29:35455/huya/11602043
+虎牙-甄子丹,http://43.138.170.29:35455/huya/11352935
+虎牙-王晶,http://43.138.170.29:35455/huya/11602058
+虎牙-金庸,http://43.138.170.29:35455/huya/11352897
+虎牙-冯小刚,http://43.138.170.29:35455/huya/11352906
+虎牙-喜剧专场,http://43.138.170.29:35455/huya/11602044
+虎牙-猫和老鼠,http://43.138.170.29:35455/huya/11352879
+虎牙-中华小当家,http://43.138.170.29:35455/huya/11342413
+虎牙-杰森·斯坦森,http://43.138.170.29:35455/huya/21059588
+虎牙-巨石强森,http://43.138.170.29:35455/huya/21059581
+虎牙-詹姆斯邦德,http://43.138.170.29:35455/huya/21059585
+虎牙-徐克,http://43.138.170.29:35455/huya/11352909
+虎牙-许氏三杰,http://43.138.170.29:35455/huya/11602033
+虎牙-黄渤,http://43.138.170.29:35455/huya/11352876
+虎牙-张卫健,http://43.138.170.29:35455/huya/11342423
+虎牙-百鸟朝凤,http://43.138.170.29:35455/huya/15894162
+虎牙-陈翔六点半,http://43.138.170.29:35455/huya/11274154
+虎牙-电锯惊魂系列,http://43.138.170.29:35455/huya/11352903
+虎牙-电影,http://43.138.170.29:35455/huya/618917
+虎牙-港台电影,http://43.138.170.29:35455/huya/880261
+虎牙-高分电影,http://43.138.170.29:35455/huya/16615910
+虎牙-搞笑僵尸片,http://43.138.170.29:35455/huya/11352963
+虎牙-国产青春,http://43.138.170.29:35455/huya/11602075
+虎牙-好莱坞,http://43.138.170.29:35455/huya/21059587
+虎牙-黑帮斗争,http://43.138.170.29:35455/huya/11342419
+虎牙-红海行动,http://43.138.170.29:35455/huya/11601986
+虎牙-金庸的武侠世界,http://43.138.170.29:35455/huya/11342435
+虎牙-经典高智商,http://43.138.170.29:35455/huya/11352962
+虎牙-经典好片,http://43.138.170.29:35455/huya/11342427
+虎牙-经典喜剧片,http://43.138.170.29:35455/huya/11352894
+虎牙-精彩不断,http://43.138.170.29:35455/huya/24396428
+虎牙-精忠岳飞南征北战,http://43.138.170.29:35455/huya/11336578
+虎牙-警匪,http://43.138.170.29:35455/huya/11352886
+虎牙-看救援电影,http://43.138.170.29:35455/huya/21059586
+虎牙-科幻电影,http://43.138.170.29:35455/huya/11602034
+虎牙-路飞,http://43.138.170.29:35455/huya/16913382
+虎牙-麻雀,http://43.138.170.29:35455/huya/11352881
+虎牙-命案十三宗,http://43.138.170.29:35455/huya/11601981
+虎牙-魔法世界,http://43.138.170.29:35455/huya/21059580
+虎牙-欧美电影,http://43.138.170.29:35455/huya/11352880
+虎牙-欧美电影,http://43.138.170.29:35455/huya/21059581
+虎牙-欧美娱乐,http://43.138.170.29:35455/huya/21059574
+虎牙-倩女幽魂,http://43.138.170.29:35455/huya/11601970
 女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-港台电影,http://43.138.170.29:35455/huya/880261?cdn=HS
-黑帮斗争,http://43.138.170.29:35455/huya/11342419?cdn=HS
-未知,http://43.138.170.29:35455/huya/11601986?cdn=HS
-金庸电影,http://43.138.170.29:35455/huya/11352897?cdn=HS
-经典电影,http://43.138.170.29:35455/huya/11352962?cdn=HS
-经典好片,http://43.138.170.29:35455/huya/11342427?cdn=HS
-经典喜剧片,http://43.138.170.29:35455/huya/11352894?cdn=HS
-警匪,http://43.138.170.29:35455/huya/11352886?cdn=HS
-救援电影,http://43.138.170.29:35455/huya/21059586?cdn=HS
-科幻电影,http://43.138.170.29:35455/huya/11602034?cdn=HS
-电影22,http://43.138.170.29:35455/huya/11601981?cdn=HS
-欧美电影,http://43.138.170.29:35455/huya/11352880?cdn=HS
-欧美电影,http://43.138.170.29:35455/huya/21059581?cdn=HS
-电影23,http://43.138.170.29:35455/huya/11601970?cdn=HS
-史诗级战争电影,http://43.138.170.29:35455/huya/21059556?cdn=HS
-电影24,http://43.138.170.29:35455/huya/21059579?cdn=HS
-电影55,http://43.138.170.29:35455/huya/23652317?cdn=HS
-虎牙-喜剧专场,http://43.138.170.29:35455/huya/11602044?cdn=HS
-电影26,http://43.138.170.29:35455/huya/21059577?cdn=HS
-电影77,http://43.138.170.29:35455/huya/11601971?cdn=HS
-电影78,http://43.138.170.29:35455/huya/11342414?cdn=HS
-虎牙-神话,http://43.138.170.29:35455/huya/11352913?cdn=HS
-虎牙-生活大爆炸,http://43.138.170.29:35455/huya/11342417?cdn=HS
-虎牙-史诗级战争电影,http://43.138.170.29:35455/huya/21059556?cdn=HS
-虎牙-孙悟空,http://43.138.170.29:35455/huya/11342395?cdn=HS
-虎牙-太空混战,http://43.138.170.29:35455/huya/21059579?cdn=HS
-虎牙-天雷滚滚,http://43.138.170.29:35455/huya/11352945?cdn=HS
-虎牙-天龙八部,http://43.138.170.29:35455/huya/11602041?cdn=HS
-虎牙-歪果仁动作,http://43.138.170.29:35455/huya/21059552?cdn=HS
-虎牙-文成公主,http://43.138.170.29:35455/huya/11352974?cdn=HS
-虎牙-我是大哥大,http://43.138.170.29:35455/huya/23652317?cdn=HS
-虎牙-喜剧合家欢,http://43.138.170.29:35455/huya/11352877?cdn=HS
-虎牙-喜剧专场,http://43.138.170.29:35455/huya/11602044?cdn=HS
-虎牙-小鲤鱼,http://43.138.170.29:35455/huya/11601961?cdn=HS
-虎牙-悬疑推理,http://43.138.170.29:35455/huya/17445539?cdn=HS
-虎牙-杨门女将,http://43.138.170.29:35455/huya/11336590?cdn=HS
-虎牙-医馆笑传,http://43.138.170.29:35455/huya/11352891?cdn=HS
-虎牙-异形世界,http://43.138.170.29:35455/huya/21059577?cdn=HS
-虎牙-甄嬛传,http://43.138.170.29:35455/huya/11601971?cdn=HS
-虎牙-止戈电影,http://43.138.170.29:35455/huya/19863777?cdn=HS
-虎牙-中国功夫,http://43.138.170.29:35455/huya/11352941?cdn=HS
-虎牙-朱雀青龙,http://43.138.170.29:35455/huya/11352905?cdn=HS
-虎牙-捉妖记,http://43.138.170.29:35455/huya/11342414?cdn=HS
+港台电影,http://43.138.170.29:35455/huya/880261
+黑帮斗争,http://43.138.170.29:35455/huya/11342419
+未知,http://43.138.170.29:35455/huya/11601986
+金庸电影,http://43.138.170.29:35455/huya/11352897
+经典电影,http://43.138.170.29:35455/huya/11352962
+经典好片,http://43.138.170.29:35455/huya/11342427
+经典喜剧片,http://43.138.170.29:35455/huya/11352894
+警匪,http://43.138.170.29:35455/huya/11352886
+救援电影,http://43.138.170.29:35455/huya/21059586
+科幻电影,http://43.138.170.29:35455/huya/11602034
+电影22,http://43.138.170.29:35455/huya/11601981
+欧美电影,http://43.138.170.29:35455/huya/11352880
+欧美电影,http://43.138.170.29:35455/huya/21059581
+电影23,http://43.138.170.29:35455/huya/11601970
+史诗级战争电影,http://43.138.170.29:35455/huya/21059556
+电影24,http://43.138.170.29:35455/huya/21059579
+电影55,http://43.138.170.29:35455/huya/23652317
+虎牙-喜剧专场,http://43.138.170.29:35455/huya/11602044
+电影26,http://43.138.170.29:35455/huya/21059577
+电影77,http://43.138.170.29:35455/huya/11601971
+电影78,http://43.138.170.29:35455/huya/11342414
+虎牙-神话,http://43.138.170.29:35455/huya/11352913
+虎牙-生活大爆炸,http://43.138.170.29:35455/huya/11342417
+虎牙-史诗级战争电影,http://43.138.170.29:35455/huya/21059556
+虎牙-孙悟空,http://43.138.170.29:35455/huya/11342395
+虎牙-太空混战,http://43.138.170.29:35455/huya/21059579
+虎牙-天雷滚滚,http://43.138.170.29:35455/huya/11352945
+虎牙-天龙八部,http://43.138.170.29:35455/huya/11602041
+虎牙-歪果仁动作,http://43.138.170.29:35455/huya/21059552
+虎牙-文成公主,http://43.138.170.29:35455/huya/11352974
+虎牙-我是大哥大,http://43.138.170.29:35455/huya/23652317
+虎牙-喜剧合家欢,http://43.138.170.29:35455/huya/11352877
+虎牙-喜剧专场,http://43.138.170.29:35455/huya/11602044
+虎牙-小鲤鱼,http://43.138.170.29:35455/huya/11601961
+虎牙-悬疑推理,http://43.138.170.29:35455/huya/17445539
+虎牙-杨门女将,http://43.138.170.29:35455/huya/11336590
+虎牙-医馆笑传,http://43.138.170.29:35455/huya/11352891
+虎牙-异形世界,http://43.138.170.29:35455/huya/21059577
+虎牙-甄嬛传,http://43.138.170.29:35455/huya/11601971
+虎牙-止戈电影,http://43.138.170.29:35455/huya/19863777
+虎牙-中国功夫,http://43.138.170.29:35455/huya/11352941
+虎牙-朱雀青龙,http://43.138.170.29:35455/huya/11352905
+虎牙-捉妖记,http://43.138.170.29:35455/huya/11342414
 
-虎牙-周星驰,https://hyf666.eu.org/huya/11342412?cdn=HS
-虎牙-林正英,https://hyf666.eu.org/huya/11342421?cdn=HS
-虎牙-沈腾,https://hyf666.eu.org/huya/11601968?cdn=HS
-虎牙-猫和老鼠,https://hyf666.eu.org/huya/11352879?cdn=HS
-虎牙-成龙,https://hyf666.eu.org/huya/11342386?cdn=HS
-虎牙-李连杰,https://hyf666.eu.org/huya/11342390?cdn=HS
-虎牙-刘德华,https://hyf666.eu.org/huya/11342424?cdn=HS
-虎牙-王晶,https://hyf666.eu.org/huya/11602058?cdn=HS
-虎牙-中华小当家,https://hyf666.eu.org/huya/11342413?cdn=HS
-虎牙-杰森·斯坦森,https://hyf666.eu.org/huya/21059588?cdn=HS
-虎牙-喜剧专场,https://hyf666.eu.org/huya/11602044?cdn=HS
-虎牙-甄子丹,https://hyf666.eu.org/huya/11352935?cdn=HS
-虎牙-巨石强森,https://hyf666.eu.org/huya/21059581?cdn=HS
-虎牙-洪金宝,https://hyf666.eu.org/huya/11279251?cdn=HS
-虎牙-詹姆斯邦德,https://hyf666.eu.org/huya/21059585?cdn=HS
-虎牙-徐克,https://hyf666.eu.org/huya/11352909?cdn=HS
-虎牙-周润发,https://hyf666.eu.org/huya/11342387?cdn=HS
-虎牙-徐峥,https://hyf666.eu.org/huya/11602043?cdn=HS
-虎牙-许氏三杰,https://hyf666.eu.org/huya/11602033?cdn=HS
-虎牙-黄渤,https://hyf666.eu.org/huya/11352876?cdn=HS
-虎牙-张卫健,https://hyf666.eu.org/huya/11342423?cdn=HS
-虎牙-冯小刚,https://hyf666.eu.org/huya/11352906?cdn=HS
-虎牙-百鸟朝凤,https://hyf666.eu.org/huya/15894162?cdn=HS
-虎牙-陈翔六点半,https://hyf666.eu.org/huya/11274154?cdn=HS
-虎牙-电锯惊魂系列,https://hyf666.eu.org/huya/11352903?cdn=HS
-虎牙-电影,https://hyf666.eu.org/huya/618917?cdn=HS
-虎牙-港台电影,https://hyf666.eu.org/huya/880261?cdn=HS
-虎牙-高分电影,https://hyf666.eu.org/huya/16615910?cdn=HS
-虎牙-搞笑僵尸片,https://hyf666.eu.org/huya/11352963?cdn=HS
-虎牙-国产青春,https://hyf666.eu.org/huya/11602075?cdn=HS
-虎牙-好莱坞,https://hyf666.eu.org/huya/21059587?cdn=HS
-虎牙-黑帮斗争,https://hyf666.eu.org/huya/11342419?cdn=HS
-虎牙-红海行动,https://hyf666.eu.org/huya/11601986?cdn=HS
-虎牙-金庸的武侠世界,https://hyf666.eu.org/huya/11342435?cdn=HS
-虎牙-金庸,https://hyf666.eu.org/huya/11352897?cdn=HS
-虎牙-经典高智商,https://hyf666.eu.org/huya/113529?cdn=HS62
-虎牙-经典好片,https://hyf666.eu.org/huya/11342427?cdn=HS
-虎牙-经典喜剧片,https://hyf666.eu.org/huya/11352894?cdn=HS
-虎牙-精彩不断,https://hyf666.eu.org/huya/24396428?cdn=HS
-虎牙-精忠岳飞南征北战,https://hyf666.eu.org/huya/11336578?cdn=HS
-虎牙-警匪,https://hyf666.eu.org/huya/11352886?cdn=HS
-虎牙-看救援电影,https://hyf666.eu.org/huya/21059586?cdn=HS
-虎牙-科幻电影,https://hyf666.eu.org/huya/11602034?cdn=HS
-虎牙-路飞,https://hyf666.eu.org/huya/16913382?cdn=HS
-虎牙-麻雀,https://hyf666.eu.org/huya/11352881?cdn=HS
-虎牙-命案十三宗,https://hyf666.eu.org/huya/11601981?cdn=HS
-虎牙-魔法世界,https://hyf666.eu.org/huya/21059580?cdn=HS
-虎牙-欧美电影,https://hyf666.eu.org/huya/11352880?cdn=HS
-虎牙-欧美电影,https://hyf666.eu.org/huya/21059581?cdn=HS
-虎牙-欧美娱乐,https://hyf666.eu.org/huya/21059574?cdn=HS
-虎牙-倩女幽魂,https://hyf666.eu.org/huya/11601970?cdn=HS
+虎牙-周星驰,https://hyf666.eu.org/huya/11342412
+虎牙-林正英,https://hyf666.eu.org/huya/11342421
+虎牙-沈腾,https://hyf666.eu.org/huya/11601968
+虎牙-猫和老鼠,https://hyf666.eu.org/huya/11352879
+虎牙-成龙,https://hyf666.eu.org/huya/11342386
+虎牙-李连杰,https://hyf666.eu.org/huya/11342390
+虎牙-刘德华,https://hyf666.eu.org/huya/11342424
+虎牙-王晶,https://hyf666.eu.org/huya/11602058
+虎牙-中华小当家,https://hyf666.eu.org/huya/11342413
+虎牙-杰森·斯坦森,https://hyf666.eu.org/huya/21059588
+虎牙-喜剧专场,https://hyf666.eu.org/huya/11602044
+虎牙-甄子丹,https://hyf666.eu.org/huya/11352935
+虎牙-巨石强森,https://hyf666.eu.org/huya/21059581
+虎牙-洪金宝,https://hyf666.eu.org/huya/11279251
+虎牙-詹姆斯邦德,https://hyf666.eu.org/huya/21059585
+虎牙-徐克,https://hyf666.eu.org/huya/11352909
+虎牙-周润发,https://hyf666.eu.org/huya/11342387
+虎牙-徐峥,https://hyf666.eu.org/huya/11602043
+虎牙-许氏三杰,https://hyf666.eu.org/huya/11602033
+虎牙-黄渤,https://hyf666.eu.org/huya/11352876
+虎牙-张卫健,https://hyf666.eu.org/huya/11342423
+虎牙-冯小刚,https://hyf666.eu.org/huya/11352906
+虎牙-百鸟朝凤,https://hyf666.eu.org/huya/15894162
+虎牙-陈翔六点半,https://hyf666.eu.org/huya/11274154
+虎牙-电锯惊魂系列,https://hyf666.eu.org/huya/11352903
+虎牙-电影,https://hyf666.eu.org/huya/618917
+虎牙-港台电影,https://hyf666.eu.org/huya/880261
+虎牙-高分电影,https://hyf666.eu.org/huya/16615910
+虎牙-搞笑僵尸片,https://hyf666.eu.org/huya/11352963
+虎牙-国产青春,https://hyf666.eu.org/huya/11602075
+虎牙-好莱坞,https://hyf666.eu.org/huya/21059587
+虎牙-黑帮斗争,https://hyf666.eu.org/huya/11342419
+虎牙-红海行动,https://hyf666.eu.org/huya/11601986
+虎牙-金庸的武侠世界,https://hyf666.eu.org/huya/11342435
+虎牙-金庸,https://hyf666.eu.org/huya/11352897
+虎牙-经典高智商,https://hyf666.eu.org/huya/11352962
+虎牙-经典好片,https://hyf666.eu.org/huya/11342427
+虎牙-经典喜剧片,https://hyf666.eu.org/huya/11352894
+虎牙-精彩不断,https://hyf666.eu.org/huya/24396428
+虎牙-精忠岳飞南征北战,https://hyf666.eu.org/huya/11336578
+虎牙-警匪,https://hyf666.eu.org/huya/11352886
+虎牙-看救援电影,https://hyf666.eu.org/huya/21059586
+虎牙-科幻电影,https://hyf666.eu.org/huya/11602034
+虎牙-路飞,https://hyf666.eu.org/huya/16913382
+虎牙-麻雀,https://hyf666.eu.org/huya/11352881
+虎牙-命案十三宗,https://hyf666.eu.org/huya/11601981
+虎牙-魔法世界,https://hyf666.eu.org/huya/21059580
+虎牙-欧美电影,https://hyf666.eu.org/huya/11352880
+虎牙-欧美电影,https://hyf666.eu.org/huya/21059581
+虎牙-欧美娱乐,https://hyf666.eu.org/huya/21059574
+虎牙-倩女幽魂,https://hyf666.eu.org/huya/11601970
 女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-港台电影,https://hyf666.eu.org/huya/880261?cdn=HS
-黑帮斗争,https://hyf666.eu.org/huya/11342419?cdn=HS
-未知,https://hyf666.eu.org/huya/11601986?cdn=HS
-金庸电影,https://hyf666.eu.org/huya/11352897?cdn=HS
-经典电影,https://hyf666.eu.org/huya/11352962?cdn=HS
-经典好片,https://hyf666.eu.org/huya/11342427?cdn=HS
-经典喜剧片,https://hyf666.eu.org/huya/11352894?cdn=HS
-警匪,https://hyf666.eu.org/huya/11352886?cdn=HS
-救援电影,https://hyf666.eu.org/huya/21059586?cdn=HS
-科幻电影,https://hyf666.eu.org/huya/11602034?cdn=HS
-电影22,https://hyf666.eu.org/huya/11601981?cdn=HS
-欧美电影,https://hyf666.eu.org/huya/11352880?cdn=HS
-欧美电影,https://hyf666.eu.org/huya/21059581?cdn=HS
-电影23,https://hyf666.eu.org/huya/11601970?cdn=HS
-史诗级战争电影,https://hyf666.eu.org/huya/21059556?cdn=HS
-电影24,https://hyf666.eu.org/huya/21059579?cdn=HS
-电影55,https://hyf666.eu.org/huya/23652317?cdn=HS
-虎牙-喜剧专场,https://hyf666.eu.org/huya/11602044?cdn=HS
-电影26,https://hyf666.eu.org/huya/21059577?cdn=HS
-电影77,https://hyf666.eu.org/huya/11601971?cdn=HS
-电影78,https://hyf666.eu.org/huya/11342414?cdn=HS
-虎牙-神话,https://hyf666.eu.org/huya/11352913?cdn=HS
-虎牙-生活大爆炸,https://hyf666.eu.org/huya/11342417?cdn=HS
-虎牙-史诗级战争电影,https://hyf666.eu.org/huya/21059556?cdn=HS
-虎牙-孙悟空,https://hyf666.eu.org/huya/11342395?cdn=HS
-虎牙-太空混战,https://hyf666.eu.org/huya/21059579?cdn=HS
-虎牙-天雷滚滚,https://hyf666.eu.org/huya/11352945?cdn=HS
-虎牙-天龙八部,https://hyf666.eu.org/huya/11602041?cdn=HS
-虎牙-歪果仁动作,https://hyf666.eu.org/huya/21059552?cdn=HS
-虎牙-文成公主,https://hyf666.eu.org/huya/11352974?cdn=HS
-虎牙-我是大哥大,https://hyf666.eu.org/huya/23652317?cdn=HS
-虎牙-喜剧合家欢,https://hyf666.eu.org/huya/11352877?cdn=HS
-虎牙-喜剧专场,https://hyf666.eu.org/huya/11602044?cdn=HS
-虎牙-小鲤鱼,https://hyf666.eu.org/huya/11601961?cdn=HS
-虎牙-悬疑推理,https://hyf666.eu.org/huya/17445539?cdn=HS
-虎牙-杨门女将,https://hyf666.eu.org/huya/11336590?cdn=HS
-虎牙-医馆笑传,https://hyf666.eu.org/huya/11352891?cdn=HS
-虎牙-异形世界,https://hyf666.eu.org/huya/21059577?cdn=HS
-虎牙-甄嬛传,https://hyf666.eu.org/huya/11601971?cdn=HS
-虎牙-止戈电影,https://hyf666.eu.org/huya/19863777?cdn=HS
-虎牙-中国功夫,https://hyf666.eu.org/huya/11352941?cdn=HS
-虎牙-朱雀青龙,https://hyf666.eu.org/huya/11352905?cdn=HS
-虎牙-捉妖记,https://hyf666.eu.org/huya/11342414?cdn=HS
+港台电影,https://hyf666.eu.org/huya/880261
+黑帮斗争,https://hyf666.eu.org/huya/11342419
+未知,https://hyf666.eu.org/huya/11601986
+金庸电影,https://hyf666.eu.org/huya/11352897
+经典电影,https://hyf666.eu.org/huya/11352962
+经典好片,https://hyf666.eu.org/huya/11342427
+经典喜剧片,https://hyf666.eu.org/huya/11352894
+警匪,https://hyf666.eu.org/huya/11352886
+救援电影,https://hyf666.eu.org/huya/21059586
+科幻电影,https://hyf666.eu.org/huya/11602034
+电影22,https://hyf666.eu.org/huya/11601981
+欧美电影,https://hyf666.eu.org/huya/11352880
+欧美电影,https://hyf666.eu.org/huya/21059581
+电影23,https://hyf666.eu.org/huya/11601970
+史诗级战争电影,https://hyf666.eu.org/huya/21059556
+电影24,https://hyf666.eu.org/huya/21059579
+电影55,https://hyf666.eu.org/huya/23652317
+虎牙-喜剧专场,https://hyf666.eu.org/huya/11602044
+电影26,https://hyf666.eu.org/huya/21059577
+电影77,https://hyf666.eu.org/huya/11601971
+电影78,https://hyf666.eu.org/huya/11342414
+虎牙-神话,https://hyf666.eu.org/huya/11352913
+虎牙-生活大爆炸,https://hyf666.eu.org/huya/11342417
+虎牙-史诗级战争电影,https://hyf666.eu.org/huya/21059556
+虎牙-孙悟空,https://hyf666.eu.org/huya/11342395
+虎牙-太空混战,https://hyf666.eu.org/huya/21059579
+虎牙-天雷滚滚,https://hyf666.eu.org/huya/11352945
+虎牙-天龙八部,https://hyf666.eu.org/huya/11602041
+虎牙-歪果仁动作,https://hyf666.eu.org/huya/21059552
+虎牙-文成公主,https://hyf666.eu.org/huya/11352974
+虎牙-我是大哥大,https://hyf666.eu.org/huya/23652317
+虎牙-喜剧合家欢,https://hyf666.eu.org/huya/11352877
+虎牙-喜剧专场,https://hyf666.eu.org/huya/11602044
+虎牙-小鲤鱼,https://hyf666.eu.org/huya/11601961
+虎牙-悬疑推理,https://hyf666.eu.org/huya/17445539
+虎牙-杨门女将,https://hyf666.eu.org/huya/11336590
+虎牙-医馆笑传,https://hyf666.eu.org/huya/11352891
+虎牙-异形世界,https://hyf666.eu.org/huya/21059577
+虎牙-甄嬛传,https://hyf666.eu.org/huya/11601971
+虎牙-止戈电影,https://hyf666.eu.org/huya/19863777
+虎牙-中国功夫,https://hyf666.eu.org/huya/11352941
+虎牙-朱雀青龙,https://hyf666.eu.org/huya/11352905
+虎牙-捉妖记,https://hyf666.eu.org/huya/11342414
 
 
 
-虎牙-周星驰,https://hyf000.eu.org/live/huya.php?id=11342412&cdn=TX
-虎牙-林正英,https://hyf000.eu.org/live/huya.php?id=11342421&cdn=TX
-虎牙-沈腾,https://hyf000.eu.org/live/huya.php?id=11601968&cdn=TX
-虎牙-猫和老鼠,https://hyf000.eu.org/live/huya.php?id=11352879&cdn=TX
-虎牙-成龙,https://hyf000.eu.org/live/huya.php?id=11342386&cdn=TX
-虎牙-李连杰,https://hyf000.eu.org/live/huya.php?id=11342390&cdn=TX
-虎牙-刘德华,https://hyf000.eu.org/live/huya.php?id=11342424&cdn=TX
-虎牙-王晶,https://hyf000.eu.org/live/huya.php?id=11602058&cdn=TX
-虎牙-中华小当家,https://hyf000.eu.org/live/huya.php?id=11342413&cdn=TX
-虎牙-杰森·斯坦森,https://hyf000.eu.org/live/huya.php?id=21059588&cdn=TX
-虎牙-喜剧专场,https://hyf000.eu.org/live/huya.php?id=11602044&cdn=TX
-虎牙-甄子丹,https://hyf000.eu.org/live/huya.php?id=11352935&cdn=TX
-虎牙-巨石强森,https://hyf000.eu.org/live/huya.php?id=21059581&cdn=TX
-虎牙-洪金宝,https://hyf000.eu.org/live/huya.php?id=11279251&cdn=TX
-虎牙-詹姆斯邦德,https://hyf000.eu.org/live/huya.php?id=21059585&cdn=TX
-虎牙-徐克,https://hyf000.eu.org/live/huya.php?id=11352909&cdn=TX
-虎牙-周润发,https://hyf000.eu.org/live/huya.php?id=11342387&cdn=TX
-虎牙-徐峥,https://hyf000.eu.org/live/huya.php?id=11602043&cdn=TX
-虎牙-许氏三杰,https://hyf000.eu.org/live/huya.php?id=11602033&cdn=TX
-虎牙-黄渤,https://hyf000.eu.org/live/huya.php?id=11352876&cdn=TX
-虎牙-张卫健,https://hyf000.eu.org/live/huya.php?id=11342423&cdn=TX
-虎牙-冯小刚,https://hyf000.eu.org/live/huya.php?id=11352906&cdn=TX
-虎牙-百鸟朝凤,https://hyf000.eu.org/live/huya.php?id=15894162&cdn=TX
-虎牙-陈翔六点半,https://hyf000.eu.org/live/huya.php?id=11274154&cdn=TX
-虎牙-电锯惊魂系列,https://hyf000.eu.org/live/huya.php?id=11352903&cdn=TX
-虎牙-电影,https://hyf000.eu.org/live/huya.php?id=618917&cdn=TX
-虎牙-港台电影,https://hyf000.eu.org/live/huya.php?id=880261&cdn=TX
-虎牙-高分电影,https://hyf000.eu.org/live/huya.php?id=16615910&cdn=TX
-虎牙-搞笑僵尸片,https://hyf000.eu.org/live/huya.php?id=11352963&cdn=TX
-虎牙-国产青春,https://hyf000.eu.org/live/huya.php?id=11602075&cdn=TX
-虎牙-好莱坞,https://hyf000.eu.org/live/huya.php?id=21059587&cdn=TX
-虎牙-黑帮斗争,https://hyf000.eu.org/live/huya.php?id=11342419&cdn=TX
-虎牙-红海行动,https://hyf000.eu.org/live/huya.php?id=11601986&cdn=TX
-虎牙-金庸的武侠世界,https://hyf000.eu.org/live/huya.php?id=11342435&cdn=TX
-虎牙-金庸,https://hyf000.eu.org/live/huya.php?id=11352897&cdn=TX
-虎牙-经典高智商,https://hyf000.eu.org/live/huya.php?id=11352962&cdn=TX
-虎牙-经典好片,https://hyf000.eu.org/live/huya.php?id=11342427&cdn=TX
-虎牙-经典喜剧片,https://hyf000.eu.org/live/huya.php?id=11352894&cdn=TX
-虎牙-精彩不断,https://hyf000.eu.org/live/huya.php?id=24396428&cdn=TX
-虎牙-精忠岳飞南征北战,https://hyf000.eu.org/live/huya.php?id=11336578&cdn=TX
-虎牙-警匪,https://hyf000.eu.org/live/huya.php?id=11352886&cdn=TX
-虎牙-看救援电影,https://hyf000.eu.org/live/huya.php?id=21059586&cdn=TX
-虎牙-科幻电影,https://hyf000.eu.org/live/huya.php?id=11602034&cdn=TX
-虎牙-路飞,https://hyf000.eu.org/live/huya.php?id=16913382&cdn=TX
-虎牙-麻雀,https://hyf000.eu.org/live/huya.php?id=11352881&cdn=TX
-虎牙-命案十三宗,https://hyf000.eu.org/live/huya.php?id=11601981&cdn=TX
-虎牙-魔法世界,https://hyf000.eu.org/live/huya.php?id=21059580&cdn=TX
-虎牙-欧美电影,https://hyf000.eu.org/live/huya.php?id=11352880&cdn=TX
-虎牙-欧美电影,https://hyf000.eu.org/live/huya.php?id=21059581&cdn=TX
-虎牙-欧美娱乐,https://hyf000.eu.org/live/huya.php?id=21059574&cdn=TX
-虎牙-倩女幽魂,https://hyf000.eu.org/live/huya.php?id=11601970&cdn=TX
+虎牙-周星驰,https://hyf000.eu.org/live/huya.php?id=11342412
+虎牙-林正英,https://hyf000.eu.org/live/huya.php?id=11342421
+虎牙-沈腾,https://hyf000.eu.org/live/huya.php?id=11601968
+虎牙-猫和老鼠,https://hyf000.eu.org/live/huya.php?id=11352879
+虎牙-成龙,https://hyf000.eu.org/live/huya.php?id=11342386
+虎牙-李连杰,https://hyf000.eu.org/live/huya.php?id=11342390
+虎牙-刘德华,https://hyf000.eu.org/live/huya.php?id=11342424
+虎牙-王晶,https://hyf000.eu.org/live/huya.php?id=11602058
+虎牙-中华小当家,https://hyf000.eu.org/live/huya.php?id=11342413
+虎牙-杰森·斯坦森,https://hyf000.eu.org/live/huya.php?id=21059588
+虎牙-喜剧专场,https://hyf000.eu.org/live/huya.php?id=11602044
+虎牙-甄子丹,https://hyf000.eu.org/live/huya.php?id=11352935
+虎牙-巨石强森,https://hyf000.eu.org/live/huya.php?id=21059581
+虎牙-洪金宝,https://hyf000.eu.org/live/huya.php?id=11279251
+虎牙-詹姆斯邦德,https://hyf000.eu.org/live/huya.php?id=21059585
+虎牙-徐克,https://hyf000.eu.org/live/huya.php?id=11352909
+虎牙-周润发,https://hyf000.eu.org/live/huya.php?id=11342387
+虎牙-徐峥,https://hyf000.eu.org/live/huya.php?id=11602043
+虎牙-许氏三杰,https://hyf000.eu.org/live/huya.php?id=11602033
+虎牙-黄渤,https://hyf000.eu.org/live/huya.php?id=11352876
+虎牙-张卫健,https://hyf000.eu.org/live/huya.php?id=11342423
+虎牙-冯小刚,https://hyf000.eu.org/live/huya.php?id=11352906
+虎牙-百鸟朝凤,https://hyf000.eu.org/live/huya.php?id=15894162
+虎牙-陈翔六点半,https://hyf000.eu.org/live/huya.php?id=11274154
+虎牙-电锯惊魂系列,https://hyf000.eu.org/live/huya.php?id=11352903
+虎牙-电影,https://hyf000.eu.org/live/huya.php?id=618917
+虎牙-港台电影,https://hyf000.eu.org/live/huya.php?id=880261
+虎牙-高分电影,https://hyf000.eu.org/live/huya.php?id=16615910
+虎牙-搞笑僵尸片,https://hyf000.eu.org/live/huya.php?id=11352963
+虎牙-国产青春,https://hyf000.eu.org/live/huya.php?id=11602075
+虎牙-好莱坞,https://hyf000.eu.org/live/huya.php?id=21059587
+虎牙-黑帮斗争,https://hyf000.eu.org/live/huya.php?id=11342419
+虎牙-红海行动,https://hyf000.eu.org/live/huya.php?id=11601986
+虎牙-金庸的武侠世界,https://hyf000.eu.org/live/huya.php?id=11342435
+虎牙-金庸,https://hyf000.eu.org/live/huya.php?id=11352897
+虎牙-经典高智商,https://hyf000.eu.org/live/huya.php?id=11352962
+虎牙-经典好片,https://hyf000.eu.org/live/huya.php?id=11342427
+虎牙-经典喜剧片,https://hyf000.eu.org/live/huya.php?id=11352894
+虎牙-精彩不断,https://hyf000.eu.org/live/huya.php?id=24396428
+虎牙-精忠岳飞南征北战,https://hyf000.eu.org/live/huya.php?id=11336578
+虎牙-警匪,https://hyf000.eu.org/live/huya.php?id=11352886
+虎牙-看救援电影,https://hyf000.eu.org/live/huya.php?id=21059586
+虎牙-科幻电影,https://hyf000.eu.org/live/huya.php?id=11602034
+虎牙-路飞,https://hyf000.eu.org/live/huya.php?id=16913382
+虎牙-麻雀,https://hyf000.eu.org/live/huya.php?id=11352881
+虎牙-命案十三宗,https://hyf000.eu.org/live/huya.php?id=11601981
+虎牙-魔法世界,https://hyf000.eu.org/live/huya.php?id=21059580
+虎牙-欧美电影,https://hyf000.eu.org/live/huya.php?id=11352880
+虎牙-欧美电影,https://hyf000.eu.org/live/huya.php?id=21059581
+虎牙-欧美娱乐,https://hyf000.eu.org/live/huya.php?id=21059574
+虎牙-倩女幽魂,https://hyf000.eu.org/live/huya.php?id=11601970
 女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-港台电影,https://hyf000.eu.org/live/huya.php?id=880261&cdn=TX
-黑帮斗争,https://hyf000.eu.org/live/huya.php?id=11342419&cdn=TX
-未知,https://hyf000.eu.org/live/huya.php?id=11601986&cdn=TX
-金庸电影,https://hyf000.eu.org/live/huya.php?id=11352897&cdn=TX
-经典电影,https://hyf000.eu.org/live/huya.php?id=11352962&cdn=TX
-经典好片,https://hyf000.eu.org/live/huya.php?id=11342427&cdn=TX
-经典喜剧片,https://hyf000.eu.org/live/huya.php?id=11352894&cdn=TX
-警匪,https://hyf000.eu.org/live/huya.php?id=11352886&cdn=TX
-救援电影,https://hyf000.eu.org/live/huya.php?id=21059586&cdn=TX
-科幻电影,https://hyf000.eu.org/live/huya.php?id=11602034&cdn=TX
-电影22,https://hyf000.eu.org/live/huya.php?id=11601981&cdn=TX
-欧美电影,https://hyf000.eu.org/live/huya.php?id=11352880&cdn=TX
-欧美电影,https://hyf000.eu.org/live/huya.php?id=21059581&cdn=TX
-电影23,https://hyf000.eu.org/live/huya.php?id=11601970&cdn=TX
-史诗级战争电影,https://hyf000.eu.org/live/huya.php?id=21059556&cdn=TX
-电影24,https://hyf000.eu.org/live/huya.php?id=21059579&cdn=TX
-电影55,https://hyf000.eu.org/live/huya.php?id=23652317&cdn=TX
-虎牙-喜剧专场,https://hyf000.eu.org/live/huya.php?id=11602044&cdn=TX
-电影26,https://hyf000.eu.org/live/huya.php?id=21059577&cdn=TX
-电影77,https://hyf000.eu.org/live/huya.php?id=11601971&cdn=TX
-电影78,https://hyf000.eu.org/live/huya.php?id=11342414&cdn=TX
-虎牙-神话,https://hyf000.eu.org/live/huya.php?id=11352913&cdn=TX
-虎牙-生活大爆炸,https://hyf000.eu.org/live/huya.php?id=11342417&cdn=TX
-虎牙-史诗级战争电影,https://hyf000.eu.org/live/huya.php?id=21059556&cdn=TX
-虎牙-孙悟空,https://hyf000.eu.org/live/huya.php?id=11342395&cdn=TX
-虎牙-太空混战,https://hyf000.eu.org/live/huya.php?id=21059579&cdn=TX
-虎牙-天雷滚滚,https://hyf000.eu.org/live/huya.php?id=11352945&cdn=TX
-虎牙-天龙八部,https://hyf000.eu.org/live/huya.php?id=11602041&cdn=TX
-虎牙-歪果仁动作,https://hyf000.eu.org/live/huya.php?id=21059552&cdn=TX
-虎牙-文成公主,https://hyf000.eu.org/live/huya.php?id=11352974&cdn=TX
-虎牙-我是大哥大,https://hyf000.eu.org/live/huya.php?id=23652317&cdn=TX
-虎牙-喜剧合家欢,https://hyf000.eu.org/live/huya.php?id=11352877&cdn=TX
-虎牙-喜剧专场,https://hyf000.eu.org/live/huya.php?id=11602044&cdn=TX
-虎牙-小鲤鱼,https://hyf000.eu.org/live/huya.php?id=11601961&cdn=TX
-虎牙-悬疑推理,https://hyf000.eu.org/live/huya.php?id=17445539&cdn=TX
-虎牙-杨门女将,https://hyf000.eu.org/live/huya.php?id=11336590&cdn=TX
-虎牙-医馆笑传,https://hyf000.eu.org/live/huya.php?id=11352891&cdn=TX
-虎牙-异形世界,https://hyf000.eu.org/live/huya.php?id=21059577&cdn=TX
-虎牙-甄嬛传,https://hyf000.eu.org/live/huya.php?id=11601971&cdn=TX
-虎牙-止戈电影,https://hyf000.eu.org/live/huya.php?id=19863777&cdn=TX
-虎牙-中国功夫,https://hyf000.eu.org/live/huya.php?id=11352941&cdn=TX
-虎牙-朱雀青龙,https://hyf000.eu.org/live/huya.php?id=11352905&cdn=TX
-虎牙-捉妖记,https://hyf000.eu.org/live/huya.php?id=11342414&cdn=TX
+港台电影,https://hyf000.eu.org/live/huya.php?id=880261
+黑帮斗争,https://hyf000.eu.org/live/huya.php?id=11342419
+未知,https://hyf000.eu.org/live/huya.php?id=11601986
+金庸电影,https://hyf000.eu.org/live/huya.php?id=11352897
+经典电影,https://hyf000.eu.org/live/huya.php?id=11352962
+经典好片,https://hyf000.eu.org/live/huya.php?id=11342427
+经典喜剧片,https://hyf000.eu.org/live/huya.php?id=11352894
+警匪,https://hyf000.eu.org/live/huya.php?id=11352886
+救援电影,https://hyf000.eu.org/live/huya.php?id=21059586
+科幻电影,https://hyf000.eu.org/live/huya.php?id=11602034
+电影22,https://hyf000.eu.org/live/huya.php?id=11601981
+欧美电影,https://hyf000.eu.org/live/huya.php?id=11352880
+欧美电影,https://hyf000.eu.org/live/huya.php?id=21059581
+电影23,https://hyf000.eu.org/live/huya.php?id=11601970
+史诗级战争电影,https://hyf000.eu.org/live/huya.php?id=21059556
+电影24,https://hyf000.eu.org/live/huya.php?id=21059579
+电影55,https://hyf000.eu.org/live/huya.php?id=23652317
+虎牙-喜剧专场,https://hyf000.eu.org/live/huya.php?id=11602044
+电影26,https://hyf000.eu.org/live/huya.php?id=21059577
+电影77,https://hyf000.eu.org/live/huya.php?id=11601971
+电影78,https://hyf000.eu.org/live/huya.php?id=11342414
+虎牙-神话,https://hyf000.eu.org/live/huya.php?id=11352913
+虎牙-生活大爆炸,https://hyf000.eu.org/live/huya.php?id=11342417
+虎牙-史诗级战争电影,https://hyf000.eu.org/live/huya.php?id=21059556
+虎牙-孙悟空,https://hyf000.eu.org/live/huya.php?id=11342395
+虎牙-太空混战,https://hyf000.eu.org/live/huya.php?id=21059579
+虎牙-天雷滚滚,https://hyf000.eu.org/live/huya.php?id=11352945
+虎牙-天龙八部,https://hyf000.eu.org/live/huya.php?id=11602041
+虎牙-歪果仁动作,https://hyf000.eu.org/live/huya.php?id=21059552
+虎牙-文成公主,https://hyf000.eu.org/live/huya.php?id=11352974
+虎牙-我是大哥大,https://hyf000.eu.org/live/huya.php?id=23652317
+虎牙-喜剧合家欢,https://hyf000.eu.org/live/huya.php?id=11352877
+虎牙-喜剧专场,https://hyf000.eu.org/live/huya.php?id=11602044
+虎牙-小鲤鱼,https://hyf000.eu.org/live/huya.php?id=11601961
+虎牙-悬疑推理,https://hyf000.eu.org/live/huya.php?id=17445539
+虎牙-杨门女将,https://hyf000.eu.org/live/huya.php?id=11336590
+虎牙-医馆笑传,https://hyf000.eu.org/live/huya.php?id=11352891
+虎牙-异形世界,https://hyf000.eu.org/live/huya.php?id=21059577
+虎牙-甄嬛传,https://hyf000.eu.org/live/huya.php?id=11601971
+虎牙-止戈电影,https://hyf000.eu.org/live/huya.php?id=19863777
+虎牙-中国功夫,https://hyf000.eu.org/live/huya.php?id=11352941
+虎牙-朱雀青龙,https://hyf000.eu.org/live/huya.php?id=11352905
+虎牙-捉妖记,https://hyf000.eu.org/live/huya.php?id=11342414
 
 //======================================================
 
@@ -6604,68 +6604,68 @@ YY|最新-军旅-动作片-超清,http://43.138.170.29:35455/yy/1353990728
 
 
 😆埋堆堆😆,#genre#
-埋堆堆1,https://www.goodiptv.club/huya/23749096?cdn=HS
-埋堆堆2,https://www.goodiptv.club/huya/23735126?cdn=HS
-埋堆堆3,https://www.goodiptv.club/huya/23865152?cdn=HS
-埋堆堆4,https://www.goodiptv.club/huya/23903196?cdn=HS
-埋堆堆5,https://www.goodiptv.club/huya/23740156?cdn=HS
-埋堆堆6,https://www.goodiptv.club/huya/23728660?cdn=HS
-埋堆堆7,https://www.goodiptv.club/huya/23735153?cdn=HS
-埋堆堆8,https://www.goodiptv.club/huya/23865058?cdn=HS
-埋堆堆9,https://www.goodiptv.club/huya/23734183?cdn=HS
-埋堆堆10,https://www.goodiptv.club/huya/23749068?cdn=HS
-埋堆堆11,https://www.goodiptv.club/huya/23865036?cdn=HS
-埋堆堆12,https://www.goodiptv.club/huya/23740162?cdn=HS
-埋堆堆13,https://www.goodiptv.club/huya/23829474?cdn=HS
-埋堆堆14,https://www.goodiptv.club/huya/23863833?cdn=HS
-埋堆堆15,https://www.goodiptv.club/huya/23903106?cdn=HS
-埋堆堆16,https://www.goodiptv.club/huya/23865025?cdn=HS
-埋堆堆17,https://www.goodiptv.club/huya/23728689?cdn=HS
-埋堆堆18,https://www.goodiptv.club/huya/23824171?cdn=HS
-埋堆堆19,https://www.goodiptv.club/huya/23860057?cdn=HS
-埋堆堆20,https://www.goodiptv.club/huya/23865072?cdn=HS
-埋堆堆21,https://www.goodiptv.club/huya/23734176?cdn=HS
-埋堆堆22,https://www.goodiptv.club/huya/23728651?cdn=HS
-埋堆堆23,https://www.goodiptv.club/huya/23734246?cdn=HS
-埋堆堆24,https://www.goodiptv.club/huya/23865179?cdn=HS
-埋堆堆25,https://www.goodiptv.club/huya/23734196?cdn=HS
-埋堆堆26,https://www.goodiptv.club/huya/23734211?cdn=HS
-埋堆堆27,https://www.goodiptv.club/huya/23865086?cdn=HS
-埋堆堆28,https://www.goodiptv.club/huya/23863796?cdn=HS
-埋堆堆29,https://www.goodiptv.club/huya/23863822?cdn=HS
-埋堆堆30,https://www.goodiptv.club/huya/23749083?cdn=HS
-埋堆堆31,https://www.goodiptv.club/huya/23734243?cdn=HS
-埋堆堆32,https://www.goodiptv.club/huya/23864480?cdn=HS
-埋堆堆33,https://www.goodiptv.club/huya/23746486?cdn=HS
-埋堆堆34,https://www.goodiptv.club/huya/23860049?cdn=HS
-埋堆堆35,https://www.goodiptv.club/huya/23749074?cdn=HS
-埋堆堆36,https://www.goodiptv.club/huya/23863882?cdn=HS
-埋堆堆37,https://www.goodiptv.club/huya/23863778?cdn=HS
-埋堆堆38,https://www.goodiptv.club/huya/23824164?cdn=HS
-埋堆堆39,https://www.goodiptv.club/huya/23829537?cdn=HS
-埋堆堆40,https://www.goodiptv.club/huya/23863809?cdn=HS
-埋堆堆41,https://www.goodiptv.club/huya/23865096?cdn=HS
-埋堆堆42,https://www.goodiptv.club/huya/23863804?cdn=HS
-埋堆堆43,https://www.goodiptv.club/huya/23728630?cdn=HS
-埋堆堆44,https://www.goodiptv.club/huya/23863895?cdn=HS
-埋堆堆45,https://www.goodiptv.club/huya/23863787?cdn=HS
-埋堆堆46,https://www.goodiptv.club/huya/23728637?cdn=HS
-埋堆堆47,https://www.goodiptv.club/huya/23865142?cdn=HS
-埋堆堆48,https://www.goodiptv.club/huya/23903085?cdn=HS
-埋堆堆49,https://www.goodiptv.club/huya/23903183?cdn=HS
-埋堆堆50,https://www.goodiptv.club/huya/23728647?cdn=HS
-埋堆堆51,https://www.goodiptv.club/huya/23746691?cdn=HS
-埋堆堆52,https://www.goodiptv.club/huya/23829447?cdn=HS
-埋堆堆53,https://www.goodiptv.club/huya/23728693?cdn=HS
-埋堆堆54,https://www.goodiptv.club/huya/23903130?cdn=HS
-埋堆堆55,https://www.goodiptv.club/huya/23734223?cdn=HS
-埋堆堆56,https://www.goodiptv.club/huya/23734169?cdn=HS
-埋堆堆57,https://www.goodiptv.club/huya/23865124?cdn=HS
-埋堆堆58,https://www.goodiptv.club/huya/23865186?cdn=HS
-埋堆堆59,https://www.goodiptv.club/huya/23902225?cdn=HS
-埋堆堆60,https://www.goodiptv.club/huya/23903164?cdn=HS
-埋堆堆61,https://www.goodiptv.club/huya/23728674?cdn=HS
-埋堆堆62,https://www.goodiptv.club/huya/23863818?cdn=HS
+埋堆堆1,https://www.goodiptv.club/huya/23749096
+埋堆堆2,https://www.goodiptv.club/huya/23735126
+埋堆堆3,https://www.goodiptv.club/huya/23865152
+埋堆堆4,https://www.goodiptv.club/huya/23903196
+埋堆堆5,https://www.goodiptv.club/huya/23740156
+埋堆堆6,https://www.goodiptv.club/huya/23728660
+埋堆堆7,https://www.goodiptv.club/huya/23735153
+埋堆堆8,https://www.goodiptv.club/huya/23865058
+埋堆堆9,https://www.goodiptv.club/huya/23734183
+埋堆堆10,https://www.goodiptv.club/huya/23749068
+埋堆堆11,https://www.goodiptv.club/huya/23865036
+埋堆堆12,https://www.goodiptv.club/huya/23740162
+埋堆堆13,https://www.goodiptv.club/huya/23829474
+埋堆堆14,https://www.goodiptv.club/huya/23863833
+埋堆堆15,https://www.goodiptv.club/huya/23903106
+埋堆堆16,https://www.goodiptv.club/huya/23865025
+埋堆堆17,https://www.goodiptv.club/huya/23728689
+埋堆堆18,https://www.goodiptv.club/huya/23824171
+埋堆堆19,https://www.goodiptv.club/huya/23860057
+埋堆堆20,https://www.goodiptv.club/huya/23865072
+埋堆堆21,https://www.goodiptv.club/huya/23734176
+埋堆堆22,https://www.goodiptv.club/huya/23728651
+埋堆堆23,https://www.goodiptv.club/huya/23734246
+埋堆堆24,https://www.goodiptv.club/huya/23865179
+埋堆堆25,https://www.goodiptv.club/huya/23734196
+埋堆堆26,https://www.goodiptv.club/huya/23734211
+埋堆堆27,https://www.goodiptv.club/huya/23865086
+埋堆堆28,https://www.goodiptv.club/huya/23863796
+埋堆堆29,https://www.goodiptv.club/huya/23863822
+埋堆堆30,https://www.goodiptv.club/huya/23749083
+埋堆堆31,https://www.goodiptv.club/huya/23734243
+埋堆堆32,https://www.goodiptv.club/huya/23864480
+埋堆堆33,https://www.goodiptv.club/huya/23746486
+埋堆堆34,https://www.goodiptv.club/huya/23860049
+埋堆堆35,https://www.goodiptv.club/huya/23749074
+埋堆堆36,https://www.goodiptv.club/huya/23863882
+埋堆堆37,https://www.goodiptv.club/huya/23863778
+埋堆堆38,https://www.goodiptv.club/huya/23824164
+埋堆堆39,https://www.goodiptv.club/huya/23829537
+埋堆堆40,https://www.goodiptv.club/huya/23863809
+埋堆堆41,https://www.goodiptv.club/huya/23865096
+埋堆堆42,https://www.goodiptv.club/huya/23863804
+埋堆堆43,https://www.goodiptv.club/huya/23728630
+埋堆堆44,https://www.goodiptv.club/huya/23863895
+埋堆堆45,https://www.goodiptv.club/huya/23863787
+埋堆堆46,https://www.goodiptv.club/huya/23728637
+埋堆堆47,https://www.goodiptv.club/huya/23865142
+埋堆堆48,https://www.goodiptv.club/huya/23903085
+埋堆堆49,https://www.goodiptv.club/huya/23903183
+埋堆堆50,https://www.goodiptv.club/huya/23728647
+埋堆堆51,https://www.goodiptv.club/huya/23746691
+埋堆堆52,https://www.goodiptv.club/huya/23829447
+埋堆堆53,https://www.goodiptv.club/huya/23728693
+埋堆堆54,https://www.goodiptv.club/huya/23903130
+埋堆堆55,https://www.goodiptv.club/huya/23734223
+埋堆堆56,https://www.goodiptv.club/huya/23734169
+埋堆堆57,https://www.goodiptv.club/huya/23865124
+埋堆堆58,https://www.goodiptv.club/huya/23865186
+埋堆堆59,https://www.goodiptv.club/huya/23902225
+埋堆堆60,https://www.goodiptv.club/huya/23903164
+埋堆堆61,https://www.goodiptv.club/huya/23728674
+埋堆堆62,https://www.goodiptv.club/huya/23863818
 
 埋堆堆1,https://hyf666.eu.org/huya/23749096?cdn=HW
 埋堆堆2,https://hyf666.eu.org/huya/23735126?cdn=HW
@@ -6730,68 +6730,68 @@ YY|最新-军旅-动作片-超清,http://43.138.170.29:35455/yy/1353990728
 埋堆堆61,https://hyf666.eu.org/huya/23728674?cdn=HW
 埋堆堆62,https://hyf666.eu.org/huya/23863818?cdn=HW
 
-埋堆堆1,https://hyf000.eu.org/live/huya.php?id=23749096&cdn=TX
-埋堆堆2,https://hyf000.eu.org/live/huya.php?id=23735126&cdn=TX
-埋堆堆3,https://hyf000.eu.org/live/huya.php?id=23865152&cdn=TX
-埋堆堆4,https://hyf000.eu.org/live/huya.php?id=23903196&cdn=TX
-埋堆堆5,https://hyf000.eu.org/live/huya.php?id=23740156&cdn=TX
-埋堆堆6,https://hyf000.eu.org/live/huya.php?id=23728660&cdn=TX
-埋堆堆7,https://hyf000.eu.org/live/huya.php?id=23735153&cdn=TX
-埋堆堆8,https://hyf000.eu.org/live/huya.php?id=23865058&cdn=TX
-埋堆堆9,https://hyf000.eu.org/live/huya.php?id=23734183&cdn=TX
-埋堆堆10,https://hyf000.eu.org/live/huya.php?id=23749068&cdn=TX
-埋堆堆11,https://hyf000.eu.org/live/huya.php?id=23865036&cdn=TX
-埋堆堆12,https://hyf000.eu.org/live/huya.php?id=23740162&cdn=TX
-埋堆堆13,https://hyf000.eu.org/live/huya.php?id=23829474&cdn=TX
-埋堆堆14,https://hyf000.eu.org/live/huya.php?id=23863833&cdn=TX
-埋堆堆15,https://hyf000.eu.org/live/huya.php?id=23903106&cdn=TX
-埋堆堆16,https://hyf000.eu.org/live/huya.php?id=23865025&cdn=TX
-埋堆堆17,https://hyf000.eu.org/live/huya.php?id=23728689&cdn=TX
-埋堆堆18,https://hyf000.eu.org/live/huya.php?id=23824171&cdn=TX
-埋堆堆19,https://hyf000.eu.org/live/huya.php?id=23860057&cdn=TX
-埋堆堆20,https://hyf000.eu.org/live/huya.php?id=23865072&cdn=TX
-埋堆堆21,https://hyf000.eu.org/live/huya.php?id=23734176&cdn=TX
-埋堆堆22,https://hyf000.eu.org/live/huya.php?id=23728651&cdn=TX
-埋堆堆23,https://hyf000.eu.org/live/huya.php?id=23734246&cdn=TX
-埋堆堆24,https://hyf000.eu.org/live/huya.php?id=23865179&cdn=TX
-埋堆堆25,https://hyf000.eu.org/live/huya.php?id=23734196&cdn=TX
-埋堆堆26,https://hyf000.eu.org/live/huya.php?id=23734211&cdn=TX
-埋堆堆27,https://hyf000.eu.org/live/huya.php?id=23865086&cdn=TX
-埋堆堆28,https://hyf000.eu.org/live/huya.php?id=23863796&cdn=TX
-埋堆堆29,https://hyf000.eu.org/live/huya.php?id=23863822&cdn=TX
-埋堆堆30,https://hyf000.eu.org/live/huya.php?id=23749083&cdn=TX
-埋堆堆31,https://hyf000.eu.org/live/huya.php?id=23734243&cdn=TX
-埋堆堆32,https://hyf000.eu.org/live/huya.php?id=23864480&cdn=TX
-埋堆堆33,https://hyf000.eu.org/live/huya.php?id=23746486&cdn=TX
-埋堆堆34,https://hyf000.eu.org/live/huya.php?id=23860049&cdn=TX
-埋堆堆35,https://hyf000.eu.org/live/huya.php?id=23749074&cdn=TX
-埋堆堆36,https://hyf000.eu.org/live/huya.php?id=23863882&cdn=TX
-埋堆堆37,https://hyf000.eu.org/live/huya.php?id=23863778&cdn=TX
-埋堆堆38,https://hyf000.eu.org/live/huya.php?id=23824164&cdn=TX
-埋堆堆39,https://hyf000.eu.org/live/huya.php?id=23829537&cdn=TX
-埋堆堆40,https://hyf000.eu.org/live/huya.php?id=23863809&cdn=TX
-埋堆堆41,https://hyf000.eu.org/live/huya.php?id=23865096&cdn=TX
-埋堆堆42,https://hyf000.eu.org/live/huya.php?id=23863804&cdn=TX
-埋堆堆43,https://hyf000.eu.org/live/huya.php?id=23728630&cdn=TX
-埋堆堆44,https://hyf000.eu.org/live/huya.php?id=23863895&cdn=TX
-埋堆堆45,https://hyf000.eu.org/live/huya.php?id=23863787&cdn=TX
-埋堆堆46,https://hyf000.eu.org/live/huya.php?id=23728637&cdn=TX
-埋堆堆47,https://hyf000.eu.org/live/huya.php?id=23865142&cdn=TX
-埋堆堆48,https://hyf000.eu.org/live/huya.php?id=23903085&cdn=TX
-埋堆堆49,https://hyf000.eu.org/live/huya.php?id=23903183&cdn=TX
-埋堆堆50,https://hyf000.eu.org/live/huya.php?id=23728647&cdn=TX
-埋堆堆51,https://hyf000.eu.org/live/huya.php?id=23746691&cdn=TX
-埋堆堆52,https://hyf000.eu.org/live/huya.php?id=23829447&cdn=TX
-埋堆堆53,https://hyf000.eu.org/live/huya.php?id=23728693&cdn=TX
-埋堆堆54,https://hyf000.eu.org/live/huya.php?id=23903130&cdn=TX
-埋堆堆55,https://hyf000.eu.org/live/huya.php?id=23734223&cdn=TX
-埋堆堆56,https://hyf000.eu.org/live/huya.php?id=23734169&cdn=TX
-埋堆堆57,https://hyf000.eu.org/live/huya.php?id=23865124&cdn=TX
-埋堆堆58,https://hyf000.eu.org/live/huya.php?id=23865186&cdn=TX
-埋堆堆59,https://hyf000.eu.org/live/huya.php?id=23902225&cdn=TX
-埋堆堆60,https://hyf000.eu.org/live/huya.php?id=23903164&cdn=TX
-埋堆堆61,https://hyf000.eu.org/live/huya.php?id=23728674&cdn=TX
-埋堆堆62,https://hyf000.eu.org/live/huya.php?id=23863818&cdn=TX
+埋堆堆1,https://hyf000.eu.org/live/huya.php?id=23749096
+埋堆堆2,https://hyf000.eu.org/live/huya.php?id=23735126
+埋堆堆3,https://hyf000.eu.org/live/huya.php?id=23865152
+埋堆堆4,https://hyf000.eu.org/live/huya.php?id=23903196
+埋堆堆5,https://hyf000.eu.org/live/huya.php?id=23740156
+埋堆堆6,https://hyf000.eu.org/live/huya.php?id=23728660
+埋堆堆7,https://hyf000.eu.org/live/huya.php?id=23735153
+埋堆堆8,https://hyf000.eu.org/live/huya.php?id=23865058
+埋堆堆9,https://hyf000.eu.org/live/huya.php?id=23734183
+埋堆堆10,https://hyf000.eu.org/live/huya.php?id=23749068
+埋堆堆11,https://hyf000.eu.org/live/huya.php?id=23865036
+埋堆堆12,https://hyf000.eu.org/live/huya.php?id=23740162
+埋堆堆13,https://hyf000.eu.org/live/huya.php?id=23829474
+埋堆堆14,https://hyf000.eu.org/live/huya.php?id=23863833
+埋堆堆15,https://hyf000.eu.org/live/huya.php?id=23903106
+埋堆堆16,https://hyf000.eu.org/live/huya.php?id=23865025
+埋堆堆17,https://hyf000.eu.org/live/huya.php?id=23728689
+埋堆堆18,https://hyf000.eu.org/live/huya.php?id=23824171
+埋堆堆19,https://hyf000.eu.org/live/huya.php?id=23860057
+埋堆堆20,https://hyf000.eu.org/live/huya.php?id=23865072
+埋堆堆21,https://hyf000.eu.org/live/huya.php?id=23734176
+埋堆堆22,https://hyf000.eu.org/live/huya.php?id=23728651
+埋堆堆23,https://hyf000.eu.org/live/huya.php?id=23734246
+埋堆堆24,https://hyf000.eu.org/live/huya.php?id=23865179
+埋堆堆25,https://hyf000.eu.org/live/huya.php?id=23734196
+埋堆堆26,https://hyf000.eu.org/live/huya.php?id=23734211
+埋堆堆27,https://hyf000.eu.org/live/huya.php?id=23865086
+埋堆堆28,https://hyf000.eu.org/live/huya.php?id=23863796
+埋堆堆29,https://hyf000.eu.org/live/huya.php?id=23863822
+埋堆堆30,https://hyf000.eu.org/live/huya.php?id=23749083
+埋堆堆31,https://hyf000.eu.org/live/huya.php?id=23734243
+埋堆堆32,https://hyf000.eu.org/live/huya.php?id=23864480
+埋堆堆33,https://hyf000.eu.org/live/huya.php?id=23746486
+埋堆堆34,https://hyf000.eu.org/live/huya.php?id=23860049
+埋堆堆35,https://hyf000.eu.org/live/huya.php?id=23749074
+埋堆堆36,https://hyf000.eu.org/live/huya.php?id=23863882
+埋堆堆37,https://hyf000.eu.org/live/huya.php?id=23863778
+埋堆堆38,https://hyf000.eu.org/live/huya.php?id=23824164
+埋堆堆39,https://hyf000.eu.org/live/huya.php?id=23829537
+埋堆堆40,https://hyf000.eu.org/live/huya.php?id=23863809
+埋堆堆41,https://hyf000.eu.org/live/huya.php?id=23865096
+埋堆堆42,https://hyf000.eu.org/live/huya.php?id=23863804
+埋堆堆43,https://hyf000.eu.org/live/huya.php?id=23728630
+埋堆堆44,https://hyf000.eu.org/live/huya.php?id=23863895
+埋堆堆45,https://hyf000.eu.org/live/huya.php?id=23863787
+埋堆堆46,https://hyf000.eu.org/live/huya.php?id=23728637
+埋堆堆47,https://hyf000.eu.org/live/huya.php?id=23865142
+埋堆堆48,https://hyf000.eu.org/live/huya.php?id=23903085
+埋堆堆49,https://hyf000.eu.org/live/huya.php?id=23903183
+埋堆堆50,https://hyf000.eu.org/live/huya.php?id=23728647
+埋堆堆51,https://hyf000.eu.org/live/huya.php?id=23746691
+埋堆堆52,https://hyf000.eu.org/live/huya.php?id=23829447
+埋堆堆53,https://hyf000.eu.org/live/huya.php?id=23728693
+埋堆堆54,https://hyf000.eu.org/live/huya.php?id=23903130
+埋堆堆55,https://hyf000.eu.org/live/huya.php?id=23734223
+埋堆堆56,https://hyf000.eu.org/live/huya.php?id=23734169
+埋堆堆57,https://hyf000.eu.org/live/huya.php?id=23865124
+埋堆堆58,https://hyf000.eu.org/live/huya.php?id=23865186
+埋堆堆59,https://hyf000.eu.org/live/huya.php?id=23902225
+埋堆堆60,https://hyf000.eu.org/live/huya.php?id=23903164
+埋堆堆61,https://hyf000.eu.org/live/huya.php?id=23728674
+埋堆堆62,https://hyf000.eu.org/live/huya.php?id=23863818
 
 埋堆堆1,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
 埋堆堆2,http://43.128.40.42:198/虎牙直播/huya.php?id=23735126
