@@ -12918,6 +12918,22 @@ KICCTV,https://webstreaming.viewmedia.tv/web_020/Stream/playlist.m3u8
 🇷🇺电影20,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/14226/index.m3u8
 🇷🇺电影21,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/14227/index.m3u8
 ㊙测试㊙_0000,#genre#
+彩虹e,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
+彩虹电影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
+K频道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
+Look TV,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
+惊艳电影,p2p://54.39.16.152:9906/6260e2b000004933172c99712568d815
+潘朵啦粉红,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
+潘朵啦玩美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
+松视1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
+松视2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
+松视3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
+Hot,p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
+Happy,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
+彩虹e,p2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
+彩虹电影,p2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
+K频道,p2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
+Look TV,p2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 随机电影,http://aiyun.work.gd/sjdy.php
 刘公子随机,http://lzoq.hk3.xyyun.publicvm.com/daili/sx.php
 刘公子随机,http://lzoq.hk3.20212021.cf/daili/sx.php
