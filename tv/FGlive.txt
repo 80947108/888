@@ -12934,6 +12934,26 @@ Happy,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
 彩虹电影,p2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
 K频道,p2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
 Look TV,p2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
+彩虹e台,P2p://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc
+彩虹电影台,P2p://ns1.hellotvvod.com:9906/b30369eac5f34940a9d69cbce1a69cad
+LOOK TV,P2p://ns1.hellotvvod.com:9906/90450f3f6f954f438a01342ce437a53d
+潘朵啦玩美台,P2p://ns1.hellotvvod.com:9906/b6b68f2c2c6444108c6125a04904a010
+惊艳成人电影台,P2p://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e
+松视1台,P2p://ns1.hellotvvod.com:9906/6d4ff039a40a470da10df154f75cf88b
+松视2台,P2p://ns1.hellotvvod.com:9906/70bb5dd46a13492283c13b26c363e0e0
+PLAYBOY,P2p://ns1.hellotvvod.com:9906/e29e313adde24d83b11f8f6d01dd286e
+香蕉台,P2p://ns1.hellotvvod.com:9906/c178f44b52ee44e3a5a4d3b20f530e11
+松视3台,P2p://ns1.hellotvvod.com:9906/c04eae5be9d5426092ab2d354e427097
+JStar极限台,P2p://ns1.hellotvvod.com:9906/682aa83653f148439bff8a335dcf42cc
+HAPPY,P2p://ns1.hellotvvod.com:9906/e0f27b1dc3f34298b020a47e396471fc
+K,P2p://ns1.hellotvvod.com:9906/059ea3eecc1244f0992815346ab94f3d
+彩虹e,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
+彩虹电影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
+K频道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
+看电视，p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
+幻灯片电影,p2p://594.39.16.152:9906/6260e2b000004933172c99712568d815
+潘啦朵粉色,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
+潘朵啦玩美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecd
 随机电影,http://aiyun.work.gd/sjdy.php
 刘公子随机,http://lzoq.hk3.xyyun.publicvm.com/daili/sx.php
 刘公子随机,http://lzoq.hk3.20212021.cf/daili/sx.php
