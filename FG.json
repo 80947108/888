@@ -25,6 +25,7 @@
 {"key":"影探4K","name":"🚀影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},//20231128更新
 {"key":"t4_wo","name":"🚀玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"🚀玩偶4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ali.jar"},
+{"key":"inmi","name":"🚀映迷影视","type":0,"api":"https://www.inmi.app/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"石榴影视","name":"🚀石榴影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/shiliu.json"},
 {"key":"非凡资源","name":"🚀非凡资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/ffzy.json"},
 {"key":"爱看影院","name":"🚀爱看影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./json/aikan.json"},
