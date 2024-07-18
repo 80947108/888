@@ -1,14 +1,17 @@
 {
     "spider": "./jar/FG.jar;md5;E9743FFD142C08D6D2A3DEAC455C3206",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "logo":"https://heyunfei.eu.org/images/icon.png",
     "lives": [
         {
-            "name": "live",
+            "name": "飞哥",
             "type": 0,
             "url": "./tv/FGlive.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
+        },
+{ "name": "1", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0", "type": 0, "url": "http://10000.win14.eu.org:18975/api/tv_list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png" },
+{ "name": "2", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0", "type": 0, "url": "http://123.6.102.32:11789/0700.txt" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"}
     ],
     "sites": [
 {"key":"豆瓣","name":"豆瓣┃推荐","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
@@ -111,24 +114,22 @@
 
 
 
-{"key":"ss直播","name":"🔞聚合直播","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/sslive.js"},
-{"key":"csp_jiujiuzhobo","name":"🔞久久直播","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/H/jiujiu.json","jar":"./jar/H/xb.jar"},
-{"key":"csp_jy","name":"🔞聚优直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/H/juyou.json","jar":"./jar/H/xb.jar"},
+{"key":"ss直播","name":"🔞㊙️聚合直播","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/sslive.js"},
 {"key":"直转点","name":"🔞㊙️点播","type":3,"api":"./json/H/直转点.js","ext":"./json/H/直转点.txt"},
-{"key":"csp_md","name":"🔞女优大合集","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/H/madou.json","jar":"./jar/H/xb.jar"},
-{"key":"Aaa","name":"🔞阿里盘片","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":{"drives":[{"name":"🔞阿里盘片","server":"https://qwe.aifo10086.repl.co/"},{"name":"🔞木偶","server":"https://abnormalize.icu/"},{"name":"🔞蜂蜜","server":"http://69.161.221.160:5244"},{"name":"🔞罗汉果","server":"https://lala-ofbip.run.goorm.site/"}]},"jar":"./jar/H/fm.jar;md5;12256c49c78305f2bedfd09b5d786620"},
-{"key":"*皇冠资源","name":"🔞皇冠采集","type":1,"playerType":2,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"155","name":"🔞155采集","type":0,"playerType":2,"api":"https://155api.com/api.php/provide/vod/at/xml","searchable":0,"quickSearch":0},
-{"key":"csp_CandyMuj_fuliji","name":"🔞福利姬(直连)","type":3,"api":"csp_CandyMuj_fuliji","searchable":1,"quickSearch":1,"filterable":0,"ext":"192.168.101.11:10020","jar":"./jar/H/candymuj.jar"},
-{"key":"csp_xBPQ_91色","name":"🔞91色","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/H/91色.json","jar":"./jar/H/xb.jar"},
-{"key":"鲨鱼","name":"🔞鲨鱼资源","type":0,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"JAV名优","name":"🔞JAV名优","type":0,"api":"http://mygzycj.com/api.php?ac=listl","searchable":0,"quickSearch":0},
-{"key":"环亚","name":"*🔞环亚","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
+{"key": "精品x资源","name": "🔞精品资源","type": 1,"api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },  
+{"key":"155","name":"🔞155资源","type":0,"playerType":2,"api":"https://155api.com/api.php/provide/vod/at/xml","searchable":0,"quickSearch":0},
+{"key": "爱爱影视","name": "🔞爱爱资源","type": 1,"api": "http://www.shangaiys.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
 {"key":"美少女","name":"🔞美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"zp011","name":"🔞78乐播","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"香奶儿资源","name":"🔞香奶儿","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1},
-{"key":"kxgav","name":"🔞开心果","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1},
-{"key":"csp_xBPQ_色花堂","name":"🔞色花堂","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/H/色花堂.json","jar":"./jar/H/xb.jar"}
+{"key": "淫水机资源站","name": "🔞淫水机","type": 0,"api": "https://www.xrbsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "白嫖","name": "🔞白嫖","type": 0,"api": "https://www.kxgav.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "黄AV资源站","name": "🔞黄AV","type": 0,"api": "https://www.pgxdy.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
+{"key": "玉兔资源","name": "🔞玉兔资源","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "富二代资源","name": "🔞富二代","type":0,"api": "http://f2dcj6.com/sapi?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },   
+{"key":"kxgav","name":"🔞开心果","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1}
+
+
+
     ],
     "parses": [
         {
@@ -147,23 +148,32 @@
             "url": "http://肥猫.live/jx.php?id=2&url=",
             "ext": {
                 "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
@@ -354,7 +364,7 @@
         {
             "name": "精选1",
             "type": 0,
-            "url": "https://svip.ikumiao.icu/dm/?uid=4292751&key=dikpqruyBHLNQW0346&url=",
+            "url": "https://jx.yparse.com/index.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -383,12 +393,12 @@
         {
             "name": "精选2",
             "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
+            "url": "https://www.yemu.xyz/?url="
         },
         {
             "name": "精选3",
             "type": 0,
-            "url": "https://www.yemu.xyz/?url=",
+            "url": "https://vip.bljiex.com/?v=",
             "ext": {
                 "flag": [
                     "qq",
@@ -465,7 +475,7 @@
         {
             "name": "精选6",
             "type": 0,
-            "url": "https://vip.lianfaka.com/vip/?url=",
+            "url": "https://jx.quankan.app/?url=",
             "ext": {
                 "flag": [
                     "qq",
