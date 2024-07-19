@@ -1,28 +1,40 @@
 #iptv
 1
 
-#随机电影
-http://lzoq.hk3.345888.xyz.cdn.cloudflare.net/lives/随机电影.txt
+#1（欧美）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/1.txt
 
-#玩偶
-http://lzoq.hk3.345888.xyz.cdn.cloudflare.net/lives/玩ou.txt
+#2（日本）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/2.txt
 
-#加勒比
-http://lzoq.hk3.345888.xyz.cdn.cloudflare.net/lives/加勒B.txt
+#3（大杂烩）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/3.txt
 
-#18+直播
-http://lzoq.hk3.345888.xyz.cdn.cloudflare.net/lives/18TV.txt
+#4（mycam）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/4.txt
 
-#18+live
-https://agit.ai/JieLeHui/TV/raw/branch/master/XSGFL.txt
+#5（欧美直播）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/5.txt
 
-#一本道
-http://lzoq.hk3.345888.xyz.cdn.cloudflare.net/lives/一本道.txt
+#6（一本）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/6.txt
 
-#番号
-https://lili-aimac.run.goorm.site/cshi/番号.txt
-#绝对中出
-https://lili-aimac.run.goorm.site/cshi/绝对中出.txt
+#7（传媒）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/7.txt
 
-#成人直播
-https://gh-proxy.com/https://github.com/YanG-1989/m3u/blob/main/Adult.m3u
+#8（MD）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/8.txt
+
+#9（大杂烩）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/9.txt
+
+#10（大杂烩）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/10.txt
+
+#H（杂项）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/H.txt
+
+#11（大杂烩）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/11.txt
+
+
