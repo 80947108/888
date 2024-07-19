@@ -7,11 +7,19 @@
             "name": "飞哥",
             "type": 0,
             "url": "./tv/FGlive.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+        {
+            "name": "飞哥V6",
+            "type": 0,
+            "url": "./tv/FGV6.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "playerType":1
+        },
 { "name": "1", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0", "type": 0, "url": "http://10000.win14.eu.org:18975/api/tv_list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png" },
-{ "name": "2", "ua": "okhttp/4.1.0", "type": 0, "url": "http://123.6.102.32:11789/0700.txt" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"}
+{ "name": "2", "ua": "okhttp/4.1.0", "type": 0, "url": "http://123.6.102.32:11789/0700.txt" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{ "name": "稳定", "type": 0, "url": "https://live.125011.xyz/api/ipv4/txt" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"}
     ],
     "sites": [
 {"key":"豆瓣","name":"豆瓣┃推荐","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
@@ -338,26 +346,20 @@
         {
             "name": "车哥",
             "type": 1,
-            "url": "https://hd.396pay.cn/api/?key=WYfoc47cVuA6xeED4H&url=",
+            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
             "ext": {
                 "flag": [
-                    "JHA",
-                    "JHB",
-                    "mmal"
+"qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","FYNB","BTJSON","TIME","BTOL", "JHA", "JHB","mmal"
                 ]
             }
         },
         {
             "name": "车弟",
             "type": 1,
-            "url": "https://xjx.tvcms.top/api/?key=a035e75110289821feec5033ffde2bec&url=",
+            "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
             "ext": {
                 "flag": [
-                    "TD",
-                    "JHA",
-                    "JHB",
-                    "mmal",
-                    "FY"
+"qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","FYNB","BTJSON","TIME","BTOL","TD","JHA","JHB","mmal", "FY"
                 ]
             }
         },
