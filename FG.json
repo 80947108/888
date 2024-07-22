@@ -3,22 +3,10 @@
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "logo":"https://heyunfei.eu.org/images/icon.png",
     "lives": [
-        {
-            "name": "飞哥",
-            "type": 0,
-            "url": "./tv/FGlive.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "飞哥V6",
-            "type": 0,
-            "url": "./tv/FGV6.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "playerType":1
-        },
-{ "name": "1", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0", "type": 0, "url": "http://10000.win14.eu.org:18975/api/tv_list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png" },
-{ "name": "2", "ua": "okhttp/4.1.0", "type": 0, "url": "http://123.6.102.32:11789/0700.txt" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"飞哥","type":0,"url":"./tv/FGlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"飞哥V6","type":0,"url":"./tv/FGV6.m3u","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","playerType":1},
+{ "name": "易发", "ua": "okhttp/3.8.1", "type": 0, "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiangjiao169/yf2025/main/yf169.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png" },
+{ "name": "飞哥酒店", "ua": "okhttp/4.1.0", "type": 0, "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jdytv-py/main/itvlist.txt" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
 { "name": "稳定", "type": 0, "url": "https://live.125011.xyz/api/ipv4/txt" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"}
     ],
     "sites": [
