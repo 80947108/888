@@ -9,7 +9,7 @@
 { "name": "飞哥酒店", "ua": "okhttp/4.1.0", "type": 0, "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jdytv-py/main/itvlist.txt" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
 { "name": "稳定", "type": 0, "url": "https://live.125011.xyz/api/ipv4/txt" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
 { "name": "4G需V", "type": 0, "url": "http://4gtv.mumi.rip:9877/" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-{"name":"安博需V","type":0,"url":"https://fm1077.serv00.net/anbo/","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png"},
+{"name":"安博需V","ua": "okhttp/3.8.1", "type":0,"url":"https://fm1077.serv00.net/anbo/","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"http://epg.112114.eu.org/logo/{name}.png"},
 { "name": "smt", "type": 0, "url": "http://4gtv.mumi.rip:9877/" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
     ],
     "sites": [
