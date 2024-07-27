@@ -1,11 +1,14 @@
 飞哥精选,#genre#
-周星驰,https://aldirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
-林正英,https://aldirect.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv
-李连杰,https://aldirect.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.flv
-火影忍者,https://aldirect.flv.huya.com/src/1394565189-1394565189-5989611878895058944-2789253834-10057-A-0-1.flv
-动作电影,https://aldirect.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.flv
-李子柒,https://aldirect.flv.huya.com/src/1199512837905-1199512837905-5226813369159254016-2399025799266-10057-A-0-1.flv
-真武侠,https://aldirect.flv.huya.com/src/1199632572132-1199632572132-7318565434771983384-2399265267720-10057-A-1703986510-1.flv
+金马影院,https://hyf.serv00.net/fg/金马影院.php
+真武侠,https://hyf.serv00.net/fg/真武侠.php
+周星驰,https://hyf.serv00.net/fg/周星驰.php
+周星驰1,https://hyf.serv00.net/fg/周星驰1.php
+林正英,https://hyf.serv00.net/fg/林正英.php
+李子柒,https://hyf.serv00.net/fg/李子柒.php
+JJ斗地主,https://hyf.serv00.net/fg/JJ斗地主.php
+王者荣耀,https://hyf.serv00.net/fg/王者荣耀.php
+穿越火线,https://hyf.serv00.net/fg/穿越火线.php
+跑跑卡丁车,https://hyf.serv00.net/fg/跑跑卡丁车.php
 TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
@@ -60,6 +63,24 @@ NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 Channel V,http://103.95.24.37:880/cv.m3u8
 TV4,https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
+GOOD卡通,https://hyf.serv00.net/fg/GOOD卡通.php
+亚洲卫视,https://hyf.serv00.net/fg/亚洲卫视.php
+人间卫视,https://hyf.serv00.net/fg/人间卫视.php
+J1,https://hyf.serv00.net/fg/J1.php
+TVBplus,https://hyf.serv00.net/fg/TVBplus.php
+TVB星河,https://hyf.serv00.net/fg/TVB星河.php
+凤凰资讯,https://hyf.serv00.net/fg/凤凰资讯.php
+台视新闻,https://hyf.serv00.net/fg/台视新闻.php
+大立电视,https://hyf.serv00.net/fg/大立电视.php
+澳亚卫视,https://hyf.serv00.net/fg/澳亚卫视.php
+面包台,https://hyf.serv00.net/fg/面包台.php
+环球电视台,https://hyf.serv00.net/fg/环球电视台.php
+香港佛陀,https://hyf.serv00.net/fg/香港佛陀.php
+法国时尚台,https://hyf.serv00.net/fg/法国时尚台.php
+香港卫视,https://hyf.serv00.net/fg/香港卫视.php
+大爱1台,https://hyf.serv00.net/fg/大爱1台.php
+大爱2台,https://hyf.serv00.net/fg/大爱2台.php
+红牛运动,https://hyf.serv00.net/fg/红牛运动.php
 
 飞哥央视,#genre#
 
@@ -104,30 +125,6 @@ CGTN法语,http://cdn.jdshipin.com:8880/ysp12.php?id=cgtnf
 CGTN阿语,http://cdn.jdshipin.com:8880/ysp12.php?id=cgtna
 CGTN俄语,http://cdn.jdshipin.com:8880/ysp12.php?id=cgtnr
 
-CCTV1,https://2bb.ee/?x=iptv&type=cctv1
-CCTV2,https://2bb.ee/?x=iptv&type=347
-CCTV3,https://2bb.ee/?x=iptv&type=cctv3
-CCTV4,https://2bb.ee/?x=iptv&type=cctv4
-CCTV5,https://2bb.ee/?x=iptv&type=cctv5
-CCTV5+,https://2bb.ee/?x=iptv&type=cctv5+
-CCTV6,https://2bb.ee/?x=iptv&type=cctv6
-CCTV7,https://2bb.ee/?x=iptv&type=cctv7
-CCTV8,https://2bb.ee/?x=iptv&type=353
-CCTV9,https://2bb.ee/?x=iptv&type=cctv9
-CCTV10,https://2bb.ee/?x=iptv&type=cctv10
-CCTV11,https://2bb.ee/?x=iptv&type=cctv11
-CCTV12,https://2bb.ee/?x=iptv&type=cctv12
-CCTV13,https://2bb.ee/?x=iptv&type=cctv13
-CCTV14,https://2bb.ee/?x=iptv&type=cctv14
-CCTV15,https://2bb.ee/?x=iptv&type=cctv15
-CCTV17,https://2bb.ee/?x=iptv&type=cctv17
-CGTN,https://2bb.ee/?x=iptv&type=cctv-news
-CGTN法语,https://2bb.ee/?x=iptv&type=cctvfayu
-CGTN西班牙语,https://2bb.ee/?x=iptv&type=cctvxiyu
-CGTN阿拉伯语,https://2bb.ee/?x=iptv&type=cctvarabic
-CGTN俄语,https://2bb.ee/?x=iptv&type=cctvrus
-CGTN纪录,https://2bb.ee/?x=iptv&type=cgtn-documentary
-
 CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 CETV1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=4155
 CETV1,http://hwylivehd.centv.cn/cetv1/ypd.m3u8
@@ -146,13 +143,11 @@ CGTN西班牙语,http://livees.cgtn.com/1000e/prog_index.m3u8
 中国国际教育3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 中国国际教育4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
-CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
-CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-重温经典台,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
-CHC动作电影,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
-CHC影迷电影,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
-CHC家庭影院,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
+CHC动作电影,https://hyf.serv00.net/fg/CHC动作电影.php
+CHC影迷电影,https://hyf.serv00.net/fg/CHC影迷电影.php
+CHC家庭影院,https://hyf.serv00.net/fg/CHC家庭影院.php
+重温经典,https://hyf.serv00.net/fg/重温经典.php
+
 
 
 
@@ -185,39 +180,6 @@ CHC家庭影院,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/jbtygqCHCjty
 四川卫视,http://cdn.jdshipin.com:8880/ysp12.php?id=scws
 新疆卫视,http://cdn.jdshipin.com:8880/ysp12.php?id=xjws
 海南卫视,http://cdn.jdshipin.com:8880/ysp12.php?id=hinws
-
-
-浙江卫视,https://2bb.ee/?x=iptv&type=zhejiangweishi
-东方卫视,https://2bb.ee/?x=iptv&type=dongfangweishi
-江苏卫视,https://2bb.ee/?x=iptv&type=jiangsuweishi
-安徽卫视,https://2bb.ee/?x=iptv&type=anhui
-重庆卫视,https://2bb.ee/?x=iptv&type=chongqing-weishi
-北京卫视,https://2bb.ee/?x=iptv&type=beijingweishi
-天津卫视,https://2bb.ee/?x=iptv&type=tianjinweishi
-辽宁卫视,https://2bb.ee/?x=iptv&type=liaoningweishi
-江西卫视,https://2bb.ee/?x=iptv&type=jiangxiweishi
-山东卫视,https://2bb.ee/?x=iptv&type=shandongweishi
-云南卫视,https://2bb.ee/?x=iptv&type=yunnan
-四川卫视,https://2bb.ee/?x=iptv&type=sichuan
-广东卫视,https://2bb.ee/?x=iptv&type=guangdong
-深圳卫视,https://2bb.ee/?x=iptv&type=szws
-湖北卫视,https://2bb.ee/?x=iptv&type=hubei
-东南卫视,https://2bb.ee/?x=iptv&type=fujian
-河北卫视,https://2bb.ee/?x=iptv&type=hebei
-吉林卫视,https://2bb.ee/?x=iptv&type=jilin
-广西卫视,https://2bb.ee/?x=iptv&type=guangxi
-山西卫视,https://2bb.ee/?x=iptv&type=shanxi
-陕西卫视,https://2bb.ee/?x=iptv&type=shanxiweishi
-内蒙古卫视,https://2bb.ee/?x=iptv&type=neimenggu
-西藏卫视,https://2bb.ee/?x=iptv&type=xizang
-新疆卫视,https://2bb.ee/?x=iptv&type=xinjiang
-海南卫视,https://2bb.ee/?x=iptv&type=lvyou
-贵州卫视,https://2bb.ee/?x=iptv&type=guizhouweishi
-青海卫视,https://2bb.ee/?x=iptv&type=qinghai-weishi
-兵团卫视,https://2bb.ee/?x=iptv&type=bingtuan
-三沙卫视,https://2bb.ee/?x=iptv&type=sansha
-西藏卫视,https://2bb.ee/?x=iptv&type=zangyu
-
 
 //======================================================
 
@@ -402,28 +364,6 @@ CHC家庭影院,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/jbtygqCHCjty
 
 ㊙测试㊙_0000,#genre#
 性教育,https://cf005.paopao.video:443/D8015221C25EDF5504A00073FBDE053F5590C804
-
-JStar極限台電影頻道,http://220.134.74.149:7878/udp/230.1.2.152:11111
-JStar極限台電影頻道,http://220.134.74.149:7878/udp/230.1.2.32:11111
-K頻道,http://220.134.74.149:7878/udp/224.1.4.175:11111
-K頻道,http://220.134.74.149:7878/udp/224.1.4.65:11111
-松視1台,http://220.134.74.149:7878/udp/224.1.4.68:11111
-松視1台,http://220.134.74.149:7878/udp/230.1.2.142:11111
-松視2台,http://220.134.74.149:7878/udp/224.1.4.149:11111
-松視2台,http://220.134.74.149:7878/udp/224.1.4.69:11111
-松視3台,http://220.134.74.149:7878/udp/224.1.4.253:11111
-松視3台,http://220.134.74.149:7878/udp/224.1.4.70:11111
-香蕉台,http://220.134.74.149:7878/udp/224.1.4.205:11111
-香蕉台,http://220.134.74.149:7878/udp/230.1.2.94:11111
-彩虹 MOVIE,http://220.134.74.149:7878/udp/224.1.4.164:11111
-彩虹 MOVIE,http://220.134.74.149:7878/udp/224.1.4.64:11111
-彩虹E台,http://220.134.74.149:7878/udp/224.1.4.141:11111
-彩虹E台,http://220.134.74.149:7878/udp/224.1.4.63:11111
-潘朵啦高畫質玩美台,http://220.134.74.149:7878/udp/230.1.2.219:11111
-潘朵啦高畫質玩美台,http://220.134.74.149:7878/udp/230.1.2.39:11111
-驚豔成人電影台,http://220.134.74.149:7878/udp/224.1.4.204:11111
-驚豔成人電影台,http://220.134.74.149:7878/udp/230.1.2.27:11111
-
 色情世界,p3p://fccsen.dyndns.tv:29706/641668210006c654685657293a3f03ba
 Play boy,p3p://fccsen.dyndns.tv:29706/6277188600044b271208d22208f54f69
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
