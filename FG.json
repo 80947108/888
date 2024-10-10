@@ -18,7 +18,7 @@
 {"key":"alist","name":"🍰小鸭网盘","type":3,"playerType":"1","api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":{"vodPic":"https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg","drives":[{"name":"🦆托盘","server":"https://pan.mediy.cn/"}]},"jar": "./jar/H/fm.jar;md5;12256c49c78305f2bedfd09b5d786620"},
 {"key":"爱奇异","name":"🚀爱奇艺(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
 {"key":"优酷","name":"🚀优酷(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js"},
-{"key":"腾讯","name":"🚀腾讯(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/tengxun.js"},
+{"key":"腾讯","name":"🚀腾讯(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/腾讯官采.js"},
 {"key":"芒果","name":"🚀芒果(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mangguo.js"},
 {"key":"搜狗","name":"🚀搜狗(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/caigou.js"},
 {"key":"360影视","name":"🚀360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -335,7 +335,7 @@
             }
         },
         {
-            "name": "车哥",
+            "name": "飞哥",
             "type": 1,
             "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
             "ext": {
@@ -345,7 +345,7 @@
             }
         },
         {
-            "name": "车弟",
+            "name": "飞哥1",
             "type": 1,
             "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
             "ext": {
