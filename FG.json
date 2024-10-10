@@ -5,7 +5,7 @@
     "lives": [
 {"name":"飞哥","type":0,"url":"./tv/FGlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"飞哥V6","type":0,"url":"./tv/FGV6.m3u","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","playerType":1},
-{ "name": "易发", "ua": "okhttp/3.8.1", "type": 0, "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiangjiao169/yf2025/main/yf169.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png" },
+{ "name": "易发", "ua": "okhttp/3.8.1", "type": 0, "url": "https://ghp.ci/https://raw.githubusercontent.com/fafa002/yf2025/main/yf676767.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png" },
 { "name": "飞哥酒店", "ua": "okhttp/4.1.0", "type": 0, "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jdytv-py/main/itvlist.txt" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
 { "name": "稳定", "type": 0, "url": "https://live.125011.xyz/api/ipv4/txt" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
 { "name": "4G需V", "type": 0, "url": "http://4gtv.mumi.rip:9877/" ,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
@@ -18,7 +18,7 @@
 {"key":"alist","name":"🍰小鸭网盘","type":3,"playerType":"1","api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":{"vodPic":"https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg","drives":[{"name":"🦆托盘","server":"https://pan.mediy.cn/"}]},"jar": "./jar/H/fm.jar;md5;12256c49c78305f2bedfd09b5d786620"},
 {"key":"爱奇异","name":"🚀爱奇艺(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
 {"key":"优酷","name":"🚀优酷(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js"},
-{"key":"腾讯","name":"🚀腾讯(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/腾讯官采.js"},
+{"key":"腾讯","name":"🚀腾讯(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/tengxun.js"},
 {"key":"芒果","name":"🚀芒果(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mangguo.js"},
 {"key":"搜狗","name":"🚀搜狗(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/caigou.js"},
 {"key":"360影视","name":"🚀360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -420,12 +420,12 @@
         {
             "name": "精选4",
             "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
+            "url": "https://jx.xmflv.com/?url="
         },
         {
             "name": "精选5",
             "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
+            "url": "https://jx.jsonplayer.com/player/?url=",
             "ext": {
                 "flag": [
                     "qq",
