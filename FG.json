@@ -145,7 +145,7 @@
         {
             "name": "官解1",
             "type": 1,
-            "url": "http://肥猫.live/jx.php?id=2&url=",
+            "url": "http://moyu.zhuimi.top/zhuimi666.php?url=",
             "ext": {
                 "flag": [
           "qq",
@@ -183,7 +183,7 @@
         {
             "name": "官解2",
             "type": 1,
-            "url": "http://119.91.123.253:2345/Api/yun.php?url=",
+            "url": "https://jxjson.icu/neibu.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -205,7 +205,7 @@
                     "哔哩"
                 ],
                 "header": {
-                    "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+                    "User-Agent": "okhttp/4.9.1"
                 }
             }
         },
@@ -392,31 +392,7 @@
         {
             "name": "精选3",
             "type": 0,
-            "url": "https://vip.bljiex.com/?v=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
+            "url": "https://www.ckplayer.vip/jiexi/?url="
         },
         {
             "name": "精选4",
