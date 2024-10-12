@@ -351,26 +351,65 @@
                 }
             }
         },
-        {
-            "name": "飞哥",
-            "type": 1,
-            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
-            "ext": {
-                "flag": [
-"qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","FYNB","BTJSON","TIME","BTOL", "JHA", "JHB","mmal"
-                ]
-            }
-        },
-        {
-            "name": "飞哥1",
-            "type": 1,
-            "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
-            "ext": {
-                "flag": [
-"qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","FYNB","BTJSON","TIME","BTOL","TD","JHA","JHB","mmal", "FY"
-                ]
-            }
-        },
+ {
+      "name": "飞哥",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+   {
+      "name": "飞哥1",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
         {
             "name": "精选1",
             "type": 0,
