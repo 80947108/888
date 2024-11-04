@@ -5,6 +5,7 @@
 "lives":[
 {"name":"飞哥","type":0,"url":"./tv/FGlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"飞哥V6","type":0,"url":"./tv/FGV6.m3u","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","playerType":1},
+{"name":"AKTV","type":0,"url":"http://aktv.top/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.hackserver.net/epg.php","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"易发","ua":"okhttp/3.8.1","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/fafa002/yf2025/main/yf676767.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},
 {"name":"酒店源","ua":"okhttp/4.1.0","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/ssili126/hebei/main/itv_all.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},
 {"name":"稳定","type":0,"url":"https://live.125011.xyz/api/ipv4/txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},
@@ -22,6 +23,8 @@
 {"key":"腾讯","name":"🚀腾讯(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/tengxun.js"},
 {"key":"芒果","name":"🚀芒果(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mangguo.js"},
 {"key":"搜狗","name":"🚀搜狗(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/caigou.js"},
+{"key":"荐片","name":"🚀荐片","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./js/lib/drpy2.min.js","ext":"./js/jp.js"},
+{"key":"南瓜","name":"🚀南瓜","type":3,"api":"./js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/南瓜.js"},
 {"key":"360影视","name":"🚀360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"py_cctv","name":"🚀CCTV","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/py_cctv.py"},
 {"key":"csp_SP2345_2345","name":"🚀2345影视","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/2345.jar"},
