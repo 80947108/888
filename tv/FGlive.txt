@@ -6,10 +6,15 @@
 抖音小姐姐,https://hyf.serv00.net/video.php
 抖音小姐姐,https://80947108.eu.org/xjj.php
 小姐姐,http://cfss.cc/cdn/yy/54880976.flv
+CCTV1,https://hyf.serv00.net/fg/CCTV1.php
 CCTV6,https://hyf.serv00.net/fg/CCTV6.php
 CHC动作电影,https://hyf.serv00.net/fg/CHC动作电影.php
 CHC影迷电影,https://hyf.serv00.net/fg/CHC影迷电影.php
 CHC家庭影院,https://hyf.serv00.net/fg/CHC家庭影院.php
+Now爆谷,https://hyf.serv00.net/fg/Now爆谷.php
+Now星影,https://hyf.serv00.net/fg/Now星影.php
+黄金华剧,https://hyf.serv00.net/fg/黄金华剧.php
+美亚电影,https://hyf.serv00.net/fg/美亚电影.php
 重温经典,https://hyf.serv00.net/fg/重温经典.php
 金马影院,https://hyf.serv00.net/fg/金马影院.php
 真武侠,https://hyf.serv00.net/fg/真武侠.php
@@ -57,26 +62,96 @@ FTV,https://hyf.serv00.net/fg/FTV.php
 
 
 飞哥央视,#genre#
-CCTV1,http://223.105.252.60/PLTV/4/224/3221228049/index.m3u8?servicetype=1
-CCTV1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
-CCTV2,http://223.105.252.60/PLTV/4/224/3221228118/index.m3u8?servicetype=1
-CCTV2,http://223.105.252.60/PLTV/4/224/3221228720/index.m3u8?servicetype=1
-CCTV3,http://223.105.252.60/PLTV/4/224/3221228499/index.m3u8?servicetype=1
-CCTV3,http://223.105.252.60/PLTV/4/224/3221228237/index.m3u8?servicetype=1
-CCTV3,http://223.105.252.60/PLTV/4/224/3221228188/index.m3u8?servicetype=1
-CCTV4,http://223.105.252.60/PLTV/4/224/3221228156/index.m3u8?servicetype=1
-CCTV5,http://223.105.252.60/PLTV/4/224/3221228173/index.m3u8?servicetype=1
-CCTV5+,http://223.105.252.60/PLTV/4/224/3221228076/index.m3u8?servicetype=1
-CCTV5+,http://223.105.252.60/PLTV/4/224/3221228114/index.m3u8?servicetype=1
-CCTV6,http://223.105.252.60/PLTV/4/224/3221228185/index.m3u8?servicetype=1
-CCTV6,http://223.105.252.60/PLTV/4/224/3221228196/index.m3u8?servicetype=1
-CCTV8,http://223.105.252.60/PLTV/4/224/3221228079/index.m3u8?servicetype=1
-CCTV9,http://223.105.252.60/PLTV/4/224/3221228723/index.m3u8?servicetype=1
-CCTV16,http://223.105.252.60/PLTV/4/224/3221228516/index.m3u8?servicetype=1
-CCTV16,http://223.105.252.60/PLTV/4/224/3221228314/index.m3u8?servicetype=1
-CCTV16,http://223.105.252.60/PLTV/4/224/3221228320/index.m3u8?servicetype=1
-CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
-CCTV4K,http://223.105.252.60/PLTV/4/224/3221228228/index.m3u8?servicetype=1
+
+CCTV1,http://kxrj.site:8081/8647/mg.php?id=cctv1
+CCTV2,http://kxrj.site:8081/8647/mg.php?id=cctv2
+CCTV3,http://kxrj.site:8081/8647/mg.php?id=cctv3
+CCTV4,http://kxrj.site:8081/8647/mg.php?id=cctv4
+CCTV5,http://kxrj.site:8081/8647/mg.php?id=cctv5
+CCTV5+,http://kxrj.site:8081/8647/mg.php?id=cctv5p
+CCTV6,http://kxrj.site:8081/8647/mg.php?id=cctv6
+CCTV7,http://kxrj.site:8081/8647/mg.php?id=cctv7
+CCTV8,http://kxrj.site:8081/8647/mg.php?id=cctv8
+CCTV9,http://kxrj.site:8081/8647/mg.php?id=cctv9
+CCTV10,http://kxrj.site:8081/8647/mg.php?id=cctv10
+CCTV11,http://kxrj.site:8081/8647/mg.php?id=cctv11
+CCTV12,http://kxrj.site:8081/8647/mg.php?id=cctv12
+CCTV13,http://kxrj.site:8081/8647/mg.php?id=cctv13
+CCTV14,http://kxrj.site:8081/8647/mg.php?id=cctv14
+CCTV15,http://kxrj.site:8081/8647/mg.php?id=cctv15
+CCTV17,http://kxrj.site:8081/8647/mg.php?id=cctv17
+CCTV4欧洲,http://kxrj.site:8081/8647/mg.php?id=cctv4o
+CCTV4美洲,http://kxrj.site:8081/8647/mg.php?id=cctv4a
+CGTN纪录,http://kxrj.site:8081/8647/mg.php?id=cgtnjl
+CGTN西语,http://kxrj.site:8081/8647/mg.php?id=cgtne
+CGTN阿语,http://kxrj.site:8081/8647/mg.php?id=cgtna
+CGTN法语,http://kxrj.site:8081/8647/mg.php?id=cgtnf
+CGTN俄语,http://kxrj.site:8081/8647/mg.php?id=cgtnr
+CHC家庭影院,http://kxrj.site:8081/8647/mg.php?id=chcjt
+CHC动作电影,http://kxrj.site:8081/8647/mg.php?id=chcdz
+CCTV发现之旅,http://kxrj.site:8081/8647/mg.php?id=fxzl
+CCTV老故事,http://kxrj.site:8081/8647/mg.php?id=lgs
+CCTV中学生,http://kxrj.site:8081/8647/mg.php?id=zxs
+
+CCTV1,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv1
+CCTV2,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv2
+CCTV3,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv3
+CCTV4,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4
+CCTV5,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5
+CCTV5+,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5p
+CCTV6,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv6
+CCTV7,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7
+CCTV8,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv8
+CCTV9,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv9
+CCTV10,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv10
+CCTV11,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv11
+CCTV12,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv12
+CCTV13,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv13
+CCTV14,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv14
+CCTV15,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv15
+CCTV17,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv17
+CCTV4欧洲,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4o
+CCTV4美洲,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4a
+CGTN纪录,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cgtnjl
+CGTN西语,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cgtne
+CGTN阿语,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cgtna
+CGTN法语,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cgtnf
+CGTN俄语,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cgtnr
+CHC家庭影院,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=chcjt
+CHC动作电影,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=chcdz
+CCTV发现之旅,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=fxzl
+CCTV老故事,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=lgs
+CCTV中学生,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=zxs
+
+CCTV1,http://dd.ddzb.fun:80/php/migu.php?id=cctv1
+CCTV2,http://dd.ddzb.fun:80/php/migu.php?id=cctv2
+CCTV3,http://dd.ddzb.fun:80/php/migu.php?id=cctv3
+CCTV4,http://dd.ddzb.fun:80/php/migu.php?id=cctv4
+CCTV5,http://dd.ddzb.fun:80/php/migu.php?id=cctv5
+CCTV5+,http://dd.ddzb.fun:80/php/migu.php?id=cctv5p
+CCTV6,http://dd.ddzb.fun:80/php/migu.php?id=cctv6
+CCTV7,http://dd.ddzb.fun:80/php/migu.php?id=cctv7
+CCTV8,http://dd.ddzb.fun:80/php/migu.php?id=cctv8
+CCTV9,http://dd.ddzb.fun:80/php/migu.php?id=cctv9
+CCTV10,http://dd.ddzb.fun:80/php/migu.php?id=cctv10
+CCTV11,http://dd.ddzb.fun:80/php/migu.php?id=cctv11
+CCTV12,http://dd.ddzb.fun:80/php/migu.php?id=cctv12
+CCTV13,http://dd.ddzb.fun:80/php/migu.php?id=cctv13
+CCTV14,http://dd.ddzb.fun:80/php/migu.php?id=cctv14
+CCTV15,http://dd.ddzb.fun:80/php/migu.php?id=cctv15
+CCTV17,http://dd.ddzb.fun:80/php/migu.php?id=cctv17
+CCTV4欧洲,http://dd.ddzb.fun:80/php/migu.php?id=cctv4o
+CCTV4美洲,http://dd.ddzb.fun:80/php/migu.php?id=cctv4a
+CGTN纪录,http://dd.ddzb.fun:80/php/migu.php?id=cgtnjl
+CGTN西语,http://dd.ddzb.fun:80/php/migu.php?id=cgtne
+CGTN阿语,http://dd.ddzb.fun:80/php/migu.php?id=cgtna
+CGTN法语,http://dd.ddzb.fun:80/php/migu.php?id=cgtnf
+CGTN俄语,http://dd.ddzb.fun:80/php/migu.php?id=cgtnr
+CHC家庭影院,http://dd.ddzb.fun:80/php/migu.php?id=chcjt
+CHC动作电影,http://dd.ddzb.fun:80/php/migu.php?id=chcdz
+CCTV发现之旅,http://dd.ddzb.fun:80/php/migu.php?id=fxzl
+CCTV老故事,http://dd.ddzb.fun:80/php/migu.php?id=lgs
+CCTV中学生,http://dd.ddzb.fun:80/php/migu.php?id=zxs
 
 CCTV1,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
 CCTV2,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
@@ -129,43 +204,133 @@ CHC家庭影院,https://hyf.serv00.net/fg/CHC家庭影院.php
 
 飞哥卫视,#genre#
 
-江苏卫视,http://223.105.252.60/PLTV/4/224/3221228099/index.m3u8?servicetype=1
-北京卫视,http://223.105.252.60/PLTV/4/224/3221228115/index.m3u8?servicetype=1
-浙江卫视,http://223.105.252.60/PLTV/4/224/3221228147/index.m3u8?servicetype=1
-东方卫视,http://223.105.252.60/PLTV/4/224/3221228150/index.m3u8?servicetype=1
-浙江卫视,http://223.105.252.60/PLTV/4/224/3221228204/index.m3u8?servicetype=1
-国外电影,http://223.105.252.60/PLTV/4/224/3221228685/index.m3u8?servicetype=1
-国内电影,http://223.105.252.60/PLTV/4/224/3221228693/index.m3u8?servicetype=1
-电视剧,http://223.105.252.60/PLTV/4/224/3221228697/index.m3u8?servicetype=1
-历史,http://223.105.252.60/PLTV/4/224/3221228700/index.m3u8?servicetype=1
-电视剧2,http://223.105.252.60/PLTV/4/224/3221228699/index.m3u8?servicetype=1
-电视剧3,http://223.105.252.60/PLTV/4/224/3221228702/index.m3u8?servicetype=1
-电影2,http://223.105.252.60/PLTV/4/224/3221228703/index.m3u8?servicetype=1
-爱奇艺知识,http://223.105.252.60/PLTV/4/224/3221228706/index.m3u8?servicetype=1
-电影3,http://223.105.252.60/PLTV/4/224/3221228705/index.m3u8?servicetype=1
-南京宁波北极阁,http://223.105.252.60/PLTV/4/224/3221228709/index.m3u8?servicetype=1
-电影4,http://223.105.252.60/PLTV/4/224/3221228708/index.m3u8?servicetype=1
-南京宁波2,http://223.105.252.60/PLTV/4/224/3221228712/index.m3u8?servicetype=1
-电视剧4,http://223.105.252.60/PLTV/4/224/3221228711/index.m3u8?servicetype=1
-电影5,http://223.105.252.60/PLTV/4/224/3221228714/index.m3u8?servicetype=1
-南京宁波3,http://223.105.252.60/PLTV/4/224/3221228715/index.m3u8?servicetype=1
-网易UP青年,http://223.105.252.60/PLTV/4/224/3221228717/index.m3u8?servicetype=1
-体育,http://223.105.252.60/PLTV/4/224/3221228726/index.m3u8?servicetype=1
-晴彩青少,http://223.105.252.60/PLTV/4/224/3221228729/index.m3u8?servicetype=1
-电视剧,http://223.105.252.60/PLTV/4/224/3221228732/index.m3u8?servicetype=1
-江苏卫视,http://223.105.252.60/PLTV/4/224/3221228735/index.m3u8?servicetype=1
-江苏卫视,http://223.105.252.60/PLTV/4/224/3221228738/index.m3u8?servicetype=1
-江苏卫视,http://223.105.252.60/PLTV/4/224/3221228741/index.m3u8?servicetype=1
-江苏卫视,http://223.105.252.60/PLTV/4/224/3221228744/index.m3u8?servicetype=1
-江苏卫视,http://223.105.252.60/PLTV/4/224/3221228747/index.m3u8?servicetype=1
-江苏卫视,http://223.105.252.60/PLTV/4/224/3221228750/index.m3u8?servicetype=1
-南京宁波4,http://223.105.252.60/PLTV/4/224/3221228753/index.m3u8?servicetype=1
-电视剧,http://223.105.252.60/PLTV/4/224/3221228756/index.m3u8?servicetype=1
-咪咕音乐-4K,http://223.105.252.60/PLTV/4/224/3221228794/index.m3u8?servicetype=1
-电视剧,http://223.105.252.60/PLTV/4/224/3221228797/index.m3u8?servicetype=1
-江苏卫视,http://223.105.252.60/PLTV/4/224/3221228803/index.m3u8?servicetype=1
-电视剧,http://223.105.252.60/PLTV/4/224/3221228809/index.m3u8?servicetype=1
-南京宁波7,http://223.105.252.60/PLTV/4/224/3221228806/index.m3u8?servicetype=1
+东方卫视,http://kxrj.site:8081/8647/mg.php?id=dfws
+吉林卫视,http://kxrj.site:8081/8647/mg.php?id=jlws
+青海卫视,http://kxrj.site:8081/8647/mg.php?id=qhws
+陕西卫视,http://kxrj.site:8081/8647/mg.php?id=sxws
+湖北卫视,http://kxrj.site:8081/8647/mg.php?id=hubws
+江西卫视,http://kxrj.site:8081/8647/mg.php?id=jxws
+江苏卫视,http://kxrj.site:8081/8647/mg.php?id=jsws
+广东卫视,http://kxrj.site:8081/8647/mg.php?id=gdws
+湾区卫视,http://kxrj.site:8081/8647/mg.php?id=dwqws
+海南卫视,http://kxrj.site:8081/8647/mg.php?id=hinws
+四海钓鱼,http://kxrj.site:8081/8647/mg.php?id=shdy
+江苏教育,http://kxrj.site:8081/8647/mg.php?id=jsjy
+山东教育,http://kxrj.site:8081/8647/mg.php?id=sdjy
+游戏风云,http://kxrj.site:8081/8647/mg.php?id=yxfy
+之江纪录,http://kxrj.site:8081/8647/mg.php?id=zjjl
+杭州综合,http://kxrj.site:8081/8647/mg.php?id=hzzh
+杭州明珠,http://kxrj.site:8081/8647/mg.php?id=hzmz
+杭州生活,http://kxrj.site:8081/8647/mg.php?id=hzsh
+杭州影视,http://kxrj.site:8081/8647/mg.php?id=hzys
+杭州少体,http://kxrj.site:8081/8647/mg.php?id=hzse
+嵊泗综合,http://kxrj.site:8081/8647/mg.php?id=ssxwzh
+普陀电视,http://kxrj.site:8081/8647/mg.php?id=ptxwzh
+高清大片,http://kxrj.site:8081/8647/mg.php?id=gqdp
+经典电影,http://kxrj.site:8081/8647/mg.php?id=jdxgdy
+军事大片,http://kxrj.site:8081/8647/mg.php?id=jsdp
+热剧联播,http://kxrj.site:8081/8647/mg.php?id=rjlb
+赛事经典,http://kxrj.site:8081/8647/mg.php?id=sszjd
+体坛名汇,http://kxrj.site:8081/8647/mg.php?id=ttmlh
+新片映厅,http://kxrj.site:8081/8647/mg.php?id=xpfyt
+Y+剧场台,http://kxrj.site:8081/8647/mg.php?id=yjjc
+熊猫频道,http://kxrj.site:8081/8647/mg.php?id=xmhd
+熊猫频道1,http://kxrj.site:8081/8647/mg.php?id=xm1
+熊猫频道2,http://kxrj.site:8081/8647/mg.php?id=xm2
+熊猫频道3,http://kxrj.site:8081/8647/mg.php?id=xm3
+熊猫频道4,http://kxrj.site:8081/8647/mg.php?id=xm4
+熊猫频道5,http://kxrj.site:8081/8647/mg.php?id=xm5
+熊猫频道6,http://kxrj.site:8081/8647/mg.php?id=xm6
+熊猫频道7,http://kxrj.site:8081/8647/mg.php?id=xm7
+熊猫频道8,http://kxrj.site:8081/8647/mg.php?id=xm8
+熊猫频道9,http://kxrj.site:8081/8647/mg.php?id=xm9
+熊猫频道10,http://kxrj.site:8081/8647/mg.php?id=xm10
+
+东方卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dfws
+吉林卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jlws
+青海卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=qhws
+陕西卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=sxws
+湖北卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hubws
+江西卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jxws
+江苏卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jsws
+广东卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gdws
+湾区卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dwqws
+海南卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hinws
+四海钓鱼,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=shdy
+江苏教育,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jsjy
+山东教育,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=sdjy
+游戏风云,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=yxfy
+之江纪录,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=zjjl
+杭州综合,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hzzh
+杭州明珠,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hzmz
+杭州生活,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hzsh
+杭州影视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hzys
+杭州少体,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hzse
+嵊泗综合,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=ssxwzh
+普陀电视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=ptxwzh
+高清大片,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gqdp
+经典电影,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jdxgdy
+军事大片,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jsdp
+热剧联播,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=rjlb
+赛事经典,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=sszjd
+体坛名汇,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=ttmlh
+新片映厅,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xpfyt
+Y+剧场台,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=yjjc
+熊猫频道,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xmhd
+熊猫频道1,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xm1
+熊猫频道2,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xm2
+熊猫频道3,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xm3
+熊猫频道4,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xm4
+熊猫频道5,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xm5
+熊猫频道6,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xm6
+熊猫频道7,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xm7
+熊猫频道8,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xm8
+熊猫频道9,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xm9
+熊猫频道10,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xm10
+
+东方卫视,http://dd.ddzb.fun:80/php/migu.php?id=dfws
+吉林卫视,http://dd.ddzb.fun:80/php/migu.php?id=jlws
+青海卫视,http://dd.ddzb.fun:80/php/migu.php?id=qhws
+陕西卫视,http://dd.ddzb.fun:80/php/migu.php?id=sxws
+湖北卫视,http://dd.ddzb.fun:80/php/migu.php?id=hubws
+江西卫视,http://dd.ddzb.fun:80/php/migu.php?id=jxws
+江苏卫视,http://dd.ddzb.fun:80/php/migu.php?id=jsws
+广东卫视,http://dd.ddzb.fun:80/php/migu.php?id=gdws
+湾区卫视,http://dd.ddzb.fun:80/php/migu.php?id=dwqws
+海南卫视,http://dd.ddzb.fun:80/php/migu.php?id=hinws
+四海钓鱼,http://dd.ddzb.fun:80/php/migu.php?id=shdy
+江苏教育,http://dd.ddzb.fun:80/php/migu.php?id=jsjy
+山东教育,http://dd.ddzb.fun:80/php/migu.php?id=sdjy
+游戏风云,http://dd.ddzb.fun:80/php/migu.php?id=yxfy
+之江纪录,http://dd.ddzb.fun:80/php/migu.php?id=zjjl
+杭州综合,http://dd.ddzb.fun:80/php/migu.php?id=hzzh
+杭州明珠,http://dd.ddzb.fun:80/php/migu.php?id=hzmz
+杭州生活,http://dd.ddzb.fun:80/php/migu.php?id=hzsh
+杭州影视,http://dd.ddzb.fun:80/php/migu.php?id=hzys
+杭州少体,http://dd.ddzb.fun:80/php/migu.php?id=hzse
+嵊泗综合,http://dd.ddzb.fun:80/php/migu.php?id=ssxwzh
+普陀电视,http://dd.ddzb.fun:80/php/migu.php?id=ptxwzh
+高清大片,http://dd.ddzb.fun:80/php/migu.php?id=gqdp
+经典电影,http://dd.ddzb.fun:80/php/migu.php?id=jdxgdy
+军事大片,http://dd.ddzb.fun:80/php/migu.php?id=jsdp
+热剧联播,http://dd.ddzb.fun:80/php/migu.php?id=rjlb
+赛事经典,http://dd.ddzb.fun:80/php/migu.php?id=sszjd
+体坛名汇,http://dd.ddzb.fun:80/php/migu.php?id=ttmlh
+新片映厅,http://dd.ddzb.fun:80/php/migu.php?id=xpfyt
+Y+剧场台,http://dd.ddzb.fun:80/php/migu.php?id=yjjc
+熊猫频道,http://dd.ddzb.fun:80/php/migu.php?id=xmhd
+熊猫频道1,http://dd.ddzb.fun:80/php/migu.php?id=xm1
+熊猫频道2,http://dd.ddzb.fun:80/php/migu.php?id=xm2
+熊猫频道3,http://dd.ddzb.fun:80/php/migu.php?id=xm3
+熊猫频道4,http://dd.ddzb.fun:80/php/migu.php?id=xm4
+熊猫频道5,http://dd.ddzb.fun:80/php/migu.php?id=xm5
+熊猫频道6,http://dd.ddzb.fun:80/php/migu.php?id=xm6
+熊猫频道7,http://dd.ddzb.fun:80/php/migu.php?id=xm7
+熊猫频道8,http://dd.ddzb.fun:80/php/migu.php?id=xm8
+熊猫频道9,http://dd.ddzb.fun:80/php/migu.php?id=xm9
+熊猫频道10,http://dd.ddzb.fun:80/php/migu.php?id=xm10
+
+
 
 东方卫视,https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
 江苏卫视,https://api.livednow.org/migu/623899368?sign=gAAAAABnJcJqRqI051KXILLz-XtpXbmEXLRGs-Yttth90tUl-tH72dTMSRz5XSe39WHDnCr1uKjzpLzf-XqtGUIa-paJf3cDV1e-mJlqBCGc_ax_4pRulP6_2Jlc_SuTukDjaZs39go_UqkCqJgB8UAhhLbgibqSnuQrBTo4CkvfDCxfpsC0EXRHon4Pev7oJWFEMzDPrhcce4fsv356rgkUiSMuuBAzAw%3D%3D
@@ -198,6 +363,198 @@ UFC 格斗精选,https://api.livednow.org/migu/788818804?sign=gAAAAABnJcJq5jFTcg
 新片放映厅,https://api.livednow.org/migu/619495952?sign=gAAAAABnJcJqrIJgrcoIeFRkKbrfdSiF8jXAy1t1Wa359mOTG18s3DkIUs12M5uMK3jiTG0IHQ3hzG5f-7mK3WtvR55XvoAIqQXO_aujy6A-Rdf3A_PmEpZE6v5U-ZbcUgWSFOQhePE5KDAe5a5vaLoArcoGBUIjI_0vSdP0enIPN4iaLIPzrzwB1q7kDdTRVjaxCIhP_cLQkv5i5gOXLLkZ1tqzfBZkHw%3D%3D
 红色轮播台,https://api.livednow.org/migu/713600957?sign=gAAAAABnJcJqKcv4ZvnpHJq7guH5qfK-E94Lsv-ddDybFBencH4CkKU3hJpBKKEON0HWgQsEEhV7IkEMAMMwu3_p4K3GnowXD08BhsIAr6hI2lNtPgAQSv7o2CVfcBmz4bPbL3r9Mmk0ru7YpxGyVJE2gz0Fh8dVUMCHt7kjs29pnkKlPv58KCfkHPQFiMlSVlScvsOzE6YP80E2uz9MiTJnjAGMMMKT6g%3D%3D
 金色剧场,https://api.livednow.org/migu/713591450?sign=gAAAAABnJcJqoZuZ5rRYv4pGlOm67qauT9QltGRWXDa_LX_fIQ-fpbkoXusrK4uIsZO0J2wYUBZkt__GGJOlujcMBIELmH-YN_mtQidj6uIH8cMBN6-qsM30qPDfeBN24b4QuKrPbWXDh2gmOEwlV4KPfJ0TWwv8efmQDCuHvJHl_jug8JS8Fz3FlFQoQNSJJUvDj2RXRAcp7zmIacN3Ga8cddP9Avf0zw%3D%3D
+
+
+
+//======================================================
+
+
+
+
+
+
+飞哥4G,#genre#
+民视台湾台,http://litv.zapi.us.kg/?d=4gtv-4gtv001
+民视,http://litv.zapi.us.kg/?d=4gtv-4gtv002
+民视第一台,http://litv.zapi.us.kg/?d=4gtv-4gtv003
+民视综艺,http://litv.zapi.us.kg/?d=4gtv-4gtv004
+猪哥亮歌厅秀,http://litv.zapi.us.kg/?d=4gtv-4gtv006
+中天新闻,http://litv.zapi.us.kg/?d=4gtv-4gtv009
+非凡新闻,http://litv.zapi.us.kg/?d=4gtv-4gtv010
+影迷數位電影台,http://litv.zapi.us.kg/?d=4gtv-4gtv011
+視納華仁紀實頻道,http://litv.zapi.us.kg/?d=4gtv-4gtv013
+时尚运动X,http://litv.zapi.us.kg/?d=4gtv-4gtv014
+GLOBETROTTER,http://litv.zapi.us.kg/?d=4gtv-4gtv016
+amc电影台,http://litv.zapi.us.kg/?d=4gtv-4gtv017
+达文西频道,http://litv.zapi.us.kg/?d=4gtv-4gtv018
+八大精彩台,http://litv.zapi.us.kg/?d=4gtv-4gtv034
+八大综艺台,http://litv.zapi.us.kg/?d=4gtv-4gtv039
+中视,http://litv.zapi.us.kg/?d=4gtv-4gtv040
+华视,http://litv.zapi.us.kg/?d=4gtv-4gtv041
+公视戏剧,http://litv.zapi.us.kg/?d=4gtv-4gtv042
+客家电视台,http://litv.zapi.us.kg/?d=4gtv-4gtv043
+靖天卡通台,http://litv.zapi.us.kg/?d=4gtv-4gtv044
+靖洋戏剧台,http://litv.zapi.us.kg/?d=4gtv-4gtv045
+靖天综合台,http://litv.zapi.us.kg/?d=4gtv-4gtv046
+靖天日本台,http://litv.zapi.us.kg/?d=4gtv-4gtv047
+非凡商业,http://litv.zapi.us.kg/?d=4gtv-4gtv048
+采昌影剧,http://litv.zapi.us.kg/?d=4gtv-4gtv049
+台视新闻,http://litv.zapi.us.kg/?d=4gtv-4gtv051
+华视新闻,http://litv.zapi.us.kg/?d=4gtv-4gtv052
+GinxTV,http://litv.zapi.us.kg/?d=4gtv-4gtv053
+靖天欢乐台,http://litv.zapi.us.kg/?d=4gtv-4gtv054
+靖天映画,http://litv.zapi.us.kg/?d=4gtv-4gtv055
+台视财经,http://litv.zapi.us.kg/?d=4gtv-4gtv056
+靖洋卡通台,http://litv.zapi.us.kg/?d=4gtv-4gtv057
+靖天戏剧台,http://litv.zapi.us.kg/?d=4gtv-4gtv058
+古典音乐台,http://litv.zapi.us.kg/?d=4gtv-4gtv059
+靖天电影台,http://litv.zapi.us.kg/?d=4gtv-4gtv061
+靖天育乐台,http://litv.zapi.us.kg/?d=4gtv-4gtv062
+靖天国际台,http://litv.zapi.us.kg/?d=4gtv-4gtv063
+中视菁采,http://litv.zapi.us.kg/?d=4gtv-4gtv064
+靖天资讯台,http://litv.zapi.us.kg/?d=4gtv-4gtv065
+台视,http://litv.zapi.us.kg/?d=4gtv-4gtv066
+tvbs精采台,http://litv.zapi.us.kg/?d=4gtv-4gtv067
+tvbs欢乐台,http://litv.zapi.us.kg/?d=4gtv-4gtv068
+爱尔达娱乐,http://litv.zapi.us.kg/?d=4gtv-4gtv070
+tvbs新闻台,http://litv.zapi.us.kg/?d=4gtv-4gtv072
+tvbs,http://litv.zapi.us.kg/?d=4gtv-4gtv073
+中视新闻,http://litv.zapi.us.kg/?d=4gtv-4gtv074
+镜新闻,http://litv.zapi.us.kg/?d=4gtv-4gtv075
+CATCHPLAY电影台,http://litv.zapi.us.kg/?d=4gtv-4gtv076
+TRACE SPORTS STARS,http://litv.zapi.us.kg/?d=4gtv-4gtv077
+阿里郎,http://litv.zapi.us.kg/?d=4gtv-4gtv079
+中视经典,http://litv.zapi.us.kg/?d=4gtv-4gtv080
+TRACE URBAN,http://litv.zapi.us.kg/?d=4gtv-4gtv082
+MEZZO LIVE,http://litv.zapi.us.kg/?d=4gtv-4gtv083
+国会频道1,http://litv.zapi.us.kg/?d=4gtv-4gtv084
+国会频道2,http://litv.zapi.us.kg/?d=4gtv-4gtv085
+智林体育台,http://litv.zapi.us.kg/?d=4gtv-4gtv101
+国际财经,http://litv.zapi.us.kg/?d=4gtv-4gtv104
+第1商業台,http://litv.zapi.us.kg/?d=4gtv-4gtv109
+东森新闻,http://litv.zapi.us.kg/?d=4gtv-4gtv152
+东森财经新闻,http://litv.zapi.us.kg/?d=4gtv-4gtv153
+民视,http://litv.zapi.us.kg/?d=4gtv-4gtv155
+民视台湾台,http://litv.zapi.us.kg/?d=4gtv-4gtv156
+美国之音,http://litv.zapi.us.kg/?d=litv-ftv03
+民视旅游,http://litv.zapi.us.kg/?d=litv-ftv07
+民视影剧,http://litv.zapi.us.kg/?d=litv-ftv09
+半岛新闻,http://litv.zapi.us.kg/?d=litv-ftv10
+民视新闻台,http://litv.zapi.us.kg/?d=litv-ftv13
+爱放动漫,http://litv.zapi.us.kg/?d=litv-ftv15
+好消息,http://litv.zapi.us.kg/?d=litv-ftv16
+好消息2台,http://litv.zapi.us.kg/?d=litv-ftv17
+龙华卡通,http://litv.zapi.us.kg/?d=litv-longturn01
+龙华电影,http://litv.zapi.us.kg/?d=litv-longturn03
+博斯魅力,http://litv.zapi.us.kg/?d=litv-longturn04
+博斯高球1,http://litv.zapi.us.kg/?d=litv-longturn05
+博斯高球2,http://litv.zapi.us.kg/?d=litv-longturn06
+博斯运动1,http://litv.zapi.us.kg/?d=litv-longturn07
+博斯运动2,http://litv.zapi.us.kg/?d=litv-longturn08
+博斯网球,http://litv.zapi.us.kg/?d=litv-longturn09
+博斯无限,http://litv.zapi.us.kg/?d=litv-longturn10
+龙华日韩,http://litv.zapi.us.kg/?d=litv-longturn11
+龙华偶像,http://litv.zapi.us.kg/?d=litv-longturn12
+博斯无限2,http://litv.zapi.us.kg/?d=litv-longturn13
+寰宇新闻台,http://litv.zapi.us.kg/?d=litv-longturn14
+寰宇新闻台湾台,http://litv.zapi.us.kg/?d=litv-longturn15
+亚洲旅游台,http://litv.zapi.us.kg/?d=litv-longturn17
+龙华戏剧,http://litv.zapi.us.kg/?d=litv-longturn18
+Smart知识台,http://litv.zapi.us.kg/?d=litv-longturn19
+生活英语台,http://litv.zapi.us.kg/?d=litv-longturn20
+龙华经典,http://litv.zapi.us.kg/?d=litv-longturn21
+台湾戏剧台,http://litv.zapi.us.kg/?d=litv-longturn22
+
+民视台湾台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv001
+民视,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv002
+民视第一台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv003
+民视综艺,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv004
+猪哥亮歌厅秀,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv006
+中天新闻,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv009
+非凡新闻,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv010
+影迷數位電影台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv011
+視納華仁紀實頻道,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv013
+时尚运动X,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv014
+GLOBETROTTER,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv016
+amc电影台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv017
+达文西频道,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv018
+八大精彩台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv034
+八大综艺台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv039
+中视,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv040
+华视,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv041
+公视戏剧,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv042
+客家电视台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv043
+靖天卡通台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv044
+靖洋戏剧台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv045
+靖天综合台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv046
+靖天日本台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv047
+非凡商业,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv048
+采昌影剧,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv049
+台视新闻,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv051
+华视新闻,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv052
+GinxTV,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv053
+靖天欢乐台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv054
+靖天映画,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv055
+台视财经,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv056
+靖洋卡通台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv057
+靖天戏剧台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv058
+古典音乐台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv059
+靖天电影台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv061
+靖天育乐台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv062
+靖天国际台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv063
+中视菁采,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv064
+靖天资讯台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv065
+台视,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv066
+tvbs精采台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv067
+tvbs欢乐台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv068
+爱尔达娱乐,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv070
+tvbs新闻台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv072
+tvbs,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv073
+中视新闻,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv074
+镜新闻,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv075
+CATCHPLAY电影台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv076
+TRACE SPORTS STARS,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv077
+阿里郎,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv079
+中视经典,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv080
+TRACE URBAN,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv082
+MEZZO LIVE,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv083
+国会频道1,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv084
+国会频道2,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv085
+智林体育台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv101
+国际财经,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv104
+第1商業台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv109
+东森新闻,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv152
+东森财经新闻,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv153
+民视,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv155
+民视台湾台,http://23.224.49.16:8866/3357.php?id=4gtv-4gtv156
+美国之音,http://23.224.49.16:8866/3357.php?id=litv-ftv03
+民视旅游,http://23.224.49.16:8866/3357.php?id=litv-ftv07
+民视影剧,http://23.224.49.16:8866/3357.php?id=litv-ftv09
+半岛新闻,http://23.224.49.16:8866/3357.php?id=litv-ftv10
+民视新闻台,http://23.224.49.16:8866/3357.php?id=litv-ftv13
+爱放动漫,http://23.224.49.16:8866/3357.php?id=litv-ftv15
+好消息,http://23.224.49.16:8866/3357.php?id=litv-ftv16
+好消息2台,http://23.224.49.16:8866/3357.php?id=litv-ftv17
+龙华卡通,http://23.224.49.16:8866/3357.php?id=litv-longturn01
+龙华电影,http://23.224.49.16:8866/3357.php?id=litv-longturn03
+博斯魅力,http://23.224.49.16:8866/3357.php?id=litv-longturn04
+博斯高球1,http://23.224.49.16:8866/3357.php?id=litv-longturn05
+博斯高球2,http://23.224.49.16:8866/3357.php?id=litv-longturn06
+博斯运动1,http://23.224.49.16:8866/3357.php?id=litv-longturn07
+博斯运动2,http://23.224.49.16:8866/3357.php?id=litv-longturn08
+博斯网球,http://23.224.49.16:8866/3357.php?id=litv-longturn09
+博斯无限,http://23.224.49.16:8866/3357.php?id=litv-longturn10
+龙华日韩,http://23.224.49.16:8866/3357.php?id=litv-longturn11
+龙华偶像,http://23.224.49.16:8866/3357.php?id=litv-longturn12
+博斯无限2,http://23.224.49.16:8866/3357.php?id=litv-longturn13
+寰宇新闻台,http://23.224.49.16:8866/3357.php?id=litv-longturn14
+寰宇新闻台湾台,http://23.224.49.16:8866/3357.php?id=litv-longturn15
+亚洲旅游台,http://23.224.49.16:8866/3357.php?id=litv-longturn17
+龙华戏剧,http://23.224.49.16:8866/3357.php?id=litv-longturn18
+Smart知识台,http://23.224.49.16:8866/3357.php?id=litv-longturn19
+生活英语台,http://23.224.49.16:8866/3357.php?id=litv-longturn20
+龙华经典,http://23.224.49.16:8866/3357.php?id=litv-longturn21
+台湾戏剧台,http://23.224.49.16:8866/3357.php?id=litv-longturn22
 
 
 
@@ -989,101 +1346,101 @@ ViuTV6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297
 
 
 虎牙,#genre#
-虎牙-周星驰,https://hyf666.eu.org/huya/11342412
-虎牙-林正英,https://hyf666.eu.org/huya/11342421
-虎牙-沈腾,https://hyf666.eu.org/huya/11601968
-虎牙-猫和老鼠,https://hyf666.eu.org/huya/11352879
-虎牙-成龙,https://hyf666.eu.org/huya/11342386
-虎牙-李连杰,https://hyf666.eu.org/huya/11342390
-虎牙-刘德华,https://hyf666.eu.org/huya/11342424
-虎牙-王晶,https://hyf666.eu.org/huya/11602058
-虎牙-中华小当家,https://hyf666.eu.org/huya/11342413
-虎牙-杰森·斯坦森,https://hyf666.eu.org/huya/21059588
-虎牙-喜剧专场,https://hyf666.eu.org/huya/11602044
-虎牙-甄子丹,https://hyf666.eu.org/huya/11352935
-虎牙-巨石强森,https://hyf666.eu.org/huya/21059581
-虎牙-洪金宝,https://hyf666.eu.org/huya/11279251
-虎牙-詹姆斯邦德,https://hyf666.eu.org/huya/21059585
-虎牙-徐克,https://hyf666.eu.org/huya/11352909
-虎牙-周润发,https://hyf666.eu.org/huya/11342387
-虎牙-徐峥,https://hyf666.eu.org/huya/11602043
-虎牙-许氏三杰,https://hyf666.eu.org/huya/11602033
-虎牙-黄渤,https://hyf666.eu.org/huya/11352876
-虎牙-张卫健,https://hyf666.eu.org/huya/11342423
-虎牙-冯小刚,https://hyf666.eu.org/huya/11352906
-虎牙-百鸟朝凤,https://hyf666.eu.org/huya/15894162
-虎牙-陈翔六点半,https://hyf666.eu.org/huya/11274154
-虎牙-电锯惊魂系列,https://hyf666.eu.org/huya/11352903
-虎牙-电影,https://hyf666.eu.org/huya/618917
-虎牙-港台电影,https://hyf666.eu.org/huya/880261
-虎牙-高分电影,https://hyf666.eu.org/huya/16615910
-虎牙-搞笑僵尸片,https://hyf666.eu.org/huya/11352963
-虎牙-国产青春,https://hyf666.eu.org/huya/11602075
-虎牙-好莱坞,https://hyf666.eu.org/huya/21059587
-虎牙-黑帮斗争,https://hyf666.eu.org/huya/11342419
-虎牙-红海行动,https://hyf666.eu.org/huya/11601986
-虎牙-金庸的武侠世界,https://hyf666.eu.org/huya/11342435
-虎牙-金庸,https://hyf666.eu.org/huya/11352897
-虎牙-经典高智商,https://hyf666.eu.org/huya/11352962
-虎牙-经典好片,https://hyf666.eu.org/huya/11342427
-虎牙-经典喜剧片,https://hyf666.eu.org/huya/11352894
-虎牙-精彩不断,https://hyf666.eu.org/huya/24396428
-虎牙-精忠岳飞南征北战,https://hyf666.eu.org/huya/11336578
-虎牙-警匪,https://hyf666.eu.org/huya/11352886
-虎牙-看救援电影,https://hyf666.eu.org/huya/21059586
-虎牙-科幻电影,https://hyf666.eu.org/huya/11602034
-虎牙-路飞,https://hyf666.eu.org/huya/16913382
-虎牙-麻雀,https://hyf666.eu.org/huya/11352881
-虎牙-命案十三宗,https://hyf666.eu.org/huya/11601981
-虎牙-魔法世界,https://hyf666.eu.org/huya/21059580
-虎牙-欧美电影,https://hyf666.eu.org/huya/11352880
-虎牙-欧美电影,https://hyf666.eu.org/huya/21059581
-虎牙-欧美娱乐,https://hyf666.eu.org/huya/21059574
-虎牙-倩女幽魂,https://hyf666.eu.org/huya/11601970
+虎牙-周星驰,http://120.77.28.4:8648/huya.php?id=11342412
+虎牙-林正英,http://120.77.28.4:8648/huya.php?id=11342421
+虎牙-沈腾,http://120.77.28.4:8648/huya.php?id=11601968
+虎牙-猫和老鼠,http://120.77.28.4:8648/huya.php?id=11352879
+虎牙-成龙,http://120.77.28.4:8648/huya.php?id=11342386
+虎牙-李连杰,http://120.77.28.4:8648/huya.php?id=11342390
+虎牙-刘德华,http://120.77.28.4:8648/huya.php?id=11342424
+虎牙-王晶,http://120.77.28.4:8648/huya.php?id=11602058
+虎牙-中华小当家,http://120.77.28.4:8648/huya.php?id=11342413
+虎牙-杰森·斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
+虎牙-喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
+虎牙-甄子丹,http://120.77.28.4:8648/huya.php?id=11352935
+虎牙-巨石强森,http://120.77.28.4:8648/huya.php?id=21059581
+虎牙-洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
+虎牙-詹姆斯邦德,http://120.77.28.4:8648/huya.php?id=21059585
+虎牙-徐克,http://120.77.28.4:8648/huya.php?id=11352909
+虎牙-周润发,http://120.77.28.4:8648/huya.php?id=11342387
+虎牙-徐峥,http://120.77.28.4:8648/huya.php?id=11602043
+虎牙-许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
+虎牙-黄渤,http://120.77.28.4:8648/huya.php?id=11352876
+虎牙-张卫健,http://120.77.28.4:8648/huya.php?id=11342423
+虎牙-冯小刚,http://120.77.28.4:8648/huya.php?id=11352906
+虎牙-百鸟朝凤,http://120.77.28.4:8648/huya.php?id=15894162
+虎牙-陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154
+虎牙-电锯惊魂系列,http://120.77.28.4:8648/huya.php?id=11352903
+虎牙-电影,http://120.77.28.4:8648/huya.php?id=618917
+虎牙-港台电影,http://120.77.28.4:8648/huya.php?id=880261
+虎牙-高分电影,http://120.77.28.4:8648/huya.php?id=16615910
+虎牙-搞笑僵尸片,http://120.77.28.4:8648/huya.php?id=11352963
+虎牙-国产青春,http://120.77.28.4:8648/huya.php?id=11602075
+虎牙-好莱坞,http://120.77.28.4:8648/huya.php?id=21059587
+虎牙-黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
+虎牙-红海行动,http://120.77.28.4:8648/huya.php?id=11601986
+虎牙-金庸的武侠世界,http://120.77.28.4:8648/huya.php?id=11342435
+虎牙-金庸,http://120.77.28.4:8648/huya.php?id=11352897
+虎牙-经典高智商,http://120.77.28.4:8648/huya.php?id=11352962
+虎牙-经典好片,http://120.77.28.4:8648/huya.php?id=11342427
+虎牙-经典喜剧片,http://120.77.28.4:8648/huya.php?id=11352894
+虎牙-精彩不断,http://120.77.28.4:8648/huya.php?id=24396428
+虎牙-精忠岳飞南征北战,http://120.77.28.4:8648/huya.php?id=11336578
+虎牙-警匪,http://120.77.28.4:8648/huya.php?id=11352886
+虎牙-看救援电影,http://120.77.28.4:8648/huya.php?id=21059586
+虎牙-科幻电影,http://120.77.28.4:8648/huya.php?id=11602034
+虎牙-路飞,http://120.77.28.4:8648/huya.php?id=16913382
+虎牙-麻雀,http://120.77.28.4:8648/huya.php?id=11352881
+虎牙-命案十三宗,http://120.77.28.4:8648/huya.php?id=11601981
+虎牙-魔法世界,http://120.77.28.4:8648/huya.php?id=21059580
+虎牙-欧美电影,http://120.77.28.4:8648/huya.php?id=11352880
+虎牙-欧美电影,http://120.77.28.4:8648/huya.php?id=21059581
+虎牙-欧美娱乐,http://120.77.28.4:8648/huya.php?id=21059574
+虎牙-倩女幽魂,http://120.77.28.4:8648/huya.php?id=11601970
 女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-港台电影,https://hyf666.eu.org/huya/880261
-黑帮斗争,https://hyf666.eu.org/huya/11342419
-未知,https://hyf666.eu.org/huya/11601986
-金庸电影,https://hyf666.eu.org/huya/11352897
-经典电影,https://hyf666.eu.org/huya/11352962
-经典好片,https://hyf666.eu.org/huya/11342427
-经典喜剧片,https://hyf666.eu.org/huya/11352894
-警匪,https://hyf666.eu.org/huya/11352886
-救援电影,https://hyf666.eu.org/huya/21059586
-科幻电影,https://hyf666.eu.org/huya/11602034
-电影22,https://hyf666.eu.org/huya/11601981
-欧美电影,https://hyf666.eu.org/huya/11352880
-欧美电影,https://hyf666.eu.org/huya/21059581
-电影23,https://hyf666.eu.org/huya/11601970
-史诗级战争电影,https://hyf666.eu.org/huya/21059556
-电影24,https://hyf666.eu.org/huya/21059579
-电影55,https://hyf666.eu.org/huya/23652317
-虎牙-喜剧专场,https://hyf666.eu.org/huya/11602044
-电影26,https://hyf666.eu.org/huya/21059577
-电影77,https://hyf666.eu.org/huya/11601971
-电影78,https://hyf666.eu.org/huya/11342414
-虎牙-神话,https://hyf666.eu.org/huya/11352913
-虎牙-生活大爆炸,https://hyf666.eu.org/huya/11342417
-虎牙-史诗级战争电影,https://hyf666.eu.org/huya/21059556
-虎牙-孙悟空,https://hyf666.eu.org/huya/11342395
-虎牙-太空混战,https://hyf666.eu.org/huya/21059579
-虎牙-天雷滚滚,https://hyf666.eu.org/huya/11352945
-虎牙-天龙八部,https://hyf666.eu.org/huya/11602041
-虎牙-歪果仁动作,https://hyf666.eu.org/huya/21059552
-虎牙-文成公主,https://hyf666.eu.org/huya/11352974
-虎牙-我是大哥大,https://hyf666.eu.org/huya/23652317
-虎牙-喜剧合家欢,https://hyf666.eu.org/huya/11352877
-虎牙-喜剧专场,https://hyf666.eu.org/huya/11602044
-虎牙-小鲤鱼,https://hyf666.eu.org/huya/11601961
-虎牙-悬疑推理,https://hyf666.eu.org/huya/17445539
-虎牙-杨门女将,https://hyf666.eu.org/huya/11336590
-虎牙-医馆笑传,https://hyf666.eu.org/huya/11352891
-虎牙-异形世界,https://hyf666.eu.org/huya/21059577
-虎牙-甄嬛传,https://hyf666.eu.org/huya/11601971
-虎牙-止戈电影,https://hyf666.eu.org/huya/19863777
-虎牙-中国功夫,https://hyf666.eu.org/huya/11352941
-虎牙-朱雀青龙,https://hyf666.eu.org/huya/11352905
-虎牙-捉妖记,https://hyf666.eu.org/huya/11342414
+港台电影,http://120.77.28.4:8648/huya.php?id=880261
+黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
+未知,http://120.77.28.4:8648/huya.php?id=11601986
+金庸电影,http://120.77.28.4:8648/huya.php?id=11352897
+经典电影,http://120.77.28.4:8648/huya.php?id=11352962
+经典好片,http://120.77.28.4:8648/huya.php?id=11342427
+经典喜剧片,http://120.77.28.4:8648/huya.php?id=11352894
+警匪,http://120.77.28.4:8648/huya.php?id=11352886
+救援电影,http://120.77.28.4:8648/huya.php?id=21059586
+科幻电影,http://120.77.28.4:8648/huya.php?id=11602034
+电影22,http://120.77.28.4:8648/huya.php?id=11601981
+欧美电影,http://120.77.28.4:8648/huya.php?id=11352880
+欧美电影,http://120.77.28.4:8648/huya.php?id=21059581
+电影23,http://120.77.28.4:8648/huya.php?id=11601970
+史诗级战争电影,http://120.77.28.4:8648/huya.php?id=21059556
+电影24,http://120.77.28.4:8648/huya.php?id=21059579
+电影55,http://120.77.28.4:8648/huya.php?id=23652317
+虎牙-喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
+电影26,http://120.77.28.4:8648/huya.php?id=21059577
+电影77,http://120.77.28.4:8648/huya.php?id=11601971
+电影78,http://120.77.28.4:8648/huya.php?id=11342414
+虎牙-神话,http://120.77.28.4:8648/huya.php?id=11352913
+虎牙-生活大爆炸,http://120.77.28.4:8648/huya.php?id=11342417
+虎牙-史诗级战争电影,http://120.77.28.4:8648/huya.php?id=21059556
+虎牙-孙悟空,http://120.77.28.4:8648/huya.php?id=11342395
+虎牙-太空混战,http://120.77.28.4:8648/huya.php?id=21059579
+虎牙-天雷滚滚,http://120.77.28.4:8648/huya.php?id=11352945
+虎牙-天龙八部,http://120.77.28.4:8648/huya.php?id=11602041
+虎牙-歪果仁动作,http://120.77.28.4:8648/huya.php?id=21059552
+虎牙-文成公主,http://120.77.28.4:8648/huya.php?id=11352974
+虎牙-我是大哥大,http://120.77.28.4:8648/huya.php?id=23652317
+虎牙-喜剧合家欢,http://120.77.28.4:8648/huya.php?id=11352877
+虎牙-喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
+虎牙-小鲤鱼,http://120.77.28.4:8648/huya.php?id=11601961
+虎牙-悬疑推理,http://120.77.28.4:8648/huya.php?id=17445539
+虎牙-杨门女将,http://120.77.28.4:8648/huya.php?id=11336590
+虎牙-医馆笑传,http://120.77.28.4:8648/huya.php?id=11352891
+虎牙-异形世界,http://120.77.28.4:8648/huya.php?id=21059577
+虎牙-甄嬛传,http://120.77.28.4:8648/huya.php?id=11601971
+虎牙-止戈电影,http://120.77.28.4:8648/huya.php?id=19863777
+虎牙-中国功夫,http://120.77.28.4:8648/huya.php?id=11352941
+虎牙-朱雀青龙,http://120.77.28.4:8648/huya.php?id=11352905
+虎牙-捉妖记,http://120.77.28.4:8648/huya.php?id=11342414
 
 
 
@@ -1125,68 +1482,68 @@ ViuTV6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297
 埋堆堆,#genre#
 
 
-埋堆堆1,https://hyf666.eu.org/huya/23749096
-埋堆堆2,https://hyf666.eu.org/huya/23735126
-埋堆堆3,https://hyf666.eu.org/huya/23865152
-埋堆堆4,https://hyf666.eu.org/huya/23903196
-埋堆堆5,https://hyf666.eu.org/huya/23740156
-埋堆堆6,https://hyf666.eu.org/huya/23728660
-埋堆堆7,https://hyf666.eu.org/huya/23735153
-埋堆堆8,https://hyf666.eu.org/huya/23865058
-埋堆堆9,https://hyf666.eu.org/huya/23734183
-埋堆堆10,https://hyf666.eu.org/huya/23749068
-埋堆堆11,https://hyf666.eu.org/huya/23865036
-埋堆堆12,https://hyf666.eu.org/huya/23740162
-埋堆堆13,https://hyf666.eu.org/huya/23829474
-埋堆堆14,https://hyf666.eu.org/huya/23863833
-埋堆堆15,https://hyf666.eu.org/huya/23903106
-埋堆堆16,https://hyf666.eu.org/huya/23865025
-埋堆堆17,https://hyf666.eu.org/huya/23728689
-埋堆堆18,https://hyf666.eu.org/huya/23824171
-埋堆堆19,https://hyf666.eu.org/huya/23860057
-埋堆堆20,https://hyf666.eu.org/huya/23865072
-埋堆堆21,https://hyf666.eu.org/huya/23734176
-埋堆堆22,https://hyf666.eu.org/huya/23728651
-埋堆堆23,https://hyf666.eu.org/huya/23734246
-埋堆堆24,https://hyf666.eu.org/huya/23865179
-埋堆堆25,https://hyf666.eu.org/huya/23734196
-埋堆堆26,https://hyf666.eu.org/huya/23734211
-埋堆堆27,https://hyf666.eu.org/huya/23865086
-埋堆堆28,https://hyf666.eu.org/huya/23863796
-埋堆堆29,https://hyf666.eu.org/huya/23863822
-埋堆堆30,https://hyf666.eu.org/huya/23749083
-埋堆堆31,https://hyf666.eu.org/huya/23734243
-埋堆堆32,https://hyf666.eu.org/huya/23864480
-埋堆堆33,https://hyf666.eu.org/huya/23746486
-埋堆堆34,https://hyf666.eu.org/huya/23860049
-埋堆堆35,https://hyf666.eu.org/huya/23749074
-埋堆堆36,https://hyf666.eu.org/huya/23863882
-埋堆堆37,https://hyf666.eu.org/huya/23863778
-埋堆堆38,https://hyf666.eu.org/huya/23824164
-埋堆堆39,https://hyf666.eu.org/huya/23829537
-埋堆堆40,https://hyf666.eu.org/huya/23863809
-埋堆堆41,https://hyf666.eu.org/huya/23865096
-埋堆堆42,https://hyf666.eu.org/huya/23863804
-埋堆堆43,https://hyf666.eu.org/huya/23728630
-埋堆堆44,https://hyf666.eu.org/huya/23863895
-埋堆堆45,https://hyf666.eu.org/huya/23863787
-埋堆堆46,https://hyf666.eu.org/huya/23728637
-埋堆堆47,https://hyf666.eu.org/huya/23865142
-埋堆堆48,https://hyf666.eu.org/huya/23903085
-埋堆堆49,https://hyf666.eu.org/huya/23903183
-埋堆堆50,https://hyf666.eu.org/huya/23728647
-埋堆堆51,https://hyf666.eu.org/huya/23746691
-埋堆堆52,https://hyf666.eu.org/huya/23829447
-埋堆堆53,https://hyf666.eu.org/huya/23728693
-埋堆堆54,https://hyf666.eu.org/huya/23903130
-埋堆堆55,https://hyf666.eu.org/huya/23734223
-埋堆堆56,https://hyf666.eu.org/huya/23734169
-埋堆堆57,https://hyf666.eu.org/huya/23865124
-埋堆堆58,https://hyf666.eu.org/huya/23865186
-埋堆堆59,https://hyf666.eu.org/huya/23902225
-埋堆堆60,https://hyf666.eu.org/huya/23903164
-埋堆堆61,https://hyf666.eu.org/huya/23728674
-埋堆堆62,https://hyf666.eu.org/huya/23863818
+埋堆堆1,http://120.77.28.4:8648/huya.php?id=23749096
+埋堆堆2,http://120.77.28.4:8648/huya.php?id=23735126
+埋堆堆3,http://120.77.28.4:8648/huya.php?id=23865152
+埋堆堆4,http://120.77.28.4:8648/huya.php?id=23903196
+埋堆堆5,http://120.77.28.4:8648/huya.php?id=23740156
+埋堆堆6,http://120.77.28.4:8648/huya.php?id=23728660
+埋堆堆7,http://120.77.28.4:8648/huya.php?id=23735153
+埋堆堆8,http://120.77.28.4:8648/huya.php?id=23865058
+埋堆堆9,http://120.77.28.4:8648/huya.php?id=23734183
+埋堆堆10,http://120.77.28.4:8648/huya.php?id=23749068
+埋堆堆11,http://120.77.28.4:8648/huya.php?id=23865036
+埋堆堆12,http://120.77.28.4:8648/huya.php?id=23740162
+埋堆堆13,http://120.77.28.4:8648/huya.php?id=23829474
+埋堆堆14,http://120.77.28.4:8648/huya.php?id=23863833
+埋堆堆15,http://120.77.28.4:8648/huya.php?id=23903106
+埋堆堆16,http://120.77.28.4:8648/huya.php?id=23865025
+埋堆堆17,http://120.77.28.4:8648/huya.php?id=23728689
+埋堆堆18,http://120.77.28.4:8648/huya.php?id=23824171
+埋堆堆19,http://120.77.28.4:8648/huya.php?id=23860057
+埋堆堆20,http://120.77.28.4:8648/huya.php?id=23865072
+埋堆堆21,http://120.77.28.4:8648/huya.php?id=23734176
+埋堆堆22,http://120.77.28.4:8648/huya.php?id=23728651
+埋堆堆23,http://120.77.28.4:8648/huya.php?id=23734246
+埋堆堆24,http://120.77.28.4:8648/huya.php?id=23865179
+埋堆堆25,http://120.77.28.4:8648/huya.php?id=23734196
+埋堆堆26,http://120.77.28.4:8648/huya.php?id=23734211
+埋堆堆27,http://120.77.28.4:8648/huya.php?id=23865086
+埋堆堆28,http://120.77.28.4:8648/huya.php?id=23863796
+埋堆堆29,http://120.77.28.4:8648/huya.php?id=23863822
+埋堆堆30,http://120.77.28.4:8648/huya.php?id=23749083
+埋堆堆31,http://120.77.28.4:8648/huya.php?id=23734243
+埋堆堆32,http://120.77.28.4:8648/huya.php?id=23864480
+埋堆堆33,http://120.77.28.4:8648/huya.php?id=23746486
+埋堆堆34,http://120.77.28.4:8648/huya.php?id=23860049
+埋堆堆35,http://120.77.28.4:8648/huya.php?id=23749074
+埋堆堆36,http://120.77.28.4:8648/huya.php?id=23863882
+埋堆堆37,http://120.77.28.4:8648/huya.php?id=23863778
+埋堆堆38,http://120.77.28.4:8648/huya.php?id=23824164
+埋堆堆39,http://120.77.28.4:8648/huya.php?id=23829537
+埋堆堆40,http://120.77.28.4:8648/huya.php?id=23863809
+埋堆堆41,http://120.77.28.4:8648/huya.php?id=23865096
+埋堆堆42,http://120.77.28.4:8648/huya.php?id=23863804
+埋堆堆43,http://120.77.28.4:8648/huya.php?id=23728630
+埋堆堆44,http://120.77.28.4:8648/huya.php?id=23863895
+埋堆堆45,http://120.77.28.4:8648/huya.php?id=23863787
+埋堆堆46,http://120.77.28.4:8648/huya.php?id=23728637
+埋堆堆47,http://120.77.28.4:8648/huya.php?id=23865142
+埋堆堆48,http://120.77.28.4:8648/huya.php?id=23903085
+埋堆堆49,http://120.77.28.4:8648/huya.php?id=23903183
+埋堆堆50,http://120.77.28.4:8648/huya.php?id=23728647
+埋堆堆51,http://120.77.28.4:8648/huya.php?id=23746691
+埋堆堆52,http://120.77.28.4:8648/huya.php?id=23829447
+埋堆堆53,http://120.77.28.4:8648/huya.php?id=23728693
+埋堆堆54,http://120.77.28.4:8648/huya.php?id=23903130
+埋堆堆55,http://120.77.28.4:8648/huya.php?id=23734223
+埋堆堆56,http://120.77.28.4:8648/huya.php?id=23734169
+埋堆堆57,http://120.77.28.4:8648/huya.php?id=23865124
+埋堆堆58,http://120.77.28.4:8648/huya.php?id=23865186
+埋堆堆59,http://120.77.28.4:8648/huya.php?id=23902225
+埋堆堆60,http://120.77.28.4:8648/huya.php?id=23903164
+埋堆堆61,http://120.77.28.4:8648/huya.php?id=23728674
+埋堆堆62,http://120.77.28.4:8648/huya.php?id=23863818
 
 
 
@@ -1196,28 +1553,72 @@ ViuTV6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297
 
 ㊙测试㊙_0000,#genre#
 性教育,https://cf005.paopao.video:443/D8015221C25EDF5504A00073FBDE053F5590C804
-松视1,https://hyf.serv00.net/fg/松视1.php
-松视2,https://hyf.serv00.net/fg/松视2.php
-彩虹电影,https://hyf.serv00.net/fg/彩虹电影.php
-香蕉台,https://hyf.serv00.net/fg/香蕉台.php
-惊艳台,https://hyf.serv00.net/fg/惊艳台.php
-玩美台,https://hyf.serv00.net/fg/玩美台.php
-Babes,https://hyf.serv00.net/fg/Babes.php
-DorcelXXX,https://hyf.serv00.net/fg/DorcelXXX.php
-DirtyFlix,https://hyf.serv00.net/fg/DirtyFlix.php
-流氓兔,https://hyf.serv00.net/fg/流氓兔.php
-Hustler,https://hyf.serv00.net/fg/Hustler.php
-红绿兔,https://hyf.serv00.net/fg/红绿兔.php
-Desire,https://hyf.serv00.net/fg/Desire.php
-Eroxxx,https://hyf.serv00.net/fg/Eroxxx.php
-Erox,https://hyf.serv00.net/fg/Erox.php
-Dorcel,https://hyf.serv00.net/fg/Dorcel.php
-Extasy,https://hyf.serv00.net/fg/Extasy.php
-BrazzersEurope,https://hyf.serv00.net/fg/BrazzersEurope.php
-Tushy,https://hyf.serv00.net/fg/Tushy.php
-JapanHDV,https://hyf.serv00.net/fg/JapanHDV.php
-Brazzers,https://hyf.serv00.net/fg/Brazzers.php
-菊花台,https://hyf.serv00.net/fg/菊花台.php
+4K: EXOTIC,http://lunar.pm:8080/Mrlenny/fish/122875
+4K: TINY4K,http://lunar.pm:8080/Mrlenny/fish/122876
+4K: SLIM4K,http://lunar.pm:8080/Mrlenny/fish/122877
+4K: CUCK HUNTER,http://lunar.pm:8080/Mrlenny/fish/122878
+4K: TINY4K 2,http://lunar.pm:8080/Mrlenny/fish/122879
+4K: FIRST CLASS,http://lunar.pm:8080/Mrlenny/fish/122880
+4K: FOXY4KME,http://lunar.pm:8080/Mrlenny/fish/122881
+4K: CUM 4K,http://lunar.pm:8080/Mrlenny/fish/122882
+4K: BENEFIT MONKEY,http://lunar.pm:8080/Mrlenny/fish/122883
+4K: FAPADOO THREESOMES,http://lunar.pm:8080/Mrlenny/fish/122884
+4K: LETS DO IT [HIGH],http://lunar.pm:8080/Mrlenny/fish/122885
+4K: ABELLA DANGER,http://lunar.pm:8080/Mrlenny/fish/122886
+4K: ADRIANA CHECHIK,http://lunar.pm:8080/Mrlenny/fish/122887
+4K: ALINA LOPEZ,http://lunar.pm:8080/Mrlenny/fish/122888
+4K: ANGELA WHITE,http://lunar.pm:8080/Mrlenny/fish/122889
+4K: ARIANA MARIE,http://lunar.pm:8080/Mrlenny/fish/122890
+4K: AUGUST AMES,http://lunar.pm:8080/Mrlenny/fish/122891
+4K: BRANDI LOVE,http://lunar.pm:8080/Mrlenny/fish/122892
+4K: DANI DANIELS,http://lunar.pm:8080/Mrlenny/fish/122893
+4K: DANI JENSEN,http://lunar.pm:8080/Mrlenny/fish/122894
+4K: ELSA JEAN,http://lunar.pm:8080/Mrlenny/fish/122895
+4K: EMILY WILLIS,http://lunar.pm:8080/Mrlenny/fish/122896
+4K: EVA LOVIA,http://lunar.pm:8080/Mrlenny/fish/122897
+4K: GINA VALENTINA,http://lunar.pm:8080/Mrlenny/fish/122898
+4K: JANICE GRIFFITH,http://lunar.pm:8080/Mrlenny/fish/122899
+4K: AUTUMN FALLS,http://lunar.pm:8080/Mrlenny/fish/122900
+VIP: TINY4K,http://lunar.pm:8080/Mrlenny/fish/122901
+VIP: TUSHY,http://lunar.pm:8080/Mrlenny/fish/122902
+VIP: VIXEN,http://lunar.pm:8080/Mrlenny/fish/122903
+VIP: ASIAN BONDAGE,http://lunar.pm:8080/Mrlenny/fish/122904
+VIP: ASIAN SEX DIARY,http://lunar.pm:8080/Mrlenny/fish/122905
+VIP: BLACK GFS,http://lunar.pm:8080/Mrlenny/fish/122906
+VIP: BLACK NEED,http://lunar.pm:8080/Mrlenny/fish/122907
+VIP: BLACKED,http://lunar.pm:8080/Mrlenny/fish/122908
+VIP: Blacked HD,http://lunar.pm:8080/Mrlenny/fish/122909
+VIP: Brand New Amateurs,http://lunar.pm:8080/Mrlenny/fish/122910
+VIP: Bratty Sis,http://lunar.pm:8080/Mrlenny/fish/122911
+VIP: BRATTY SIS,http://lunar.pm:8080/Mrlenny/fish/122912
+VIP: Brazzers HD,http://lunar.pm:8080/Mrlenny/fish/122913
+VIP: Brazzers TV Europe,http://lunar.pm:8080/Mrlenny/fish/122914
+VIP: CHINA XXX,http://lunar.pm:8080/Mrlenny/fish/122915
+VIP: CUM4K,http://lunar.pm:8080/Mrlenny/fish/122916
+VIP: DOGFART NETWORK,http://lunar.pm:8080/Mrlenny/fish/122917
+VIP: FAKE TAXI,http://lunar.pm:8080/Mrlenny/fish/122918
+VIP: FAMILY STROKES,http://lunar.pm:8080/Mrlenny/fish/122919
+VIP: FILTHY KINGS,http://lunar.pm:8080/Mrlenny/fish/122920
+VIP: FIt 18,http://lunar.pm:8080/Mrlenny/fish/122921
+VIP: GOLDEN ASIA CHERRY,http://lunar.pm:8080/Mrlenny/fish/122922
+VIP: HER LIMIT,http://lunar.pm:8080/Mrlenny/fish/122923
+VIP: IBIZA,http://lunar.pm:8080/Mrlenny/fish/122924
+VIP: JAYS POV,http://lunar.pm:8080/Mrlenny/fish/122925
+VIP: LETS DOEIT,http://lunar.pm:8080/Mrlenny/fish/122926
+VIP: LITTLE ASIANS,http://lunar.pm:8080/Mrlenny/fish/122927
+VIP: MODEL MEDIA ASIAN,http://lunar.pm:8080/Mrlenny/fish/122928
+VIP: MOMS TEACH,http://lunar.pm:8080/Mrlenny/fish/122929
+VIP:  MOFOS,http://lunar.pm:8080/Mrlenny/fish/122930
+VIP: MY FAMILY PIES,http://lunar.pm:8080/Mrlenny/fish/122931
+VIP: MY PERVY FAMILY,http://lunar.pm:8080/Mrlenny/fish/122932
+VIP: NET VIDEO GIRLS,http://lunar.pm:8080/Mrlenny/fish/122933
+VIP: NEW SENSATIONS,http://lunar.pm:8080/Mrlenny/fish/122934
+VIP: NUBILE FILMS,http://lunar.pm:8080/Mrlenny/fish/122935
+VIP: PRIVATE BLACK,http://lunar.pm:8080/Mrlenny/fish/122936
+VIP: PROPERTY SEX,http://lunar.pm:8080/Mrlenny/fish/122937
+VIP: PUPLIC AGENT,http://lunar.pm:8080/Mrlenny/fish/122938
+VIP: REALITY KINGS,http://lunar.pm:8080/Mrlenny/fish/122939
+VIP: SPANK MONSTER,http://lunar.pm:8080/Mrlenny/fish/122940
 
 
 
