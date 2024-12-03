@@ -7,21 +7,24 @@
 抖音小姐姐,https://80947108.eu.org/xjj.php
 小姐姐,http://cfss.cc/cdn/yy/54880976.flv
 CCTV1,https://hyf.serv00.net/fg/CCTV1.php
+CCTV4美洲,https://hyf.serv00.net/fg/CCTV4美洲.php
 CCTV6,https://hyf.serv00.net/fg/CCTV6.php
-CHC动作电影,https://hyf.serv00.net/fg/CHC动作电影.php
-CHC影迷电影,https://hyf.serv00.net/fg/CHC影迷电影.php
-CHC家庭影院,https://hyf.serv00.net/fg/CHC家庭影院.php
+浙江卫视,https://hyf.serv00.net/Z视介.php?id=zjws
+江苏卫视,https://hyf.serv00.net/江苏荔枝.php?id=jsws
+东南卫视,https://hyf.serv00.net/福建.php?id=5
+山东卫视,https://hyf.serv00.net/fg/山东卫视.php
+青海卫视,https://hyf.serv00.net/fg/青海卫视.php
+延边卫视,https://hyf.serv00.net/fg/延边卫视.php
+黑龙江卫视,https://hyf.serv00.net/fg/黑龙江卫视.php
+兵团卫视,https://hyf.serv00.net/fg/兵团卫视.php
+重温经典,https://hyf.serv00.net/fg/重温经典.php
+
+金马影院,https://hyf.serv00.net/fg/金马影院.php
 Now爆谷,https://hyf.serv00.net/fg/Now爆谷.php
 Now星影,https://hyf.serv00.net/fg/Now星影.php
 黄金华剧,https://hyf.serv00.net/fg/黄金华剧.php
 美亚电影,https://hyf.serv00.net/fg/美亚电影.php
-重温经典,https://hyf.serv00.net/fg/重温经典.php
-金马影院,https://hyf.serv00.net/fg/金马影院.php
 真武侠,https://hyf.serv00.net/fg/真武侠.php
-周星驰,https://hyf.serv00.net/fg/周星驰.php
-周星驰1,https://hyf.serv00.net/fg/周星驰1.php
-林正英,https://hyf.serv00.net/fg/林正英.php
-李子柒,https://hyf.serv00.net/fg/李子柒.php
 JJ斗地主,https://hyf.serv00.net/fg/JJ斗地主.php
 王者荣耀,https://hyf.serv00.net/fg/王者荣耀.php
 穿越火线,https://hyf.serv00.net/fg/穿越火线.php
@@ -30,9 +33,15 @@ GOOD卡通,https://hyf.serv00.net/fg/GOOD卡通.php
 亚洲卫视,https://hyf.serv00.net/fg/亚洲卫视.php
 人间卫视,https://hyf.serv00.net/fg/人间卫视.php
 J1,https://hyf.serv00.net/fg/J1.php
+TVB功夫,https://hyf.serv00.net/fg/TVB功夫.php
 TVBplus,https://hyf.serv00.net/fg/TVBplus.php
 TVB星河,https://hyf.serv00.net/fg/TVB星河.php
+TVB生活,https://hyf.serv00.net/fg/TVB生活.php
+翡翠华丽,https://hyf.serv00.net/fg/翡翠华丽.php
+千禧经典,https://hyf.serv00.net/fg/千禧经典.php
+凤凰中文,https://hyf.serv00.net/fg/凤凰中文.php
 凤凰资讯,https://hyf.serv00.net/fg/凤凰资讯.php
+凤凰香港,https://hyf.serv00.net/fg/凤凰香港.php
 台视新闻,https://hyf.serv00.net/fg/台视新闻.php
 大立电视,https://hyf.serv00.net/fg/大立电视.php
 澳亚卫视,https://hyf.serv00.net/fg/澳亚卫视.php
@@ -51,6 +60,9 @@ GOOD好消息,https://hyf.serv00.net/fg/GOOD好消息.php
 FTV,https://hyf.serv00.net/fg/FTV.php
 阿里郎,https://hyf.serv00.net/fg/阿里郎.php
 耀才财经1,https://hyf.serv00.net/fg/耀才财经1.php
+台视新闻1,https://hyf.serv00.net/fg/台视新闻1.php
+亚太第一,https://hyf.serv00.net/fg/亚太第一.php
+半岛新闻1,https://hyf.serv00.net/fg/半岛新闻1.php
 郑铁频道,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 
@@ -154,28 +166,36 @@ CCTV发现之旅,http://z.b.bkpcp.top/m.php?id=fxzl
 CCTV老故事,http://z.b.bkpcp.top/m.php?id=lgs
 CCTV中学生,http://z.b.bkpcp.top/m.php?id=zxs
 
-CCTV1,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
-CCTV2,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
-CCTV3,https://api.livednow.org/migu/624878271?sign=gAAAAABnJcJqBzuFtK_e-R8Y5zzuNWtH9dD5ErIUOw3PaGq-2cUt_ty4tVxaFlKDox0cB51jc5h1UbnYdWwVB34WOYuNc8lg2HAeZSq8eQxhLSx7-W74CNR6KtgxXvTUzW_5zsQ33PZEpqm7sIuxliL32bQtzxcIIdpid2Gub7vsNYzKJWuVjAicsjoVCenU41Q5dMi8XPDUfnmgkYYiwWzmBdMXqP4I5A%3D%3D
-CCTV4,https://api.livednow.org/migu/631780421?sign=gAAAAABnJcJqz7oNO-xridbK_3LKb0rcdjVs_WY_BR-BFoq8eOg8Qvn3RMaRgOohlrGPc3mJhNalk-OevwcUL7y3ObKzAeZuWtWBxqyoXyW34cmtmAnNx9EC9rXDbjauxADNT6Li789Xmb3ezb7EUlD91o2aUf1qh-cxlGyyOjS9aZEyU-1CBA-uJhURtKm5m9k2wQBuSTDlSq_X2EYHz1jXzPXsKoJ7eA%3D%3D
-CCTV5,https://api.livednow.org/migu/641886683?sign=gAAAAABnJcJq1zvWEm2fLwSljJPThpBYL_E8K7V3Vjqwa1MKKvqUi_E3bRWybwa_x3oX2iF9HH-wEJfMaE_5OvwPzGGu3NicPIuQA4yciDbKNZf7joK5ZUFzK0L36mvXUWWl9JorCKCXbQ62LAhIlbf2kzScSCcb9oUHPKWds9wWjWjam34gaFfwW7rHxvnvlcqRaj88yHfSrWqHJghFI-bLaFvNz1HoPw%3D%3D
-CCTV5+,https://api.livednow.org/migu/641886773?sign=gAAAAABnJcJqTze6PuXdG9BEej5eW4BLImQigfoMaUf8uqVsrTWU2XPcpNAQkBcD0muMqEF9LzvxjIx7EBojiQbkHBD5j0Jhgf5-rBwl8jU3IJw5gsTQ2K6WngtWzyYcEmpoNgChlKkREdafyGUHTP8U4-G_ggVp1wP9_OuDXbCnXAQZKWP8e_nvjKVAHWsAfsrkcP2wHVy9aBq_REPOhp0w5W60Na3IcQ%3D%3D
-CCTV6,https://api.livednow.org/migu/624878396?sign=gAAAAABnJcJqCeZPI9pdAJI3zwOoz9SDiYBoZQL2_YxTBPm_gj4SRFhG652Dpip8x7O4oFhlJnHFS7Q4Kf_7eU_C9FrHiwmE9NDcuC5hEnGmyVWm8ntsvjsPsht86e15yA-OlkJj8m8OOe0qL_OVbjhSq3iySwkXSGvcKXQvvn6bYSRHZOe8Fc0EhG8AsW_DtSzMfG2-4VfItHk5oSqULRJ7DuT8Hr-neQ%3D%3D
-CCTV7,https://api.livednow.org/migu/673168121?sign=gAAAAABnJcJqjxuw5GDu1iojWpw4c-mjlefodslPuTvBI0grkKhdH8h_8I3xIavNltrXtbWMtHw2egHRBx-ciorem6WfS3xSWscFzvRmGcIdMlNJzhJ72fhC6f4jukCtJf6F79fYHQr5HfVJPSsBq9qCvVa1xZUsL40rtzOqtvaErO6BDEcA1JD4CyrNUboyvMBD11iNwc58nYXZiV-cubZaPaet8B6Xyg%3D%3D
-CCTV8,https://api.livednow.org/migu/624878356?sign=gAAAAABnJcJqw9dP6jwWUpKtifWTU97cE4kDpJmHWTbZD1ezcD3BLnqA4kJ_aSSQhe-ijrx2Z5Bm-wNBbguJ08avBolBe_yGvaJ1XKsKys_EAvx1QOauipvQfuKV15NrpBtQEMBADkCRzEwhHzbrcugddFVzwBFgmu7RrqSIIe848HA7b03yYseeTrXmOBJr1i1i99vgEUQOlaa1ismbhcTCecoRnyCfpQ%3D%3D
-CCTV9,https://api.livednow.org/migu/673168140?sign=gAAAAABnJcJqdqv3pFhYgBnmgGSIbZzHbX-DBJ-zNXsXFK68-5Wan9QqWYyKUxKv-XaTGYQIel_BUzZGYjzs5NPKiqPSXuul1GUOzl4VFlTGdyR6nNrAKB_lLRVjYzhVt6KX7j3DAzD44tiZocsNItrAhkJX7yIj6OGUq8s_mfXT_nlO_Xmgp4LUF7YnUnrICTc0LNBR-pQ1H2eiQcO2V6TCwrqhcHkABg%3D%3D
-CCTV10,https://api.livednow.org/migu/624878405?sign=gAAAAABnJcJqUD0VJHgW_jpi9fSEDhVqtVpgjlm5l2RFB5crphtq4Lgd1pE-Tc_n_qCmd9kwraXg4RZcc0KxzMy3Ef70prdHPMgkFbuJGwsobC29UUm_Kh7XbBVy-fqPer-IzPfc4oRJ10aPTq5_azxz8u2Qp6Ay2EYOLMg1O-EnQ79eNgaXc-2s1ccgdc5zllFwTrdP0XNkac4cX20eCWKPBULxodi6KQ%3D%3D
-CCTV11,https://api.livednow.org/migu/667987558?sign=gAAAAABnJcJq0uxG3wXdtrtqiIBCWRnKBVOa5nG_MrcR-XE_FxKhhSx7qj7d71b67HWtpFnV2yWlbi0DB4eVSBIi6y6ATRTRy-BAzHYzmANZxHCzKfrpNUunkDnLY0q7rIKTNSg3JuHII5wLmoBSDoeTzc8Tt6xXcUd5Hv-oHFU6L8gBAJjtBl6u0vGjL4NCXzTdg5rTNQf-Lx3S3ew-DiWy1XnrFEc26g%3D%3D
-CCTV12,https://api.livednow.org/migu/673168185?sign=gAAAAABnJcJqfs_3emdJIy9mYYyN6M29-FRfMp5HBvyku5jviEWtan66IU2XguJLoP7tu5be63y71Amc1LQKABsz3w4K4MYcVJZQ2FpXjnYoI80vaFeq2t-GfRY3n-XhzImihJvGiPd8fDG9pEIVWSneLNgmMkomXAfDlza_TggSrlVcSDkpi6DsXXNOBLsIpsHdWRSbJtzbhkX3j0w7KzFZhMevYAkEqg%3D%3D
-CCTV13,https://api.livednow.org/migu/608807423?sign=gAAAAABnJcJqWcv58U6OGzQabwzd_fRQdYIiL56pNYvWDLYx8OqIYIZTaT5ceZHRyt06wODism6P1aOwUkuZhiEfldQ55DPEyxVt51QPQHSDakx6DZ2ucwlxwe6nUNX83Y9VomRK3nxUdOy7T5XXGKyCDKucirezIa1eLScwKqq2ONtkQFwIsf7M2R3c5RDB5YQ6uMRY3eA0hSaiRTacGYQSjA_U1rUG5g%3D%3D
-CCTV14,https://api.livednow.org/migu/624878440?sign=gAAAAABnJcJqbiZjvH8WPpn2MSC9d1plZ1uK5RoepfZ6jSSLDNY5MEkVmC6AeWa4kDMXAhPgpPm331nzJkqByvIwyJ1nvMCSyjAqVA9m3RE7fIRDF80f2H3UCJLesDEifymvAsoH5oyavOgYS4KyiZ0tkA_xHI22m-bhjRbDPbkfrr9U1pLOLTTNKxCBVpne91De96PBMhcK7JpHMEqngGthOBNZS4YfMg%3D%3D
-CCTV15,https://api.livednow.org/migu/673168223?sign=gAAAAABnJcJqidnXewNhy-gri2ybb9iscI03y5nc62Syy1VqIhpbG4NsKVFHcgll52_xUKgwrWb5UR4xUTuxZnXcZ0qybFuneRF7vganvFXXcsbCxEG1p3RlEZw2hsCJ2G64570EsLkHymrjb0T7NBsJQyYJplJRLJFEd2gRpP40XLLJYTwJTmIC9b2eeLAZy4YEIn8-g7uBCctAPZtXqq8lS4vOcoHLSQ%3D%3D
-CCTV17,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2sHzgLIrp3fHULs5VLTwRm5kvc_YZnCZDZdFCwKXL_yaXA5nFcCZPD0omVJwDapyQUilo6R4kQgEmlWfnDyA0UbxOdEjCzJ9SHIiV_53r4aaArZ0IL_Aq0Mhm7cM6wcQ1EeLovgqiDPnCeUF2j3_KgX74Wh-ZpYuDKkQNsfBaJ1_P09_8SukvS2dsHXG-Tkr2RbVUU9z4qmS7iw%3D%3D
-CCTV4欧洲,https://api.livednow.org/migu/608807419?sign=gAAAAABnJcJqqvN9kTkAiHC8GdaGGmmbLi62YsEYOIuOPI9Lac2D2d4KyQai_cbU9d1Blh-fo0li6MavI-f58Er_gvlCd7t5C35cmlxT7M-_SLOpCAeJgeSr4BD0t2Qt_Lrj7ZNsq8dCuNIPRnB-w0rJUjAiBMu0RFBQJ30fHcImYBrTGcTWrqXF53LpJSl0ymgtMaVrO9Y-HiqIUJkzyN8e6BTQQykZiQ%3D%3D
-CCTV4美洲,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6BlGge9WIDW3Fy0FRiXV5z_xNzVGu8g8B-0qw7tvyNyCVut8pWQCvFvKbhe1hY8cYKFLnYEBy0nIPd9wQZ407ZVV5Ca7zzDKkBo_MoXzKATjpoRRMIpGgGGhNcq4KIeU-5Wtu25PoFpJqE2csWr4hhqYu1_-DhfSOhUE6aePTI8INh7crU01j-d217PMhlw6fqS0cRoIqdQ3Ww%3D%3D
-CETV1,https://api.livednow.org/migu/923287154?sign=gAAAAABnJcJqVnSXrUUkkYtDWAxHBieXZon2_B2kDSLm9uRif8tufnQMZcjl_RWKY3uwdHLw3clP4ObeP_RJCfjzNqvhDl56kIzLwahI8Rpl8YL2mC2bIKCEwo1CTMP3N7towvh9GjPz2p03gh4qPAFaBTwBczKVxvPMZJuY38uaXlaYqc1ZCAxb6IXrCuhMgtIk47Cy_Xr3f2yZPPNUxvfT_w7Apd4-wA%3D%3D
-CETV2,https://api.livednow.org/migu/923287211?sign=gAAAAABnJcJqlMwKhypib47dsLMmTDrhIquQSbEM7k3NFiho8sMsjCHT4g572J4Z--cW7zs2z_6Lx0QQN3EtPgKjUeRYzAw_Pefu6uNdTfTWIxiPQBUlDBQAopWhjF5YyomATi-_zP6RZfvDmQL9fGjx83S2vkZBq3CHDShPVmtCSDb_q7lsjHNypuh-YPlAWJsoIfnocfSN3TiN1au-DXXraOO_mvUgDg%3D%3D
-CETV4,https://api.livednow.org/migu/923287339?sign=gAAAAABnJcJqCVYw9IPx1b6k3F9j_qfxbMCLc7TORXvKiIop_NRc772AulEv8NPpujB0-VnMnhCKtowzqffwqNlNsPZ2NU3FZvye8jB2rjfY5NZegCwzp1GcKgtzhLE4eoO8Mi90IRTg0D8c9ca9KuZg91XnwvBGPb7qr1eiRVTnR5MdNMhWyiI1K_qp3klG-1aJvztKqB-8rlOLOAm6bWHZQuhHJ1B7YQ%3D%3D
+CCTV1,http://223.105.252.8/PLTV/4/224/3221227725/index.m3u8
+CCTV1,http://223.105.252.8/PLTV/4/224/3221228049/index.m3u8
+CCTV1,http://223.105.252.8/PLTV/3/224/3221228213/index.m3u8
+CCTV2,http://223.105.252.8/PLTV/4/224/3221228118/index.m3u8
+CCTV2,http://223.105.252.8/PLTV/3/224/3221228300/index.m3u8
+CCTV3,http://223.105.252.8/PLTV/4/224/3221228188/index.m3u8
+CCTV3,http://223.105.252.8/PLTV/4/224/3221228237/index.m3u8
+CCTV3,http://223.105.252.8/PLTV/3/224/3221228392/index.m3u8
+CCTV4,http://223.105.252.8/PLTV/4/224/3221227489/index.m3u8
+CCTV4,http://223.105.252.8/PLTV/4/224/3221228156/index.m3u8
+CCTV5,http://223.105.252.8/PLTV/4/224/3221228082/index.m3u8
+CCTV5,http://223.105.252.8/PLTV/3/224/3221227661/index.m3u8
+CCTV5,http://223.105.252.8/PLTV/3/224/3221228395/index.m3u8
+CCTV5+,http://223.105.252.8/PLTV/4/224/3221228114/index.m3u8
+CCTV5+,http://223.105.252.8/PLTV/3/224/3221228277/index.m3u8
+CCTV6,http://223.105.252.8/PLTV/4/224/3221228185/index.m3u8
+CCTV8,http://223.105.252.8/PLTV/4/224/3221228578/index.m3u8
+CCTV9,http://223.105.252.8/PLTV/4/224/3221228619/index.m3u8
+CCTV12,http://223.105.252.8/PLTV/4/224/3221228630/index.m3u8
+CCTV13,http://223.105.252.8/PLTV/4/224/3221228121/index.m3u8
+CCTV13,http://223.105.252.8/PLTV/3/224/3221228224/index.m3u8
+CCTV13,http://223.105.252.8/PLTV/3/224/3221228324/index.m3u8
+CCTV14,http://223.105.252.8/PLTV/4/224/3221228636/index.m3u8
+CCTV14,http://223.105.252.8/PLTV/3/224/3221227693/index.m3u8
+CCTV15,http://223.105.252.8/PLTV/4/224/3221228622/index.m3u8
+CCTV15,http://223.105.252.8/PLTV/4/224/3221228639/index.m3u8
+CCTV16,http://223.105.252.8/PLTV/4/224/3221228625/index.m3u8
+CCTV17,http://223.105.252.8/PLTV/4/224/3221228628/index.m3u8
+CCTV17,http://223.105.252.8/PLTV/4/224/3221228642/index.m3u8
+
 
 
 CETV1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=4155
@@ -332,40 +352,35 @@ Y+剧场台,http://z.b.bkpcp.top/m.php?id=yjjc
 熊猫频道9,http://z.b.bkpcp.top/m.php?id=xm9
 熊猫频道10,http://z.b.bkpcp.top/m.php?id=xm10
 
-
-
-东方卫视,https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
-江苏卫视,https://api.livednow.org/migu/623899368?sign=gAAAAABnJcJqRqI051KXILLz-XtpXbmEXLRGs-Yttth90tUl-tH72dTMSRz5XSe39WHDnCr1uKjzpLzf-XqtGUIa-paJf3cDV1e-mJlqBCGc_ax_4pRulP6_2Jlc_SuTukDjaZs39go_UqkCqJgB8UAhhLbgibqSnuQrBTo4CkvfDCxfpsC0EXRHon4Pev7oJWFEMzDPrhcce4fsv356rgkUiSMuuBAzAw%3D%3D
-广东卫视,https://api.livednow.org/migu/608831231?sign=gAAAAABnJcJqYcJMord5t6sSAZC5m7v96UZ6Ea3WOtse7W_BquKqMmYGSh_UXVG5Wouvctg5Og0WjnXvLEz7Z7KmtqPExzi5EiaSHMY7LuMA8mog-i8BrvjD9r9fikY5LnFg4lU6jvjeDgyzEeziiUxW45I16rki3ib8vwaDTBVvTFX7H3RhkaWBYQbzclSmWhz4TBsBy3jnQxnxhV1KkAQOyQLL2GYhkw%3D%3D
-江西卫视,https://api.livednow.org/migu/783847495?sign=gAAAAABnJcJqSxNO7cIGHJVGiP23aVwddpa5-Uj611uPtb-B59dmlhqB3KvALkxWK9erVikPtvf_CCUy-Au9GrH8x09UkoWAVcBYsPpl04DfI8C5xmP2Ngry7LvN4nkLgM8jrTQCdSw9JqYxvBS4kcEsKcXaalufeTRy0B0gmPvBMYA0qBe5eBDbavp1kUzTq7bdpM9UGmek_DpYICCnOXAceQXch1tdhw%3D%3D
-陕西卫视,https://api.livednow.org/migu/738910838?sign=gAAAAABnJcJqOtVCdd8WAn4DUT3VSbQHyfe5YFbUoqjsj_bS5O0aue2z6CSXEwpR856Z7BWlzxU-e48aeBfTOpdvGCnMnnjR8JmShiQd8oXFM-hTre-JgsjlvAzznm1jDoaQZsP8S-DAbqZK_jtrsaKSodpssxZZqCQjAazFU9B7A5GIEqWa9YF3LDLXONSmsFB7J7d9UM0FZx-CpzgBS2AhX8uO40kd0A%3D%3D
-湖北卫视,https://api.livednow.org/migu/738906825?sign=gAAAAABnJcJqKQRd7CS3pk7T0oe-jdNPxgJMyiZoPVRnbmv_IbK9koQZf32EgjFFCiEXqL4IXCnWyIaEuCmqxVNsBOQTIfaHM11IVchAHo4fZfQDVy5O7WNEHwMhK7DKJ5KlnIetRjJM7Emho9soMEYdRhTfzufHG-iUjz7CegJ_e5AKCaTCCYDJttiaZciJOCbCaWjAIMfx_PmomLPvKyNinANdp0vlxg%3D%3D
-上海新闻综合,https://api.livednow.org/migu/651632657?sign=gAAAAABnJcJq37wV8HVm7KEZFWnnYZkQUEODG5vdm7IDdbftN_lPqTa7UFvcOUMZAUZMxbj_pqfV9Wqs0QesizLAlM5lm6KE09NV_R1NlWLz64dtw4a2E898ZITJ3Bnpm0doweq_jYVBvHMglvBll2wlTcIgVVXehIUfj6dExG0H9KXwswEkrhKwV6QfZIzWFshncUJwYzjm4RhTuJ_sEEQULUSUOMdQCA%3D%3D
-上海东方影视,https://api.livednow.org/migu/617290047?sign=gAAAAABnJcJqlqz4SRGRy-0QLRhBFIdFTXdLLQdH0p6tckXUs74yY2CWxgWUdtsZFJHkOPYpxwIEAL7XaTYJokRVqggqXVRxCVWF-FobjAc3orPpiX_8bTppoNcktk7k_bGxMeaCONBImD4MYTNG4KGQZDGclrgJei3K95f8s3Q-131kpxK8kMxVGXl-2TTG84EzL6YA-QqrZ8yRDPueQF7N-1mpfhBnKA%3D%3D
-上海纪实人文,https://api.livednow.org/migu/617289997?sign=gAAAAABnJcJqQwPbtkXR0EduHeJNS7Praw2jALICwPtVhDMC5xK6muuZOoLpbovoW69EFsrxTaExrNVMZEA25x60dF_L6kpoaXSELwdqPRTixZpcui0WHswAmzQUEguKVCZk-XWMw5i1ww20u6b5k1Pm9zyLDGhpXXirdhr0O1I3kJPtPXOMY5vr-lqdvwC4ITbkgujskT2hCslBoUn7RC8ToxLRf90Yyw%3D%3D
-SiTV 七彩戏剧,https://api.livednow.org/migu/796071456?sign=gAAAAABnJcJqiyQ0-6AUgL9KrWPfEDD5Ego7qhH3Y9qjflwxIfPoLr_ZFas4hK80-_B_SFK6U54vhgW9b_hGzTvoVU9Zje9nvD4KHl-Qj8xBKZ1Xv48av4hc6AIPmj87OCQdXrnUcnPTmzigGzAsj_O6NvY1kiI3Nv7rPd_WMcr3pKsRCqyEpDzzaLtBzi0lEv3k51tiL0Y9OCD1Du7ngmuSDOmKetuXOA%3D%3D
-SiTV 劲爆体育,https://api.livednow.org/migu/796071336?sign=gAAAAABnJcJqM_HTVabRYY0y1XrkVaxRyUQD0kZEz3VQ3y_m5G88-puxPaYTeeM95vvfLbpAONBNY5IydUY2MsWrBWs4jK885O8HDIs7shB502xQx6f0vQ8TuKxrMXORgONQBsb4X87_7NQJpQ3S8NHmEhlYT7rsDO3yy0U0DjGwpbMiH9AXzspYRIojn1sZlwKdzaQKzsQky9fj4FcWw0muMwKADmu-sQ%3D%3D
-SiTV 魅力足球,https://api.livednow.org/migu/796070308?sign=gAAAAABnJcJqlrFGXuOxwe1Md-XR1vW2Qfvt8UbVbRmGMRw2HCaBotmmxy63qf2FHgoB1vxFJ480IN7nk3fPKKsC14EcSpsIiKAI0k4bTRVRSIM6N0J2Mhr-yHORPlMoC183bY-eRCUBjbWAH5mmWt4aOY1TAiXl6k8v5XlseEvPqOFOHsJbk-s_IR3yRznUz22lTF60_HV6D2H40sColfcl-Ows1xbbBw%3D%3D
-SiTV 法治天地,https://api.livednow.org/migu/790188943?sign=gAAAAABnJcJqJEX_fKL5nS2bHxb3IjyPGVwXvv-VP-6emcjhMuzmhljtP1wDnc8P74PwO69Ohnm1U4AAb3iWvl77tlDJWaSon1GJ9NNXF9OLdItXVUAMa_LSIuqtBK-DuRMQ4MyUT4u26BxLqUjb1JAKWqh4cSf5vehSPi_ognGsboNndvANT2aEhQEE5xPvYqVgScROeT18yJ_AUMCnNoO_FXehLkXFCw%3D%3D
-SiTV 乐游,https://api.livednow.org/migu/796070452?sign=gAAAAABnJcJq8uiIVIP_3bOztrcmJP_15Q1F1bNsjBZzZpOw-EcSXo9kIDmCScBvGMJ8icn_7rkCq3_yaboYbHC5_Vf1cPPIWYeLPIt6NeHmvsYHIu-4otNPovN8ay2dNdXEUqCpx5pzyC3yNCeQb60KQS-23XUsp6CAQ2hR9M4QZ8qo6lT8ehDiGaxyFlx25bG9xGVr0J8Zji_x5k368hqEyUQTHo_8Fw%3D%3D
-SiTV 游戏风云,https://api.livednow.org/migu/790188417?sign=gAAAAABnJcJqAiV-M5WfFq0UgtudCTLeaNsXXRsUcWr-4R5GhpmvkeYQoFVT3vM_SWGM03SpA0C_qgznH13Q4tSjwHccnJoAHrf4gAwSAfzFvHCBIMLBt4IgTcVZJrbPYY52P4d1kqLrg9jlRoSS60ldvUqAaqwn1agGD799Pos54zlNmsvXcNa2zZlgyQ-QNu7euxIGdmXkx9tNXdv4bCiasEdHi4gGIw%3D%3D
-四海钓鱼,https://api.livednow.org/migu/895358641?sign=gAAAAABnJcJq7NZntg3iYconeMQ3mo6Ztn4xsXYNnm5eTqhb3YA4u6WNy5ftjGLhJkGDPTb7JwpPZMbdWYrYxdYXQFZ7mSpReg-VXGuIA3CELLLGnkkdRec6cKXr1cu70bE-YPclPf2qSbNU32auckK86fI56KI0_SH01-gSCK-cqAgTraQDYEVFUutpeRJlg53KqUem6Xou0KcAgppUGPykzhoGfiAtRQ%3D%3D
-CHC 家庭影院,https://api.livednow.org/migu/644368373?sign=gAAAAABnJcJqmc1MsiQush_pxUKZ5OeC8HhfO-CPbiBOF88hW8nkCObTvAyhv11H14Bhk-bFCpsouIhtO3PlCY2ah4IhSGfy05LSMd_KFlBY9L5xbZB7SlCEDLk24QPqmM8gtv7g4796StdogDq4Om3HxXvjrZNas54BY18WZzcB4-YE56gA6xbu36O2c2niJ0WeKWqCks68bT83swV6thf54iuQVybh2w%3D%3D
-欢笑剧场,https://api.livednow.org/migu/790187880?sign=gAAAAABnJcJqeWrL_QFvsI85bXt15-J8e29-OvXFzILf7CrK_6VYKWLAIs3yj1CDwIZsFvGGtETmNphVnDaNoKqktfYv00VCe2V8ZN25r417izzkN59wfTbJ4NQiZwYg3v5r8d83qiWpum-rydGrwJSCQubg4Bd4puRfbEzoXzsDSvVBxjl4KALBnF7FoaoUCy16phoW-OvtFgGp0Y6afwBbwgdOWUKnOg%3D%3D
-#BA 经典,https://api.livednow.org/migu/788815380?sign=gAAAAABnJcJqPyFHQA-Zp600iaXcO2wi3RPQZ5lTFk3FwFUJh4Io8D8IsrJKcctLLuV8h8RqMDSVH7EEcdFcUTRky7BZdCLArlQbcxzCgVW9tMg9ek6CeH-AdrQdumYbDfz9-YXoTJpbwIfPHgOFaMOmgX6qkGEFWb8Eojmwmv_hS3owxCkbbxEi7VeZKIVAGvm3ZQjblZ_K2L6l6yoYUun7gbW5nsMDKQ%3D%3D
-五大联赛经典,https://api.livednow.org/migu/780288994?sign=gAAAAABnJcJqIAQQHsIu4xlmxouu0CGdYPf5NKj5drPyQQGtZFElFsTv2W3ps0xbAknkQgR-jhIoDmcF5vMqm0NTZoIfAFIlXeSYxhoDcUR7nXNr_l-JeaRmxAHjGepYBBCxkPWkpKlnoaDHd9r_JXUUYwQYGhPgnvDpssJJoFkmTs-IJWOOpo5sqLiyXrcMxYeQnWZpuyWENkyr38HaObqwjgK1RJ_iGQ%3D%3D
-CBA 经典,https://api.livednow.org/migu/788813182?sign=gAAAAABnJcJqRYDLpkmsRGB2Sv6qbaUw5Cp3_VbZwMxFwIOGTy41s8kbanJXUWTCHJndS_C5aKQD0GvxIjZXMbR7yZhFUUpq7Cxlk3rHYwhcmFBNrwh9CVtw9VpLAYpzdp7LYyBO1yNcU9HIbt6T36e93U7Nauhs_YfoyTZEATK-wmxPlLaWAjF7U0YF26QK094dJvUAESdaaUaxRRweIast6EbZ_dWBCw%3D%3D
-中国足球风云,https://api.livednow.org/migu/788816794?sign=gAAAAABnJcJqv4lv8Jl2J3xxsbtVmKy7yk-0C_Y_rxpApfeq2z9YorsVyt8vsdeRO_L6cV5e9XBKsDfyQmSVfsh_buJy2ycd_hdyxmPXKp5uM8UJHTmEZL4ROAiWaSQte9BM40VzF8yDrQNPub0YrDF5N1mTHtSnZqGDjweph9KVSVOF-XImZXyXA-Z7Ky0OcF_lqJq_Lc1clNDB6sKCQRa4bUgHCGmwOA%3D%3D
-UFC 格斗精选,https://api.livednow.org/migu/788818804?sign=gAAAAABnJcJq5jFTcgS38Fbi7oDn2eOeZzuBFsSEndHEYW9QSGQRxr1rY9wAs5hJmSFj6E0QwA8pcWBou_pjOAMXmQSu7WOnm2tBdA8IMhhz_ZZz2dwAZwi85s0-jZxOsSuL6KhGVL-EOfsN7hdJGsXrpnHbwFA_nUgbPT5aerRC_x-VfR4HlUfiCBA6NZjpJU2xKGvXXGEnu6xXLboc543t__sUNv89Cw%3D%3D
-掼蛋精英赛,https://api.livednow.org/migu/631354620?sign=gAAAAABnJcJqNIywGZ8ozE_htAbG3nkxbrbm55tG7vonMDA9GddAjTREzK-pe0a682YPC6HxNkY29gecqP0na8DPWuAI0sA7mRdBqJ-_wKUY5hd8SuISARxQ62qjgbD1sGsdLbFKNiXfy_Eec0ZrUStKTvgExcF4p5UDXpMr2F93xcTybbLobqENCZ3aCPejaUBIDjZUifLhpRuZZZ3o0zb-kQw-xSl8Dg%3D%3D
-全民乒乓,https://api.livednow.org/migu/788818045?sign=gAAAAABnJcJqHa3wNcpu9JlqDcxZSnBlP4yBXJZawD_spKPBiRnPAzQ3K0lrKIx2HBGjCN7Dnes5XyLkyqDd7xId91O8aMvX05U25yXdC74DV2QiTNWpdZGlJEW451zorjacxDPzyCXuqIuABFjOCEf8l4PMET2xX0U28QsxRjCdA6cxXhO8IhhTOvCibU8zL6fhnBcIoUq8bEtsD40PIu9V6BkYoVRKGQ%3D%3D
-24小时体育台,https://api.livednow.org/migu/654102378?sign=gAAAAABnJcJq_kclB-2uyJ9etLOAbkONr2RGVw9mhAsOWwDxupwhyTdm-IWEkJBMZdR3CeAqiWtfmnHy2hTw2vmsNXZ_I4Nf0MBjbu9M5XKi-Sjcdz9gPtJJQahnHg79b5jkC8Uh04_ADtDeYTcV-tKwhxluwNK11SKDy56-y8xKsk2_gIFaEIAGZhrzMVk_gl0Expecw7WrDOcvE3QoweeChP2-IFEaEQ%3D%3D
-经典香港电影,https://api.livednow.org/migu/625703337?sign=gAAAAABnJcJqeZSl1tY8yKpMaPYxLBiZYY6UFLi5qXIc4HEV83u7bqr-kefr3aQ2W6Fj7slWy0JQjWMxntqvsfTbbYZKmu6QxaKnbruMw7_PT5p8YiWzdMPJrhwosHvxenhe94DSEUwzM8ixhRAFjPuhE4vyuSKCCYPFPSdma03VOaA6yUsCx6qMFH-8fli0ScbqOz1gtK-b76pPSHsRgu8KzeVSBgBSMQ%3D%3D
-军事迷必看大片,https://api.livednow.org/migu/617432318?sign=gAAAAABnJcJqZtaxawC7PMW6HmzSXTDi9wFU6N0ZtJDx7d-0HvL3ZNARP6A0nmwzdAmIkOLyYFxnptA1dfTYG2hp1bM3x9Pq5SRdcTYYVIyrAJ9GzXD7qTvq0NFxAcu-vpaOsRBYDbaA1xiI7iBiMYKxXSTee5hmHfBo3JCySQSlHTbFFmuoGNUMNcdNmDXJuvP150hwC2zukC8EVMZiNIYmMJPi2xKlnQ%3D%3D
-新片放映厅,https://api.livednow.org/migu/619495952?sign=gAAAAABnJcJqrIJgrcoIeFRkKbrfdSiF8jXAy1t1Wa359mOTG18s3DkIUs12M5uMK3jiTG0IHQ3hzG5f-7mK3WtvR55XvoAIqQXO_aujy6A-Rdf3A_PmEpZE6v5U-ZbcUgWSFOQhePE5KDAe5a5vaLoArcoGBUIjI_0vSdP0enIPN4iaLIPzrzwB1q7kDdTRVjaxCIhP_cLQkv5i5gOXLLkZ1tqzfBZkHw%3D%3D
-红色轮播台,https://api.livednow.org/migu/713600957?sign=gAAAAABnJcJqKcv4ZvnpHJq7guH5qfK-E94Lsv-ddDybFBencH4CkKU3hJpBKKEON0HWgQsEEhV7IkEMAMMwu3_p4K3GnowXD08BhsIAr6hI2lNtPgAQSv7o2CVfcBmz4bPbL3r9Mmk0ru7YpxGyVJE2gz0Fh8dVUMCHt7kjs29pnkKlPv58KCfkHPQFiMlSVlScvsOzE6YP80E2uz9MiTJnjAGMMMKT6g%3D%3D
-金色剧场,https://api.livednow.org/migu/713591450?sign=gAAAAABnJcJqoZuZ5rRYv4pGlOm67qauT9QltGRWXDa_LX_fIQ-fpbkoXusrK4uIsZO0J2wYUBZkt__GGJOlujcMBIELmH-YN_mtQidj6uIH8cMBN6-qsM30qPDfeBN24b4QuKrPbWXDh2gmOEwlV4KPfJ0TWwv8efmQDCuHvJHl_jug8JS8Fz3FlFQoQNSJJUvDj2RXRAcp7zmIacN3Ga8cddP9Avf0zw%3D%3D
-
+北京卫视,http://223.105.252.8/PLTV/4/224/3221228115/index.m3u8
+北京卫视,http://223.105.252.8/PLTV/4/224/3221227694/index.m3u8
+北京卫视,http://223.105.252.8/PLTV/3/224/3221228410/index.m3u8
+深圳卫视,http://223.105.252.8/PLTV/4/224/3221228236/index.m3u8
+江苏卫视,http://223.105.252.8/PLTV/4/224/3221228099/index.m3u8
+江苏卫视,http://223.105.252.8/PLTV/3/224/3221228306/index.m3u8
+广东卫视,http://223.105.252.8/PLTV/4/224/3221227445/index.m3u8
+东方卫视,http://223.105.252.8/PLTV/4/224/3221228150/index.m3u8
+东方卫视,http://223.105.252.8/PLTV/4/224/3221227688/index.m3u8
+东方卫视,http://223.105.252.8/PLTV/3/224/3221228425/index.m3u8
+湖南卫视,http://223.105.252.8/PLTV/3/224/3221228413/index.m3u8
+浙江卫视,http://223.105.252.8/PLTV/4/224/3221228147/index.m3u8
+浙江卫视,http://223.105.252.8/PLTV/4/224/3221228204/index.m3u8
+天津卫视,http://223.105.252.8/PLTV/4/224/3221228239/index.m3u8
+天津卫视,http://223.105.252.8/PLTV/3/224/3221228416/index.m3u8
+山东卫视,http://223.105.252.8/PLTV/4/224/3221227448/index.m3u8
+山东卫视,http://223.105.252.8/PLTV/4/224/3221228124/index.m3u8
+山东卫视,http://223.105.252.8/PLTV/3/224/3221228315/index.m3u8
+山东卫视,http://223.105.252.8/PLTV/1/224/3221227517/index.m3u8
+安徽卫视,http://223.105.252.8/PLTV/4/224/3221227498/index.m3u8
+安徽卫视,http://223.105.252.8/PLTV/3/224/3221228327/index.m3u8
+辽宁卫视,http://223.105.252.8/PLTV/3/224/3221227676/index.m3u8
+辽宁卫视,http://223.105.252.8/PLTV/3/224/3221228310/index.m3u8
+湖北卫视,http://223.105.252.8/PLTV/1/224/3221227479/index.m3u8
+四川卫视,http://223.105.252.8/PLTV/4/224/3221228171/index.m3u8
+江西卫视,http://223.105.252.8/PLTV/3/224/3221227738/index.m3u8
+黑龙江卫视,http://223.105.252.8/PLTV/4/224/3221227753/index.m3u8
+黑龙江卫视,http://223.105.252.8/PLTV/3/224/3221227662/index.m3u8
+黑龙江卫视,http://223.105.252.8/PLTV/3/224/3221228295/index.m3u8
 
 
 //======================================================
@@ -619,47 +634,7 @@ MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 博斯網球,rtmp://f13h.mine.nu/sat/md041
 博斯運動,rtmp://f13h.mine.nu/sat/md051
 
-无线财经,rtmp://220.130.201.73/sat/hk011
-有线18,rtmp://220.130.201.73/sat/hk021
-民视,rtmp://220.130.201.73/sat/tv051
-台视,rtmp://220.130.201.73/sat/tv071
-中视,rtmp://220.130.201.73/sat/tv091
-华视,rtmp://220.130.201.73/sat/tv111
-TVBS新聞,rtmp://220.130.201.73/sat/tv551
-TVBS歡樂,rtmp://220.130.201.73/sat/tv421
-東森超视,rtmp://220.130.201.73/sat/tv331
-東森財經,rtmp://220.130.201.73/sat/tv571
-緯來育樂,rtmp://220.130.201.73/sat/tv701
-緯來體育,rtmp://220.130.201.73/sat/tv721
-緯來日本,rtmp://220.130.201.73/sat/tv771
-ELEVEN1,rtmp://220.130.201.73/sat/tv731
-ELEVEN2,rtmp://220.130.201.73/sat/tv741
-MOMO綜合,rtmp://220.130.201.73/sat/tv761
-体育频道1,rtmp://220.130.201.73/sat/md011
-体育频道2,rtmp://220.130.201.73/sat/md021
-博斯網球,rtmp://220.130.201.73/sat/md031
-博斯網球,rtmp://220.130.201.73/sat/md041
-博斯運動,rtmp://220.130.201.73/sat/md051
 
-
-GOOD卡通,https://hyf.serv00.net/fg/GOOD卡通.php
-亚洲卫视,https://hyf.serv00.net/fg/亚洲卫视.php
-人间卫视,https://hyf.serv00.net/fg/人间卫视.php
-J1,https://hyf.serv00.net/fg/J1.php
-TVBplus,https://hyf.serv00.net/fg/TVBplus.php
-TVB星河,https://hyf.serv00.net/fg/TVB星河.php
-凤凰资讯,https://hyf.serv00.net/fg/凤凰资讯.php
-台视新闻,https://hyf.serv00.net/fg/台视新闻.php
-大立电视,https://hyf.serv00.net/fg/大立电视.php
-澳亚卫视,https://hyf.serv00.net/fg/澳亚卫视.php
-面包台,https://hyf.serv00.net/fg/面包台.php
-环球电视台,https://hyf.serv00.net/fg/环球电视台.php
-香港佛陀,https://hyf.serv00.net/fg/香港佛陀.php
-法国时尚台,https://hyf.serv00.net/fg/法国时尚台.php
-香港卫视,https://hyf.serv00.net/fg/香港卫视.php
-大爱1台,https://hyf.serv00.net/fg/大爱1台.php
-大爱2台,https://hyf.serv00.net/fg/大爱2台.php
-红牛运动,https://hyf.serv00.net/fg/红牛运动.php
 
 
 
@@ -796,63 +771,6 @@ GOOD2,http://37.27.111.214:8080/live/99/hls.m3u8
 TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
 
 
-年代新闻,http://211.72.65.236:8529/.m3u8
-东森戏剧,http://211.72.65.236:8530/.m3u8
-三立新闻,http://211.72.65.236:8543/.m3u8
-TVBS HD,http://211.72.65.236:8575/.m3u8
-凤凰卫视,http://211.72.65.236:8577/.m3u8
-壹新闻,http://211.72.65.236:8548/.m3u8
-环宇新闻,http://211.72.65.236:8547/.m3u8
-年代新闻,http://211.72.65.236:8539/.m3u8
-国冡地理野生,http://211.72.65.236:8510/.m3u8
-中天新闻,http://211.72.65.236:8541/.m3u8
-纬来电影,http://211.72.65.236:8579/.m3u8
-凤凰卫视,http://211.72.65.236:8576/.m3u8
-东森新闻,http://211.72.65.236:8540/.m3u8
-纬来体育,http://211.72.65.236:8585/.m3u8
-动物星球,http://211.72.65.236:8512/.m3u8
-纬来日本,http://211.72.65.236:8537/.m3u8
-中天新聞 HD,http://211.72.65.236:8541/.m3u8
-东森财经,http://211.72.65.236:8546/.m3u8
-海峡卫视,http://211.72.65.236:8570/.m3u8
-卫视电影,http://211.72.65.236:8578/.m3u8
-卫视中文,http://211.72.65.236:8523/.m3u8
-纬来综合,http://211.72.65.236:8518/.m3u8
-三立台湾,http://211.72.65.236:8521/.m3u8
-东方37台,http://211.72.65.236:8528/.m3u8
-好莱坞电影,http://211.72.65.236:8554/.m3u8
-TVBS新闻,http://211.72.65.236:8574/.m3u8
-CINEMAX,http://211.72.65.236:8559/.m3u8
-中视,http://211.72.65.236:8502/.m3u8
-华视,http://211.72.65.236:8503/.m3u8
-TVBS欢乐台,http://211.72.65.236:8532/.m3u8
-三立都会,http://211.72.65.236:8522/.m3u8
-人间卫视,http://211.72.65.236:8506/.m3u8
-中天娱乐,http://211.72.65.236:8527/.m3u8
-地理野生,http://211.72.65.236:8509/.m3u8
-纬来育乐,http://211.72.65.236:8584/.m3u8
-GOODTV好消息,http://211.72.65.236:8508/.m3u8
-TCL,http://211.72.65.236:8511/.m3u8
-卫视西片,http://211.72.65.236:8583/.m3u8
-东森超视,http://211.72.65.236:8525/.m3u8
-东森幼幼,http://211.72.65.236:8515/.m3u8
-东森综合,http://211.72.65.236:8524/.m3u8
-纬来戏剧,http://211.72.65.236:8533/.m3u8
-非凡商业,http://211.72.65.236:8545/.m3u8
-八大戏剧,http://211.72.65.236:8531/.m3u8
-湖南卫视,http://211.72.65.236:8573/.m3u8
-八大综合,http://211.72.65.236:8520/.m3u8
-八大第一,http://211.72.65.236:8519/.m3u8
-亚洲旅游,http://211.72.65.236:8513/.m3u8
-STARWORD,http://211.72.65.236:8561/.m3u8
-民视,http://211.72.65.236:8504/.m3u8
-YAIWAN,http://211.72.65.236:8538/.m3u8
-公视,http://211.72.65.236:8505/.m3u8
-大爱,http://211.72.65.236:8507/.m3u8
-HBO,http://211.72.65.236:8580/.m3u8
-AXN,http://211.72.65.236:8582/.m3u8
-
-
 
 
 //======================================================
@@ -861,57 +779,86 @@ AXN,http://211.72.65.236:8582/.m3u8
 
 
 虎牙,#genre#
-虎牙-周星驰,http://120.77.28.4:8648/huya.php?id=11342412
-虎牙-林正英,http://120.77.28.4:8648/huya.php?id=11342421
-虎牙-沈腾,http://120.77.28.4:8648/huya.php?id=11601968
-虎牙-猫和老鼠,http://120.77.28.4:8648/huya.php?id=11352879
-虎牙-成龙,http://120.77.28.4:8648/huya.php?id=11342386
-虎牙-李连杰,http://120.77.28.4:8648/huya.php?id=11342390
-虎牙-刘德华,http://120.77.28.4:8648/huya.php?id=11342424
-虎牙-王晶,http://120.77.28.4:8648/huya.php?id=11602058
-虎牙-中华小当家,http://120.77.28.4:8648/huya.php?id=11342413
-虎牙-杰森·斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
-虎牙-喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
-虎牙-甄子丹,http://120.77.28.4:8648/huya.php?id=11352935
-虎牙-巨石强森,http://120.77.28.4:8648/huya.php?id=21059581
-虎牙-洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
-虎牙-詹姆斯邦德,http://120.77.28.4:8648/huya.php?id=21059585
-虎牙-徐克,http://120.77.28.4:8648/huya.php?id=11352909
-虎牙-周润发,http://120.77.28.4:8648/huya.php?id=11342387
-虎牙-徐峥,http://120.77.28.4:8648/huya.php?id=11602043
-虎牙-许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
-虎牙-黄渤,http://120.77.28.4:8648/huya.php?id=11352876
-虎牙-张卫健,http://120.77.28.4:8648/huya.php?id=11342423
-虎牙-冯小刚,http://120.77.28.4:8648/huya.php?id=11352906
-虎牙-百鸟朝凤,http://120.77.28.4:8648/huya.php?id=15894162
-虎牙-陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154
-虎牙-电锯惊魂系列,http://120.77.28.4:8648/huya.php?id=11352903
-虎牙-电影,http://120.77.28.4:8648/huya.php?id=618917
-虎牙-港台电影,http://120.77.28.4:8648/huya.php?id=880261
-虎牙-高分电影,http://120.77.28.4:8648/huya.php?id=16615910
-虎牙-搞笑僵尸片,http://120.77.28.4:8648/huya.php?id=11352963
-虎牙-国产青春,http://120.77.28.4:8648/huya.php?id=11602075
-虎牙-好莱坞,http://120.77.28.4:8648/huya.php?id=21059587
-虎牙-黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
-虎牙-红海行动,http://120.77.28.4:8648/huya.php?id=11601986
-虎牙-金庸的武侠世界,http://120.77.28.4:8648/huya.php?id=11342435
-虎牙-金庸,http://120.77.28.4:8648/huya.php?id=11352897
-虎牙-经典高智商,http://120.77.28.4:8648/huya.php?id=11352962
-虎牙-经典好片,http://120.77.28.4:8648/huya.php?id=11342427
-虎牙-经典喜剧片,http://120.77.28.4:8648/huya.php?id=11352894
-虎牙-精彩不断,http://120.77.28.4:8648/huya.php?id=24396428
-虎牙-精忠岳飞南征北战,http://120.77.28.4:8648/huya.php?id=11336578
-虎牙-警匪,http://120.77.28.4:8648/huya.php?id=11352886
-虎牙-看救援电影,http://120.77.28.4:8648/huya.php?id=21059586
-虎牙-科幻电影,http://120.77.28.4:8648/huya.php?id=11602034
-虎牙-路飞,http://120.77.28.4:8648/huya.php?id=16913382
-虎牙-麻雀,http://120.77.28.4:8648/huya.php?id=11352881
-虎牙-命案十三宗,http://120.77.28.4:8648/huya.php?id=11601981
-虎牙-魔法世界,http://120.77.28.4:8648/huya.php?id=21059580
-虎牙-欧美电影,http://120.77.28.4:8648/huya.php?id=11352880
-虎牙-欧美电影,http://120.77.28.4:8648/huya.php?id=21059581
-虎牙-欧美娱乐,http://120.77.28.4:8648/huya.php?id=21059574
-虎牙-倩女幽魂,http://120.77.28.4:8648/huya.php?id=11601970
+周星驰,https://hyf.serv00.net/fg/周星驰.php
+周星驰粤语,https://hyf.serv00.net/fg/周星驰粤语.php
+林正英,https://hyf.serv00.net/fg/林正英.php
+李子柒,https://hyf.serv00.net/fg/李子柒.php
+李连杰,https://hyf.serv00.net/fg/李连杰.php
+成龙,https://hyf.serv00.net/fg/成龙.php
+洪金宝,https://hyf.serv00.net/fg/洪金宝.php
+周润发,https://hyf.serv00.net/fg/周润发.php
+吴京,https://hyf.serv00.net/fg/吴京.php
+甄子丹,https://hyf.serv00.net/fg/甄子丹.php
+刘德华,https://hyf.serv00.net/fg/刘德华.php
+许冠英,https://hyf.serv00.net/fg/许冠英.php
+黄渤,https://hyf.serv00.net/fg/黄渤.php
+沈腾,https://hyf.serv00.net/fg/沈腾.php
+徐峥,https://hyf.serv00.net/fg/徐峥.php
+许氏三杰,https://hyf.serv00.net/fg/许氏三杰.php
+杰森斯坦森,https://hyf.serv00.net/fg/杰森斯坦森.php
+詹姆斯邦德,https://hyf.serv00.net/fg/詹姆斯邦德.php
+巨石强森,https://hyf.serv00.net/fg/巨石强森.php
+冯小刚,https://hyf.serv00.net/fg/冯小刚.php
+徐克,https://hyf.serv00.net/fg/徐克.php
+王晶,https://hyf.serv00.net/fg/王晶.php
+动作电影,https://hyf.serv00.net/fg/动作电影.php
+经典港片,https://hyf.serv00.net/fg/经典港片.php
+电锯惊魂,https://hyf.serv00.net/fg/电锯惊魂.php
+陈翔六点半,https://hyf.serv00.net/fg/陈翔六点半.php
+猫和老鼠,https://hyf.serv00.net/fg/猫和老鼠.php
+火影忍者,https://hyf.serv00.net/fg/火影忍者.php
+
+周星驰,http://120.77.28.4:8648/huya.php?id=11342412
+林正英,http://120.77.28.4:8648/huya.php?id=11342421
+沈腾,http://120.77.28.4:8648/huya.php?id=11601968
+猫和老鼠,http://120.77.28.4:8648/huya.php?id=11352879
+成龙,http://120.77.28.4:8648/huya.php?id=11342386
+李连杰,http://120.77.28.4:8648/huya.php?id=11342390
+刘德华,http://120.77.28.4:8648/huya.php?id=11342424
+王晶,http://120.77.28.4:8648/huya.php?id=11602058
+中华小当家,http://120.77.28.4:8648/huya.php?id=11342413
+杰森·斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
+喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
+甄子丹,http://120.77.28.4:8648/huya.php?id=11352935
+巨石强森,http://120.77.28.4:8648/huya.php?id=21059581
+洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
+詹姆斯邦德,http://120.77.28.4:8648/huya.php?id=21059585
+徐克,http://120.77.28.4:8648/huya.php?id=11352909
+周润发,http://120.77.28.4:8648/huya.php?id=11342387
+徐峥,http://120.77.28.4:8648/huya.php?id=11602043
+许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
+黄渤,http://120.77.28.4:8648/huya.php?id=11352876
+张卫健,http://120.77.28.4:8648/huya.php?id=11342423
+冯小刚,http://120.77.28.4:8648/huya.php?id=11352906
+百鸟朝凤,http://120.77.28.4:8648/huya.php?id=15894162
+陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154
+电锯惊魂系列,http://120.77.28.4:8648/huya.php?id=11352903
+电影,http://120.77.28.4:8648/huya.php?id=618917
+港台电影,http://120.77.28.4:8648/huya.php?id=880261
+高分电影,http://120.77.28.4:8648/huya.php?id=16615910
+搞笑僵尸片,http://120.77.28.4:8648/huya.php?id=11352963
+国产青春,http://120.77.28.4:8648/huya.php?id=11602075
+好莱坞,http://120.77.28.4:8648/huya.php?id=21059587
+黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
+红海行动,http://120.77.28.4:8648/huya.php?id=11601986
+金庸的武侠世界,http://120.77.28.4:8648/huya.php?id=11342435
+金庸,http://120.77.28.4:8648/huya.php?id=11352897
+经典高智商,http://120.77.28.4:8648/huya.php?id=11352962
+经典好片,http://120.77.28.4:8648/huya.php?id=11342427
+经典喜剧片,http://120.77.28.4:8648/huya.php?id=11352894
+精彩不断,http://120.77.28.4:8648/huya.php?id=24396428
+精忠岳飞南征北战,http://120.77.28.4:8648/huya.php?id=11336578
+警匪,http://120.77.28.4:8648/huya.php?id=11352886
+看救援电影,http://120.77.28.4:8648/huya.php?id=21059586
+科幻电影,http://120.77.28.4:8648/huya.php?id=11602034
+路飞,http://120.77.28.4:8648/huya.php?id=16913382
+麻雀,http://120.77.28.4:8648/huya.php?id=11352881
+命案十三宗,http://120.77.28.4:8648/huya.php?id=11601981
+魔法世界,http://120.77.28.4:8648/huya.php?id=21059580
+欧美电影,http://120.77.28.4:8648/huya.php?id=11352880
+欧美电影,http://120.77.28.4:8648/huya.php?id=21059581
+欧美娱乐,http://120.77.28.4:8648/huya.php?id=21059574
+倩女幽魂,http://120.77.28.4:8648/huya.php?id=11601970
 女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 港台电影,http://120.77.28.4:8648/huya.php?id=880261
 黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
@@ -930,32 +877,32 @@ AXN,http://211.72.65.236:8582/.m3u8
 史诗级战争电影,http://120.77.28.4:8648/huya.php?id=21059556
 电影24,http://120.77.28.4:8648/huya.php?id=21059579
 电影55,http://120.77.28.4:8648/huya.php?id=23652317
-虎牙-喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
+喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
 电影26,http://120.77.28.4:8648/huya.php?id=21059577
 电影77,http://120.77.28.4:8648/huya.php?id=11601971
 电影78,http://120.77.28.4:8648/huya.php?id=11342414
-虎牙-神话,http://120.77.28.4:8648/huya.php?id=11352913
-虎牙-生活大爆炸,http://120.77.28.4:8648/huya.php?id=11342417
-虎牙-史诗级战争电影,http://120.77.28.4:8648/huya.php?id=21059556
-虎牙-孙悟空,http://120.77.28.4:8648/huya.php?id=11342395
-虎牙-太空混战,http://120.77.28.4:8648/huya.php?id=21059579
-虎牙-天雷滚滚,http://120.77.28.4:8648/huya.php?id=11352945
-虎牙-天龙八部,http://120.77.28.4:8648/huya.php?id=11602041
-虎牙-歪果仁动作,http://120.77.28.4:8648/huya.php?id=21059552
-虎牙-文成公主,http://120.77.28.4:8648/huya.php?id=11352974
-虎牙-我是大哥大,http://120.77.28.4:8648/huya.php?id=23652317
-虎牙-喜剧合家欢,http://120.77.28.4:8648/huya.php?id=11352877
-虎牙-喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
-虎牙-小鲤鱼,http://120.77.28.4:8648/huya.php?id=11601961
-虎牙-悬疑推理,http://120.77.28.4:8648/huya.php?id=17445539
-虎牙-杨门女将,http://120.77.28.4:8648/huya.php?id=11336590
-虎牙-医馆笑传,http://120.77.28.4:8648/huya.php?id=11352891
-虎牙-异形世界,http://120.77.28.4:8648/huya.php?id=21059577
-虎牙-甄嬛传,http://120.77.28.4:8648/huya.php?id=11601971
-虎牙-止戈电影,http://120.77.28.4:8648/huya.php?id=19863777
-虎牙-中国功夫,http://120.77.28.4:8648/huya.php?id=11352941
-虎牙-朱雀青龙,http://120.77.28.4:8648/huya.php?id=11352905
-虎牙-捉妖记,http://120.77.28.4:8648/huya.php?id=11342414
+神话,http://120.77.28.4:8648/huya.php?id=11352913
+生活大爆炸,http://120.77.28.4:8648/huya.php?id=11342417
+史诗级战争电影,http://120.77.28.4:8648/huya.php?id=21059556
+孙悟空,http://120.77.28.4:8648/huya.php?id=11342395
+太空混战,http://120.77.28.4:8648/huya.php?id=21059579
+天雷滚滚,http://120.77.28.4:8648/huya.php?id=11352945
+天龙八部,http://120.77.28.4:8648/huya.php?id=11602041
+歪果仁动作,http://120.77.28.4:8648/huya.php?id=21059552
+文成公主,http://120.77.28.4:8648/huya.php?id=11352974
+我是大哥大,http://120.77.28.4:8648/huya.php?id=23652317
+喜剧合家欢,http://120.77.28.4:8648/huya.php?id=11352877
+喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
+小鲤鱼,http://120.77.28.4:8648/huya.php?id=11601961
+悬疑推理,http://120.77.28.4:8648/huya.php?id=17445539
+杨门女将,http://120.77.28.4:8648/huya.php?id=11336590
+医馆笑传,http://120.77.28.4:8648/huya.php?id=11352891
+异形世界,http://120.77.28.4:8648/huya.php?id=21059577
+甄嬛传,http://120.77.28.4:8648/huya.php?id=11601971
+止戈电影,http://120.77.28.4:8648/huya.php?id=19863777
+中国功夫,http://120.77.28.4:8648/huya.php?id=11352941
+朱雀青龙,http://120.77.28.4:8648/huya.php?id=11352905
+捉妖记,http://120.77.28.4:8648/huya.php?id=11342414
 
 
 
@@ -965,27 +912,27 @@ AXN,http://211.72.65.236:8582/.m3u8
 
 
 斗鱼,#genre#
-漫威剧情,http://diyp.zxxoo.work/douyu/6140589
-神乐影院,http://diyp.zxxoo.work/douyu/122402
-可乐影院,http://diyp.zxxoo.work/douyu/20415
-小宇60帧,http://diyp.zxxoo.work/douyu/323876
-恐怖惊悚,http://diyp.zxxoo.work/douyu/96577
-电影剧场,http://diyp.zxxoo.work/douyu/7575350
-国语电影,http://diyp.zxxoo.work/douyu/2436390
-豆瓣高分,http://diyp.zxxoo.work/douyu/8770422
-花卷陪看,http://diyp.zxxoo.work/douyu/52787
-霍格沃茨,http://diyp.zxxoo.work/douyu/8814650
-鱼宝恐怖,http://diyp.zxxoo.work/douyu/1165374
-菜园惊险,http://diyp.zxxoo.work/douyu/1735337
-吃奶滴虫,http://diyp.zxxoo.work/douyu/263824
-变种人片,http://diyp.zxxoo.work/douyu/9651304
-喜剧电影,http://diyp.zxxoo.work/douyu/9292492
-女神电影,http://diyp.zxxoo.work/douyu/747764
-避风影院,http://diyp.zxxoo.work/douyu/9826611
-星星影院,http://diyp.zxxoo.work/douyu/315131
-欧美大片,http://diyp.zxxoo.work/douyu/2793084
-贝爷影厅,http://diyp.zxxoo.work/douyu/252802
-萌小鬼片,http://diyp.zxxoo.work/douyu/3928
+漫威剧情,https://hyf.serv00.net/斗鱼.php?id=6140589
+神乐影院,https://hyf.serv00.net/斗鱼.php?id=122402
+可乐影院,https://hyf.serv00.net/斗鱼.php?id=20415
+小宇60帧,https://hyf.serv00.net/斗鱼.php?id=323876
+恐怖惊悚,https://hyf.serv00.net/斗鱼.php?id=96577
+电影剧场,https://hyf.serv00.net/斗鱼.php?id=7575350
+国语电影,https://hyf.serv00.net/斗鱼.php?id=2436390
+豆瓣高分,https://hyf.serv00.net/斗鱼.php?id=8770422
+花卷陪看,https://hyf.serv00.net/斗鱼.php?id=52787
+霍格沃茨,https://hyf.serv00.net/斗鱼.php?id=8814650
+鱼宝恐怖,https://hyf.serv00.net/斗鱼.php?id=1165374
+菜园惊险,https://hyf.serv00.net/斗鱼.php?id=1735337
+吃奶滴虫,https://hyf.serv00.net/斗鱼.php?id=263824
+变种人片,https://hyf.serv00.net/斗鱼.php?id=9651304
+喜剧电影,https://hyf.serv00.net/斗鱼.php?id=9292492
+女神电影,https://hyf.serv00.net/斗鱼.php?id=747764
+避风影院,https://hyf.serv00.net/斗鱼.php?id=9826611
+星星影院,https://hyf.serv00.net/斗鱼.php?id=315131
+欧美大片,https://hyf.serv00.net/斗鱼.php?id=2793084
+贝爷影厅,https://hyf.serv00.net/斗鱼.php?id=252802
+萌小鬼片,https://hyf.serv00.net/斗鱼.php?id=3928
 
 
 
@@ -1097,69 +1044,47 @@ Angels,https://hyf.serv00.net/fg/Angels.php
 人妖,https://hyf.serv00.net/fg/人妖.php
 
 
-4K: EXOTIC,http://lunar.pm:8080/Mrlenny/fish/122875
-4K: TINY4K,http://lunar.pm:8080/Mrlenny/fish/122876
-4K: SLIM4K,http://lunar.pm:8080/Mrlenny/fish/122877
-4K: CUCK HUNTER,http://lunar.pm:8080/Mrlenny/fish/122878
-4K: TINY4K 2,http://lunar.pm:8080/Mrlenny/fish/122879
-4K: FIRST CLASS,http://lunar.pm:8080/Mrlenny/fish/122880
-4K: FOXY4KME,http://lunar.pm:8080/Mrlenny/fish/122881
-4K: CUM 4K,http://lunar.pm:8080/Mrlenny/fish/122882
-4K: BENEFIT MONKEY,http://lunar.pm:8080/Mrlenny/fish/122883
-4K: FAPADOO THREESOMES,http://lunar.pm:8080/Mrlenny/fish/122884
-4K: LETS DO IT [HIGH],http://lunar.pm:8080/Mrlenny/fish/122885
-4K: ABELLA DANGER,http://lunar.pm:8080/Mrlenny/fish/122886
-4K: ADRIANA CHECHIK,http://lunar.pm:8080/Mrlenny/fish/122887
-4K: ALINA LOPEZ,http://lunar.pm:8080/Mrlenny/fish/122888
-4K: ANGELA WHITE,http://lunar.pm:8080/Mrlenny/fish/122889
-4K: ARIANA MARIE,http://lunar.pm:8080/Mrlenny/fish/122890
-4K: AUGUST AMES,http://lunar.pm:8080/Mrlenny/fish/122891
-4K: BRANDI LOVE,http://lunar.pm:8080/Mrlenny/fish/122892
-4K: DANI DANIELS,http://lunar.pm:8080/Mrlenny/fish/122893
-4K: DANI JENSEN,http://lunar.pm:8080/Mrlenny/fish/122894
-4K: ELSA JEAN,http://lunar.pm:8080/Mrlenny/fish/122895
-4K: EMILY WILLIS,http://lunar.pm:8080/Mrlenny/fish/122896
-4K: EVA LOVIA,http://lunar.pm:8080/Mrlenny/fish/122897
-4K: GINA VALENTINA,http://lunar.pm:8080/Mrlenny/fish/122898
-4K: JANICE GRIFFITH,http://lunar.pm:8080/Mrlenny/fish/122899
-4K: AUTUMN FALLS,http://lunar.pm:8080/Mrlenny/fish/122900
-VIP: TINY4K,http://lunar.pm:8080/Mrlenny/fish/122901
-VIP: TUSHY,http://lunar.pm:8080/Mrlenny/fish/122902
-VIP: VIXEN,http://lunar.pm:8080/Mrlenny/fish/122903
-VIP: ASIAN BONDAGE,http://lunar.pm:8080/Mrlenny/fish/122904
-VIP: ASIAN SEX DIARY,http://lunar.pm:8080/Mrlenny/fish/122905
-VIP: BLACK GFS,http://lunar.pm:8080/Mrlenny/fish/122906
-VIP: BLACK NEED,http://lunar.pm:8080/Mrlenny/fish/122907
-VIP: BLACKED,http://lunar.pm:8080/Mrlenny/fish/122908
-VIP: Blacked HD,http://lunar.pm:8080/Mrlenny/fish/122909
-VIP: Brand New Amateurs,http://lunar.pm:8080/Mrlenny/fish/122910
-VIP: Bratty Sis,http://lunar.pm:8080/Mrlenny/fish/122911
-VIP: BRATTY SIS,http://lunar.pm:8080/Mrlenny/fish/122912
-VIP: Brazzers HD,http://lunar.pm:8080/Mrlenny/fish/122913
-VIP: Brazzers TV Europe,http://lunar.pm:8080/Mrlenny/fish/122914
-VIP: CHINA XXX,http://lunar.pm:8080/Mrlenny/fish/122915
-VIP: CUM4K,http://lunar.pm:8080/Mrlenny/fish/122916
-VIP: DOGFART NETWORK,http://lunar.pm:8080/Mrlenny/fish/122917
-VIP: FAKE TAXI,http://lunar.pm:8080/Mrlenny/fish/122918
-VIP: FAMILY STROKES,http://lunar.pm:8080/Mrlenny/fish/122919
-VIP: FILTHY KINGS,http://lunar.pm:8080/Mrlenny/fish/122920
-VIP: FIt 18,http://lunar.pm:8080/Mrlenny/fish/122921
-VIP: GOLDEN ASIA CHERRY,http://lunar.pm:8080/Mrlenny/fish/122922
-VIP: HER LIMIT,http://lunar.pm:8080/Mrlenny/fish/122923
-VIP: IBIZA,http://lunar.pm:8080/Mrlenny/fish/122924
-VIP: JAYS POV,http://lunar.pm:8080/Mrlenny/fish/122925
-VIP: LETS DOEIT,http://lunar.pm:8080/Mrlenny/fish/122926
-VIP: LITTLE ASIANS,http://lunar.pm:8080/Mrlenny/fish/122927
-VIP: MODEL MEDIA ASIAN,http://lunar.pm:8080/Mrlenny/fish/122928
-VIP: MOMS TEACH,http://lunar.pm:8080/Mrlenny/fish/122929
-VIP:  MOFOS,http://lunar.pm:8080/Mrlenny/fish/122930
-VIP: MY FAMILY PIES,http://lunar.pm:8080/Mrlenny/fish/122931
-VIP: MY PERVY FAMILY,http://lunar.pm:8080/Mrlenny/fish/122932
-VIP: NET VIDEO GIRLS,http://lunar.pm:8080/Mrlenny/fish/122933
-VIP: NEW SENSATIONS,http://lunar.pm:8080/Mrlenny/fish/122934
-VIP: NUBILE FILMS,http://lunar.pm:8080/Mrlenny/fish/122935
-VIP: PRIVATE BLACK,http://lunar.pm:8080/Mrlenny/fish/122936
-VIP: PROPERTY SEX,http://lunar.pm:8080/Mrlenny/fish/122937
-VIP: PUPLIC AGENT,http://lunar.pm:8080/Mrlenny/fish/122938
-VIP: REALITY KINGS,http://lunar.pm:8080/Mrlenny/fish/122939
-VIP: SPANK MONSTER,http://lunar.pm:8080/Mrlenny/fish/122940
+SpecialBox1,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552722
+SpecialBox2,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552723
+SpecialBox3,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552724
+SpecialBox4,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552725
+SpecialBox5,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552726
+SpecialBox6,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552727
+SpecialBox7,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552728
+SpecialBox8,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552729
+SpecialBox9,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552730
+SpecialBox10,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552731
+SpecialBox11,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552732
+SpecialBox12,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552733
+SpecialBox13,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552734
+SpecialBox14,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552735
+SpecialBox15,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552736
+SpecialBox16,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552737
+SpecialBox17,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552738
+SpecialBox18,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552739
+SpecialBox19,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552740
+SpecialBox20,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552741
+SpecialBox21,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552742
+SpecialBox22,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552747
+SpecialBox23,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552758
+SpecialBox24,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552759
+SpecialBox25,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552761
+SpecialBox26,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552762
+SpecialBox27,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552763
+SpecialBox28,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552764
+SpecialBox29,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552765
+SpecialBox30,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552766
+SpecialBox31,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552767
+SpecialBox32,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552768
+SpecialBox33,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552769
+SpecialBox34,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552770
+SpecialBox35,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552771
+SpecialBox36,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552772
+SpecialBox37,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552773
+SpecialBox38,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552775
+SpecialBox39,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552776
+SpecialBox 4k1,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552743
+SpecialBox 4k2,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552744
+SpecialBox 4k3,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552745
+SpecialBox 4k4,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552746
+
