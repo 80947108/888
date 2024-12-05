@@ -1,3 +1,9 @@
+公告说明,#genre#
+飞哥,http://dns.yiandrive.com:16813/douyin/cctv1
+随缘更新,http://dns.yiandrive.com:16813/douyin/cctv.com
+QQ,http://dns.yiandrive.com:16813/douyin/cctv6media.
+3510746304,https://hyf666.eu.org/yy/993
+
 飞哥精选,#genre#
 抖音小姐姐,https://sp.4n2.cn/?api=xjj
 抖音小姐姐,https://sp.4n2.cn/?api=tm
@@ -5,7 +11,9 @@
 抖音小姐姐,https://v.nrzj.vip/video.php
 抖音小姐姐,https://hyf.serv00.net/video.php
 抖音小姐姐,https://80947108.eu.org/xjj.php
-小姐姐,http://cfss.cc/cdn/yy/54880976.flv
+小姐姐热歌,https://hyf666.eu.org/yy/991
+小姐姐热舞,https://hyf666.eu.org/yy/993
+重温经典,https://hyf.serv00.net/fg/重温经典.php
 CCTV1,https://hyf.serv00.net/fg/CCTV1.php
 CCTV4美洲,https://hyf.serv00.net/fg/CCTV4美洲.php
 CCTV6,https://hyf.serv00.net/fg/CCTV6.php
@@ -17,7 +25,16 @@ CCTV6,https://hyf.serv00.net/fg/CCTV6.php
 延边卫视,https://hyf.serv00.net/fg/延边卫视.php
 黑龙江卫视,https://hyf.serv00.net/fg/黑龙江卫视.php
 兵团卫视,https://hyf.serv00.net/fg/兵团卫视.php
-重温经典,https://hyf.serv00.net/fg/重温经典.php
+
+CCTV1,http://dns.yiandrive.com:16813/douyin/cctv1
+CCTV13,http://dns.yiandrive.com:16813/douyin/cctv.com
+CCTV6,http://dns.yiandrive.com:16813/douyin/cctv6media.
+1905国内,http://dns.yiandrive.com:16813/1905/1905a
+1905国外,http://dns.yiandrive.com:16813/1905/1905b
+凤凰资讯,http://dns.yiandrive.com:16813/phenix/fhzx
+凤凰中文,http://dns.yiandrive.com:16813/phenix/fhzw
+凤凰香港,http://dns.yiandrive.com:16813/phenix/fhhk
+
 
 金马影院,https://hyf.serv00.net/fg/金马影院.php
 Now爆谷,https://hyf.serv00.net/fg/Now爆谷.php
@@ -1013,11 +1030,12 @@ TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
 
 
 
-㊙测试㊙_0000,#genre#
+  _0000,#genre#
 性教育,https://cf005.paopao.video:443/D8015221C25EDF5504A00073FBDE053F5590C804
 
 松视1,https://hyf.serv00.net/fg/松视1.php
 松视2,https://hyf.serv00.net/fg/松视2.php
+松视3,https://hyf.serv00.net/fg/松视3.php
 彩虹电影,https://hyf.serv00.net/fg/彩虹电影.php
 香蕉台,https://hyf.serv00.net/fg/香蕉台.php
 惊艳台,https://hyf.serv00.net/fg/惊艳台.php
@@ -1087,4 +1105,3 @@ SpecialBox 4k1,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552743
 SpecialBox 4k2,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552744
 SpecialBox 4k3,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552745
 SpecialBox 4k4,http://focusmag.eu01.live:8080/Mazda_cx5/sd746bx/552746
-
