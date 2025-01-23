@@ -38,11 +38,15 @@ CCTV6,http://dns.yiandrive.com:15907/douyin/cctv6media.
 
 
 中国电影频道,https://hyf.serv00.net/fg/中国电影频道.php
+美亚电影,https://hyf.serv00.net/fg/美亚电影.php
+Thrill,https://hyf.serv00.net/fg/Thrill.php
+翡翠台,https://hyf.serv00.net/fg/翡翠台.php
+POPC,https://hyf.serv00.net/fg/POPC.php
 金马影院,https://hyf.serv00.net/fg/金马影院.php
 Now爆谷,https://hyf.serv00.net/fg/Now爆谷.php
+Now爆谷1,https://hyf.serv00.net/fg/Now爆谷1.php
 Now星影,https://hyf.serv00.net/fg/Now星影.php
 黄金华剧,https://hyf.serv00.net/fg/黄金华剧.php
-美亚电影,https://hyf.serv00.net/fg/美亚电影.php
 真武侠,https://hyf.serv00.net/fg/真武侠.php
 JJ斗地主,https://hyf.serv00.net/fg/JJ斗地主.php
 王者荣耀,https://hyf.serv00.net/fg/王者荣耀.php
@@ -92,43 +96,48 @@ FTV,https://hyf.serv00.net/fg/FTV.php
 
 
 飞哥央视,#genre#
-CCTV1,http://tv.kmhlzxs.top:35455/gaoma/cctv1.m3u8
-CCTV2,http://tv.kmhlzxs.top:35455/gaoma/cctv2.m3u8
-CCTV3,http://tv.kmhlzxs.top:35455/gaoma/cctv3.m3u8
-CCTV4,http://tv.kmhlzxs.top:35455/gaoma/cctv4.m3u8
-CCTV4K,http://tv.kmhlzxs.top:35455/gaoma/cctv4k.m3u8
-CCTV5,http://tv.kmhlzxs.top:35455/gaoma/cctv5.m3u8
-CCTV5+,http://tv.kmhlzxs.top:35455/gaoma/cctv5p.m3u8
-CCTV6,http://tv.kmhlzxs.top:35455/gaoma/cctv6.m3u8
-CCTV7,http://tv.kmhlzxs.top:35455/gaoma/cctv7.m3u8
-CCTV8,http://tv.kmhlzxs.top:35455/gaoma/cctv8.m3u8
-CCTV9,http://tv.kmhlzxs.top:35455/gaoma/cctv9.m3u8
-CCTV10,http://tv.kmhlzxs.top:35455/gaoma/cctv10.m3u8
-CCTV11,http://tv.kmhlzxs.top:35455/gaoma/cctv11.m3u8
-CCTV12,http://tv.kmhlzxs.top:35455/gaoma/cctv12.m3u8
-CCTV13,http://tv.kmhlzxs.top:35455/gaoma/cctv13.m3u8
-CCTV14,http://tv.kmhlzxs.top:35455/gaoma/cctv14.m3u8
-CCTV15,http://tv.kmhlzxs.top:35455/gaoma/cctv15.m3u8
-CCTV16,http://tv.kmhlzxs.top:35455/gaoma/cctv16.m3u8
-CCTV17,http://tv.kmhlzxs.top:35455/gaoma/cctv17.m3u8
+
+CCTV1,https://tvpull.careryun.com/tv/cctv1.m3u8
+CCTV2,https://tvpull.careryun.com/tv/cctv2.m3u8
+CCTV3,https://tvpull.careryun.com/tv/cctv3.m3u8
+CCTV4,https://tvpull.careryun.com/tv/cctv4.m3u8
+CCTV5,https://tvpull.careryun.com/tv/cctv5.m3u8
+CCTV5+,https://tvpull.careryun.com/tv/cctv5+.m3u8
+CCTV6,https://tvpull.careryun.com/tv/cctv6.m3u8
+CCTV7,https://tvpull.careryun.com/tv/cctv7.m3u8
+CCTV8,https://tvpull.careryun.com/tv/cctv8.m3u8
+CCTV9,https://tvpull.careryun.com/tv/cctv9.m3u8
+CCTV10,https://tvpull.careryun.com/tv/cctv10.m3u8
+CCTV11,https://tvpull.careryun.com/tv/cctv11.m3u8
+CCTV12,https://tvpull.careryun.com/tv/cctv12.m3u8
+CCTV13,https://tvpull.careryun.com/tv/cctv13.m3u8
+CCTV14,https://tvpull.careryun.com/tv/cctv14.m3u8
+CCTV15,https://tvpull.careryun.com/tv/cctv15.m3u8
+CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8
+CCTV4美洲,https://tvpull.careryun.com/tv/cctv4m.m3u8
+CCTV4欧洲,https://tvpull.careryun.com/tv/cctv4o.m3u8
 
 
-CCTV1,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1
-CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=1
-CCTV3,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=1
-CCTV4,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-4sd/1500.m3u8?innersid=1
-CCTV5,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=1
-CCTV6,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=1
-CCTV7,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=1
-CCTV8,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-8hd/2500.m3u8?innersid=1
-CCTV9,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=1
-CCTV10,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=1
-CCTV11,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-11sd/1500.m3u8?innersid=1
-CCTV12,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=1
-CCTV13,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-newssd/1500.m3u8?innersid=1
-CCTV14,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=1
-CCTV15,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-yysd/1500.m3u8?innersid=1
-CCTV17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=1
+CCTV1,http://b.zgjok.com:35455/gaoma/cctv1.m3u8
+CCTV2,http://b.zgjok.com:35455/gaoma/cctv2.m3u8
+CCTV3,http://b.zgjok.com:35455/gaoma/cctv3.m3u8
+CCTV4,http://b.zgjok.com:35455/gaoma/cctv4.m3u8
+CCTV4K,http://b.zgjok.com:35455/gaoma/cctv4k.m3u8
+CCTV5,http://b.zgjok.com:35455/gaoma/cctv5.m3u8
+CCTV5+,http://b.zgjok.com:35455/gaoma/cctv5p.m3u8
+CCTV6,http://b.zgjok.com:35455/gaoma/cctv6.m3u8
+CCTV7,http://b.zgjok.com:35455/gaoma/cctv7.m3u8
+CCTV8,http://b.zgjok.com:35455/gaoma/cctv8.m3u8
+CCTV9,http://b.zgjok.com:35455/gaoma/cctv9.m3u8
+CCTV10,http://b.zgjok.com:35455/gaoma/cctv10.m3u8
+CCTV11,http://b.zgjok.com:35455/gaoma/cctv11.m3u8
+CCTV12,http://b.zgjok.com:35455/gaoma/cctv12.m3u8
+CCTV13,http://b.zgjok.com:35455/gaoma/cctv13.m3u8
+CCTV14,http://b.zgjok.com:35455/gaoma/cctv14.m3u8
+CCTV15,http://b.zgjok.com:35455/gaoma/cctv15.m3u8
+CCTV16,http://b.zgjok.com:35455/gaoma/cctv16.m3u8
+CCTV17,http://b.zgjok.com:35455/gaoma/cctv17.m3u8
+
 
 
 CCTV1,http://php.666230.xyz/公众号【睡眼迷离的猫】/migu.php?id=cctv1
@@ -193,97 +202,6 @@ CCTV老故事,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=lgs
 CCTV中学生,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=zxs
 
 
-CCTV1,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv1
-CCTV2,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv2
-CCTV3,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv3
-CCTV4,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv4
-CCTV5,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv5
-CCTV5+,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv5p
-CCTV6,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv6
-CCTV7,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv7
-CCTV8,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv8
-CCTV9,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv9
-CCTV10,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv10
-CCTV11,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv11
-CCTV12,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv12
-CCTV13,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv13
-CCTV14,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv14
-CCTV15,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv15
-CCTV17,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv17
-CCTV4欧洲,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv4o
-CCTV4美洲,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cctv4a
-CGTN纪录,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cgtnjl
-CGTN西语,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cgtne
-CGTN阿语,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cgtna
-CGTN法语,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cgtnf
-CGTN俄语,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cgtnr
-CHC家庭影院,http://211.101.234.24:68/公众号猫月牙/mg.php?id=chcjt
-CHC动作电影,http://211.101.234.24:68/公众号猫月牙/mg.php?id=chcdz
-CCTV发现之旅,http://211.101.234.24:68/公众号猫月牙/mg.php?id=fxzl
-CCTV老故事,http://211.101.234.24:68/公众号猫月牙/mg.php?id=lgs
-CCTV中学生,http://211.101.234.24:68/公众号猫月牙/mg.php?id=zxs
-
-
-CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
-CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
-CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4a
-CGTN纪录,http://z.b.bkpcp.top/m.php?id=cgtnjl
-CGTN西语,http://z.b.bkpcp.top/m.php?id=cgtne
-CGTN阿语,http://z.b.bkpcp.top/m.php?id=cgtna
-CGTN法语,http://z.b.bkpcp.top/m.php?id=cgtnf
-CGTN俄语,http://z.b.bkpcp.top/m.php?id=cgtnr
-CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjt
-CHC动作电影,http://z.b.bkpcp.top/m.php?id=chcdz
-CCTV发现之旅,http://z.b.bkpcp.top/m.php?id=fxzl
-CCTV老故事,http://z.b.bkpcp.top/m.php?id=lgs
-CCTV中学生,http://z.b.bkpcp.top/m.php?id=zxs
-
-CCTV1,http://182.92.109.190:1668/72/72.php?id=cctv1
-CCTV2,http://182.92.109.190:1668/72/72.php?id=cctv2
-CCTV3,http://182.92.109.190:1668/72/72.php?id=cctv3
-CCTV4,http://182.92.109.190:1668/72/72.php?id=cctv4
-CCTV5,http://182.92.109.190:1668/72/72.php?id=cctv5
-CCTV5+,http://182.92.109.190:1668/72/72.php?id=cctv5p
-CCTV6,http://182.92.109.190:1668/72/72.php?id=cctv6
-CCTV7,http://182.92.109.190:1668/72/72.php?id=cctv7
-CCTV8,http://182.92.109.190:1668/72/72.php?id=cctv8
-CCTV9,http://182.92.109.190:1668/72/72.php?id=cctv9
-CCTV10,http://182.92.109.190:1668/72/72.php?id=cctv10
-CCTV11,http://182.92.109.190:1668/72/72.php?id=cctv11
-CCTV12,http://182.92.109.190:1668/72/72.php?id=cctv12
-CCTV13,http://182.92.109.190:1668/72/72.php?id=cctv13
-CCTV14,http://182.92.109.190:1668/72/72.php?id=cctv14
-CCTV15,http://182.92.109.190:1668/72/72.php?id=cctv15
-CCTV17,http://182.92.109.190:1668/72/72.php?id=cctv17
-CCTV4欧洲,http://182.92.109.190:1668/72/72.php?id=cctv4o
-CCTV4美洲,http://182.92.109.190:1668/72/72.php?id=cctv4a
-CGTN纪录,http://182.92.109.190:1668/72/72.php?id=cgtnjl
-CGTN西语,http://182.92.109.190:1668/72/72.php?id=cgtne
-CGTN阿语,http://182.92.109.190:1668/72/72.php?id=cgtna
-CGTN法语,http://182.92.109.190:1668/72/72.php?id=cgtnf
-CGTN俄语,http://182.92.109.190:1668/72/72.php?id=cgtnr
-CHC家庭影院,http://182.92.109.190:1668/72/72.php?id=chcjt
-CHC动作电影,http://182.92.109.190:1668/72/72.php?id=chcdz
-CCTV发现之旅,http://182.92.109.190:1668/72/72.php?id=fxzl
-CCTV老故事,http://182.92.109.190:1668/72/72.php?id=lgs
-CCTV中学生,http://182.92.109.190:1668/72/72.php?id=zxs
-
 
 CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
 CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
@@ -305,11 +223,11 @@ CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8
 CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8
 CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
 CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
-CGTN阿拉伯语,http://120.76.248.139/live/bfgd/4200000308.m3u8
-CGTN西班牙语,http://120.76.248.139/live/bfgd/4200000306.m3u8
+CGTN阿语,http://120.76.248.139/live/bfgd/4200000308.m3u8
+CGTN西语,http://120.76.248.139/live/bfgd/4200000306.m3u8
 CGTN法语,http://120.76.248.139/live/bfgd/4200000307.m3u8
 CGTN,http://120.76.248.139/live/bfgd/4200000134.m3u8
-CGTN俄罗斯语,http://120.76.248.139/live/bfgd/4200000309.m3u8
+CGTN俄语,http://120.76.248.139/live/bfgd/4200000309.m3u8
 CETV1,http://120.76.248.139/live/bfgd/4200000135.m3u8
 CETV2,http://120.76.248.139/live/bfgd/4200000492.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
@@ -323,42 +241,10 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
 
-CCTV1,http://111.21.57.70:2180/live/CCTVx1/index.m3u8
-CCTV2,http://111.21.57.70:2180/live/CCTVx2/index.m3u8
-CCTV3,http://111.21.57.70:2180/live/CCTVx3/index.m3u8
-CCTV4,http://111.21.57.70:2180/live/CCTVx4/index.m3u8
-CCTV5,http://111.21.57.70:2180/live/CCTVx5/index.m3u8
-CCTV6,http://111.21.57.70:2180/live/CCTVx6/index.m3u8
-CCTV7,http://111.21.57.70:2180/live/CCTVx7/index.m3u8
-CCTV8,http://111.21.57.70:2180/live/CCTVx8/index.m3u8
-CCTV9,http://111.21.57.70:2180/live/CCTVx9/index.m3u8
-CCTV10,http://111.21.57.70:2180/live/CCTVx10/index.m3u8
-CCTV11,http://111.21.57.70:2180/live/CCTVx11/index.m3u8
-CCTV12,http://111.21.57.70:2180/live/CCTVx12/index.m3u8
-CCTV13,http://111.21.57.70:2180/live/CCTVx13/index.m3u8
-CCTV14,http://111.21.57.70:2180/live/CCTVx14/index.m3u8
-CCTV15,http://111.21.57.70:2180/live/CCTVx15/index.m3u8
 
 
-CCTV1,https://tvpull.careryun.com/tv/cctv1.m3u8
-CCTV2,https://tvpull.careryun.com/tv/cctv2.m3u8
-CCTV3,https://tvpull.careryun.com/tv/cctv3.m3u8
-CCTV4,https://tvpull.careryun.com/tv/cctv4.m3u8
-CCTV5,https://tvpull.careryun.com/tv/cctv5.m3u8
-CCTV5+,https://tvpull.careryun.com/tv/cctv5+.m3u8
-CCTV6,https://tvpull.careryun.com/tv/cctv6.m3u8
-CCTV7,https://tvpull.careryun.com/tv/cctv7.m3u8
-CCTV8,https://tvpull.careryun.com/tv/cctv8.m3u8
-CCTV9,https://tvpull.careryun.com/tv/cctv9.m3u8
-CCTV10,https://tvpull.careryun.com/tv/cctv10.m3u8
-CCTV11,https://tvpull.careryun.com/tv/cctv11.m3u8
-CCTV12,https://tvpull.careryun.com/tv/cctv12.m3u8
-CCTV13,https://tvpull.careryun.com/tv/cctv13.m3u8
-CCTV14,https://tvpull.careryun.com/tv/cctv14.m3u8
-CCTV15,https://tvpull.careryun.com/tv/cctv15.m3u8
-CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8
-CCTV4美洲,https://tvpull.careryun.com/tv/cctv4m.m3u8
-CCTV4欧洲,https://tvpull.careryun.com/tv/cctv4o.m3u8
+
+
 
 
 CGTN,https://0472.org/hls/cgtn.m3u8
@@ -378,80 +264,35 @@ CHC家庭影院,https://hyf.serv00.net/fg/CHC家庭影院.php
 
 
 
-CCTV1,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV3,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV5,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5+,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV6,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV7,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV9,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV10,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV11,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV12,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV13,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV14,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV15,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV16,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV17,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV1,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010144/1.m3u8
-CCTV2,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/1.m3u8
-CCTV3,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010212/1.m3u8
-CCTV4,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010017/1.m3u8
-CCTV5,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010139/1.m3u8
-CCTV5,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010145/1.m3u8
-CCTV5+,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010202/1.m3u8
-CCTV6,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010214/1.m3u8
-CCTV7,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010215/1.m3u8
-CCTV8,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010216/1.m3u8
-CCTV9,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010217/1.m3u8
-CCTV10,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010203/1.m3u8
-CCTV11,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010092/1.m3u8
-CCTV12,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010205/1.m3u8
-CCTV13,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010093/1.m3u8
-CCTV14,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010207/1.m3u8
-CCTV15,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010094/1.m3u8
-CCTV16,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010142/1.m3u8
-CCTV17,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010210/1.m3u8
+
 
 //======================================================
 
 
 飞哥卫视,#genre#
-北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/2500.m3u8?innersid=1
-东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=1
-天津卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/tjws-sd/1500.m3u8?innersid=1
-重庆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cqws-sd/1500.m3u8?innersid=1
-黑龙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=1
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=1
-辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=1
-内蒙古卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nmws-sd/1500.m3u8?innersid=1
-宁夏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nxws-sd/1500.m3u8?innersid=1
-陕西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sxws-sd/1500.m3u8?innersid=1
-河北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hebeiws-sd/1500.m3u8?innersid=1
-山西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shanxiws-sd/1500.m3u8?innersid=1
-山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=1
-安徽卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ahws-sd/1500.m3u8?innersid=1
-河南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=1
-湖北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hbws-sd/1500.m3u8?innersid=1
-湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=1
-江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=1
-江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=1
-浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=1
-东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=1
-广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=1
-深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=1
-广西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gxws-sd/1500.m3u8?innersid=1
-云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=1
-贵州卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gzws-sd/1500.m3u8?innersid=1
-四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=1
-新疆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=1
-兵团卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/btws-sd/1500.m3u8?innersid=1
-西藏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=1
-海南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lyws-sd/1500.m3u8?innersid=1
 
+东方卫视,https://tvpull.careryun.com/tv/dfws.m3u8
+湖南卫视,https://tvpull.careryun.com/tv/cn_hunws.m3u8
+浙江卫视,https://tvpull.careryun.com/tv/cn_zjws.m3u8
+江苏卫视,https://tvpull.careryun.com/tv/jsws.m3u8
+北京卫视,https://tvpull.careryun.com/tv/cn_bjws.m3u8
+深圳卫视,https://tvpull.careryun.com/tv/cn_szws.m3u8
+广东卫视,https://tvpull.careryun.com/tv/gdws.m3u8
+山东卫视,https://tvpull.careryun.com/tv/cn_sdws.m3u8
+江西卫视,https://tvpull.careryun.com/tv/jxws.m3u8
+黑龙江卫视,https://tvpull.careryun.com/tv/cn_hljws.m3u8
+东南卫视,https://tvpull.careryun.com/tv/cn_dnws.m3u8
+河北卫视,https://tvpull.careryun.com/tv/cn_hbws.m3u8
+四川卫视,https://tvpull.careryun.com/tv/cn_ahws.m3u8
+辽宁卫视,https://tvpull.careryun.com/tv/cn_lnws.m3u8
+重庆卫视,https://tvpull.careryun.com/tv/cn_cqws.m3u8
+河南卫视,https://tvpull.careryun.com/tv/cn_hnws.m3u8
+贵州卫视,https://tvpull.careryun.com/tv/cn_gzws.m3u8
+陕西卫视,https://tvpull.careryun.com/tv/sxws.m3u8
+天津卫视,https://tvpull.careryun.com/tv/cn_tjws.m3u8
+甘肃卫视,https://tvpull.careryun.com/tv/cn_gsws.m3u8
+新疆卫视,https://tvpull.careryun.com/tv/cn_xjws.m3u8
+兵团卫视,https://tvpull.careryun.com/tv/cn_btws.m3u8
 
 
 东方卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/migu.php?id=dfws
@@ -573,179 +414,6 @@ Y+剧场台,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=yjjc
 
 
 
-东方卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=dfws
-重庆卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=cqws
-吉林卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=jlws
-辽宁卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=lnws
-内蒙古卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=nmws
-宁夏卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=nws
-甘肃卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=gsws
-青海卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=qhws
-陕西卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=sws
-山东卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=sdws
-河南卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=hnws
-湖北卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=hubws
-湖南卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=hunws
-江西卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=jws
-江苏卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=jsws
-东南卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=dnws
-海峡卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=hws
-广东卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=gdws
-大湾区卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=dwqws
-广西卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=gws
-云南卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=ynws
-贵州卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=gzws
-新疆卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=jws
-西藏卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=zws
-海南卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=hinws
-四海钓鱼,http://211.101.234.24:68/公众号猫月牙/mg.php?id=shdy
-江苏教育,http://211.101.234.24:68/公众号猫月牙/mg.php?id=jsjy
-山东教育,http://211.101.234.24:68/公众号猫月牙/mg.php?id=sdjy
-游戏风云,http://211.101.234.24:68/公众号猫月牙/mg.php?id=yxfy
-之江纪录,http://211.101.234.24:68/公众号猫月牙/mg.php?id=zjjl
-杭州综合,http://211.101.234.24:68/公众号猫月牙/mg.php?id=hzzh
-杭州明珠,http://211.101.234.24:68/公众号猫月牙/mg.php?id=hzmz
-杭州生活,http://211.101.234.24:68/公众号猫月牙/mg.php?id=hzsh
-杭州影视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=hzys
-杭州少体,http://211.101.234.24:68/公众号猫月牙/mg.php?id=hzse
-嵊泗综合,http://211.101.234.24:68/公众号猫月牙/mg.php?id=ssxwzh
-普陀电视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=ptxwzh
-高清大片,http://211.101.234.24:68/公众号猫月牙/mg.php?id=gqdp
-经典电影,http://211.101.234.24:68/公众号猫月牙/mg.php?id=jdxgdy
-军事大片,http://211.101.234.24:68/公众号猫月牙/mg.php?id=jsdp
-热剧联播,http://211.101.234.24:68/公众号猫月牙/mg.php?id=rjlb
-赛事经典,http://211.101.234.24:68/公众号猫月牙/mg.php?id=sszjd
-体坛名汇,http://211.101.234.24:68/公众号猫月牙/mg.php?id=ttmlh
-新片映厅,http://211.101.234.24:68/公众号猫月牙/mg.php?id=xpfyt
-Y+剧场台,http://211.101.234.24:68/公众号猫月牙/mg.php?id=yjjc
-熊猫频道,http://211.101.234.24:68/公众号猫月牙/mg.php?id=xmhd
-熊猫频道1,http://211.101.234.24:68/公众号猫月牙/mg.php?id=xm1
-熊猫频道2,http://211.101.234.24:68/公众号猫月牙/mg.php?id=xm2
-熊猫频道3,http://211.101.234.24:68/公众号猫月牙/mg.php?id=xm3
-熊猫频道4,http://211.101.234.24:68/公众号猫月牙/mg.php?id=xm4
-熊猫频道5,http://211.101.234.24:68/公众号猫月牙/mg.php?id=xm5
-熊猫频道6,http://211.101.234.24:68/公众号猫月牙/mg.php?id=xm6
-熊猫频道7,http://211.101.234.24:68/公众号猫月牙/mg.php?id=xm7
-熊猫频道8,http://211.101.234.24:68/公众号猫月牙/mg.php?id=xm8
-熊猫频道9,http://211.101.234.24:68/公众号猫月牙/mg.php?id=xm9
-熊猫频道10,http://211.101.234.24:68/公众号猫月牙/mg.php?id=xm10
-
-
-东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
-重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
-吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
-辽宁卫视,http://z.b.bkpcp.top/m.php?id=lnws
-内蒙古卫视,http://z.b.bkpcp.top/m.php?id=nmws
-宁夏卫视,http://z.b.bkpcp.top/m.php?id=nws
-甘肃卫视,http://z.b.bkpcp.top/m.php?id=gsws
-青海卫视,http://z.b.bkpcp.top/m.php?id=qhws
-陕西卫视,http://z.b.bkpcp.top/m.php?id=sws
-山东卫视,http://z.b.bkpcp.top/m.php?id=sdws
-河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
-湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
-湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
-江西卫视,http://z.b.bkpcp.top/m.php?id=jws
-江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
-东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
-海峡卫视,http://z.b.bkpcp.top/m.php?id=hws
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
-大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
-广西卫视,http://z.b.bkpcp.top/m.php?id=gws
-云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
-贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws
-新疆卫视,http://z.b.bkpcp.top/m.php?id=jws
-西藏卫视,http://z.b.bkpcp.top/m.php?id=zws
-海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
-四海钓鱼,http://z.b.bkpcp.top/m.php?id=shdy
-江苏教育,http://z.b.bkpcp.top/m.php?id=jsjy
-山东教育,http://z.b.bkpcp.top/m.php?id=sdjy
-游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy
-之江纪录,http://z.b.bkpcp.top/m.php?id=zjjl
-杭州综合,http://z.b.bkpcp.top/m.php?id=hzzh
-杭州明珠,http://z.b.bkpcp.top/m.php?id=hzmz
-杭州生活,http://z.b.bkpcp.top/m.php?id=hzsh
-杭州影视,http://z.b.bkpcp.top/m.php?id=hzys
-杭州少体,http://z.b.bkpcp.top/m.php?id=hzse
-嵊泗综合,http://z.b.bkpcp.top/m.php?id=ssxwzh
-普陀电视,http://z.b.bkpcp.top/m.php?id=ptxwzh
-高清大片,http://z.b.bkpcp.top/m.php?id=gqdp
-经典电影,http://z.b.bkpcp.top/m.php?id=jdxgdy
-军事大片,http://z.b.bkpcp.top/m.php?id=jsdp
-热剧联播,http://z.b.bkpcp.top/m.php?id=rjlb
-赛事经典,http://z.b.bkpcp.top/m.php?id=sszjd
-体坛名汇,http://z.b.bkpcp.top/m.php?id=ttmlh
-新片映厅,http://z.b.bkpcp.top/m.php?id=xpfyt
-Y+剧场台,http://z.b.bkpcp.top/m.php?id=yjjc
-熊猫频道,http://z.b.bkpcp.top/m.php?id=xmhd
-熊猫频道1,http://z.b.bkpcp.top/m.php?id=xm1
-熊猫频道2,http://z.b.bkpcp.top/m.php?id=xm2
-熊猫频道3,http://z.b.bkpcp.top/m.php?id=xm3
-熊猫频道4,http://z.b.bkpcp.top/m.php?id=xm4
-熊猫频道5,http://z.b.bkpcp.top/m.php?id=xm5
-熊猫频道6,http://z.b.bkpcp.top/m.php?id=xm6
-熊猫频道7,http://z.b.bkpcp.top/m.php?id=xm7
-熊猫频道8,http://z.b.bkpcp.top/m.php?id=xm8
-熊猫频道9,http://z.b.bkpcp.top/m.php?id=xm9
-熊猫频道10,http://z.b.bkpcp.top/m.php?id=xm10
-
-
-东方卫视,http://182.92.109.190:1668/72/72.php?id=dfws
-重庆卫视,http://182.92.109.190:1668/72/72.php?id=cqws
-吉林卫视,http://182.92.109.190:1668/72/72.php?id=jlws
-辽宁卫视,http://182.92.109.190:1668/72/72.php?id=lnws
-内蒙古卫视,http://182.92.109.190:1668/72/72.php?id=nmws
-宁夏卫视,http://182.92.109.190:1668/72/72.php?id=nws
-甘肃卫视,http://182.92.109.190:1668/72/72.php?id=gsws
-青海卫视,http://182.92.109.190:1668/72/72.php?id=qhws
-陕西卫视,http://182.92.109.190:1668/72/72.php?id=sws
-山东卫视,http://182.92.109.190:1668/72/72.php?id=sdws
-河南卫视,http://182.92.109.190:1668/72/72.php?id=hnws
-湖北卫视,http://182.92.109.190:1668/72/72.php?id=hubws
-湖南卫视,http://182.92.109.190:1668/72/72.php?id=hunws
-江西卫视,http://182.92.109.190:1668/72/72.php?id=jws
-江苏卫视,http://182.92.109.190:1668/72/72.php?id=jsws
-东南卫视,http://182.92.109.190:1668/72/72.php?id=dnws
-海峡卫视,http://182.92.109.190:1668/72/72.php?id=hws
-广东卫视,http://182.92.109.190:1668/72/72.php?id=gdws
-大湾区卫视,http://182.92.109.190:1668/72/72.php?id=dwqws
-广西卫视,http://182.92.109.190:1668/72/72.php?id=gws
-云南卫视,http://182.92.109.190:1668/72/72.php?id=ynws
-贵州卫视,http://182.92.109.190:1668/72/72.php?id=gzws
-新疆卫视,http://182.92.109.190:1668/72/72.php?id=jws
-西藏卫视,http://182.92.109.190:1668/72/72.php?id=zws
-海南卫视,http://182.92.109.190:1668/72/72.php?id=hinws
-四海钓鱼,http://182.92.109.190:1668/72/72.php?id=shdy
-江苏教育,http://182.92.109.190:1668/72/72.php?id=jsjy
-山东教育,http://182.92.109.190:1668/72/72.php?id=sdjy
-游戏风云,http://182.92.109.190:1668/72/72.php?id=yxfy
-之江纪录,http://182.92.109.190:1668/72/72.php?id=zjjl
-杭州综合,http://182.92.109.190:1668/72/72.php?id=hzzh
-杭州明珠,http://182.92.109.190:1668/72/72.php?id=hzmz
-杭州生活,http://182.92.109.190:1668/72/72.php?id=hzsh
-杭州影视,http://182.92.109.190:1668/72/72.php?id=hzys
-杭州少体,http://182.92.109.190:1668/72/72.php?id=hzse
-嵊泗综合,http://182.92.109.190:1668/72/72.php?id=ssxwzh
-普陀电视,http://182.92.109.190:1668/72/72.php?id=ptxwzh
-高清大片,http://182.92.109.190:1668/72/72.php?id=gqdp
-经典电影,http://182.92.109.190:1668/72/72.php?id=jdxgdy
-军事大片,http://182.92.109.190:1668/72/72.php?id=jsdp
-热剧联播,http://182.92.109.190:1668/72/72.php?id=rjlb
-赛事经典,http://182.92.109.190:1668/72/72.php?id=sszjd
-体坛名汇,http://182.92.109.190:1668/72/72.php?id=ttmlh
-新片映厅,http://182.92.109.190:1668/72/72.php?id=xpfyt
-Y+剧场台,http://182.92.109.190:1668/72/72.php?id=yjjc
-熊猫频道,http://182.92.109.190:1668/72/72.php?id=xmhd
-熊猫频道1,http://182.92.109.190:1668/72/72.php?id=xm1
-熊猫频道2,http://182.92.109.190:1668/72/72.php?id=xm2
-熊猫频道3,http://182.92.109.190:1668/72/72.php?id=xm3
-熊猫频道4,http://182.92.109.190:1668/72/72.php?id=xm4
-熊猫频道5,http://182.92.109.190:1668/72/72.php?id=xm5
-熊猫频道6,http://182.92.109.190:1668/72/72.php?id=xm6
-熊猫频道7,http://182.92.109.190:1668/72/72.php?id=xm7
-熊猫频道8,http://182.92.109.190:1668/72/72.php?id=xm8
-熊猫频道9,http://182.92.109.190:1668/72/72.php?id=xm9
-熊猫频道10,http://182.92.109.190:1668/72/72.php?id=xm10
-
 
 
 安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8
@@ -786,112 +454,6 @@ Y+剧场台,http://182.92.109.190:1668/72/72.php?id=yjjc
 兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 
 
-东方卫视,https://tvpull.careryun.com/tv/dfws.m3u8
-湖南卫视,https://tvpull.careryun.com/tv/cn_hunws.m3u8
-浙江卫视,https://tvpull.careryun.com/tv/cn_zjws.m3u8
-江苏卫视,https://tvpull.careryun.com/tv/jsws.m3u8
-北京卫视,https://tvpull.careryun.com/tv/cn_bjws.m3u8
-深圳卫视,https://tvpull.careryun.com/tv/cn_szws.m3u8
-广东卫视,https://tvpull.careryun.com/tv/gdws.m3u8
-山东卫视,https://tvpull.careryun.com/tv/cn_sdws.m3u8
-江西卫视,https://tvpull.careryun.com/tv/jxws.m3u8
-黑龙江卫视,https://tvpull.careryun.com/tv/cn_hljws.m3u8
-东南卫视,https://tvpull.careryun.com/tv/cn_dnws.m3u8
-河北卫视,https://tvpull.careryun.com/tv/cn_hbws.m3u8
-四川卫视,https://tvpull.careryun.com/tv/cn_ahws.m3u8
-辽宁卫视,https://tvpull.careryun.com/tv/cn_lnws.m3u8
-重庆卫视,https://tvpull.careryun.com/tv/cn_cqws.m3u8
-河南卫视,https://tvpull.careryun.com/tv/cn_hnws.m3u8
-贵州卫视,https://tvpull.careryun.com/tv/cn_gzws.m3u8
-陕西卫视,https://tvpull.careryun.com/tv/sxws.m3u8
-天津卫视,https://tvpull.careryun.com/tv/cn_tjws.m3u8
-甘肃卫视,https://tvpull.careryun.com/tv/cn_gsws.m3u8
-新疆卫视,https://tvpull.careryun.com/tv/cn_xjws.m3u8
-兵团卫视,https://tvpull.careryun.com/tv/cn_btws.m3u8
-
-深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-天津卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-山东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-江西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-辽宁卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-内蒙古卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226389/2.m3u8
-甘肃卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225633/2.m3u8
-吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-青海卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-西藏卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225638/2.m3u8
-新疆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225635/2.m3u8
-山西卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225624/2.m3u8
-兵团卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226439/2.m3u8
-延边卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226516/2.m3u8
-安多卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-安多卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225659/2.m3u8
-康巴卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225660/2.m3u8
-山东教育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-北京卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010143/1.m3u8
-湖北卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010057/1.m3u8
-湖北卫视,http://2409:8087:5e00:24::11:6060/200000001898/460000089800010223/1.m3u8
-安徽卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010041/1.m3u8
-湖南卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010058/1.m3u8
-湖南卫视,http://2409:8087:5e00:24::11:6060/200000001898/460000089800010224/1.m3u8
-东方卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010054/1.m3u8
-东方卫视,http://2409:8087:5e00:24::11:6060/200000001898/460000089800010219/1.m3u8
-广东卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010055/1.m3u8
-广东卫视,http://2409:8087:5e00:24::11:6060/200000001898/460000089800010221/1.m3u8
-黑龙江卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010056/1.m3u8
-黑龙江卫视,http://2409:8087:5e00:24::11:6060/200000001898/460000089800010222/1.m3u8
-重庆卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010053/1.m3u8
-重庆卫视,http://2409:8087:5e00:24::11:6060/200000001898/460000089800010218/1.m3u8
-江苏卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010059/1.m3u8
-江苏卫视,http://2409:8087:5e00:24::11:6060/200000001898/460000089800010225/1.m3u8
-辽宁卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010061/1.m3u8
-云南卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010119/1.m3u8
-甘肃卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010098/1.m3u8
-东南卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010096/1.m3u8
-深圳卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010068/1.m3u8
-江西卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010060/1.m3u8
-浙江卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010070/1.m3u8
-天津卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010069/1.m3u8
-山东卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010066/1.m3u8
-贵州卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010100/1.m3u8
-河北卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010101/1.m3u8
-四川卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010115/1.m3u8
-广西卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010099/1.m3u8
-青海卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010111/1.m3u8
-山西卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010114/1.m3u8
-陕西卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010113/1.m3u8
-河南卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010071/1.m3u8
-吉林卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010075/1.m3u8
-内蒙古卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010109/1.m3u8
-新疆卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010116/1.m3u8
-海南卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010083/1.m3u8
-宁夏卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010110/1.m3u8
-西藏卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010123/1.m3u8
-广东珠江,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010091/1.m3u8
-大湾区卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010108/1.m3u8
-海南公共,http://[2409:8087:5e00:24::11]:6060/000000001000/460000100000000057/1.m3u8
-海南少儿,http://[2409:8087:5e00:24::11]:6060/000000001000/4600001000000000112/1.m3u8
-海南文旅,http://[2409:8087:5e00:24::11]:6060/000000001000/4600001000000000113/1.m3u8
-海南新闻,http://[2409:8087:5e00:24::11]:6060/000000001000/4600001000000000111/1.m3u8
-海南自贸,http://[2409:8087:5e00:24::11]:6060/000000001000/4600001000000000116/1.m3u8
-纪实人文,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010067/1.m3u8
-农业致富,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010085/1.m3u8
 
 //======================================================
 
@@ -1556,6 +1118,13 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 澳门莲花台,http://php.jdshipin.com:8880/amlh.php
 
+
+
+//======================================================
+
+
+
+飞哥TW1,#genre#
 凤凰卫视,http://6v.nx.tc/smrt.php?playurl=http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8
 凤凰资讯,http://6v.nx.tc/smrt.php?playurl=http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8
 凤凰香港,http://6v.nx.tc/smrt.php?playurl=http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8
@@ -1715,7 +1284,6 @@ AFC 亚洲旅游台,http://6v.nx.tc/smrt.php?playurl=http://50.7.234.10:8278/asi
 欧美电影,http://dns.yiandrive.com:15907/huya/21059581
 欧美娱乐,http://dns.yiandrive.com:15907/huya/21059574
 倩女幽魂,http://dns.yiandrive.com:15907/huya/11601970
-女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 港台电影,http://dns.yiandrive.com:15907/huya/880261
 黑帮斗争,http://dns.yiandrive.com:15907/huya/11342419
 未知,http://dns.yiandrive.com:15907/huya/11601986
@@ -1813,7 +1381,6 @@ AFC 亚洲旅游台,http://6v.nx.tc/smrt.php?playurl=http://50.7.234.10:8278/asi
 欧美电影,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059581
 欧美娱乐,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=21059574
 倩女幽魂,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11601970
-女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 港台电影,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=880261
 黑帮斗争,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11342419
 未知,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11601986
@@ -1889,6 +1456,8 @@ AFC 亚洲旅游台,http://6v.nx.tc/smrt.php?playurl=http://50.7.234.10:8278/asi
 陈翔六点半,https://hyf.serv00.net/fg/陈翔六点半.php
 猫和老鼠,https://hyf.serv00.net/fg/猫和老鼠.php
 火影忍者,https://hyf.serv00.net/fg/火影忍者.php
+
+
 
 //======================================================
 
@@ -2119,69 +1688,528 @@ Angels,https://hyf.serv00.net/fg/Angels.php
 人妖,https://hyf.serv00.net/fg/人妖.php
 
 
-4K: EXOTIC,http://lunar.pm:8080/Mrlenny/fish/122875
-4K: TINY4K,http://lunar.pm:8080/Mrlenny/fish/122876
-4K: SLIM4K,http://lunar.pm:8080/Mrlenny/fish/122877
-4K: CUCK HUNTER,http://lunar.pm:8080/Mrlenny/fish/122878
-4K: TINY4K 2,http://lunar.pm:8080/Mrlenny/fish/122879
-4K: FIRST CLASS,http://lunar.pm:8080/Mrlenny/fish/122880
-4K: FOXY4KME,http://lunar.pm:8080/Mrlenny/fish/122881
-4K: CUM 4K,http://lunar.pm:8080/Mrlenny/fish/122882
-4K: BENEFIT MONKEY,http://lunar.pm:8080/Mrlenny/fish/122883
-4K: FAPADOO THREESOMES,http://lunar.pm:8080/Mrlenny/fish/122884
-4K: LETS DO IT [HIGH],http://lunar.pm:8080/Mrlenny/fish/122885
-4K: ABELLA DANGER,http://lunar.pm:8080/Mrlenny/fish/122886
-4K: ADRIANA CHECHIK,http://lunar.pm:8080/Mrlenny/fish/122887
-4K: ALINA LOPEZ,http://lunar.pm:8080/Mrlenny/fish/122888
-4K: ANGELA WHITE,http://lunar.pm:8080/Mrlenny/fish/122889
-4K: ARIANA MARIE,http://lunar.pm:8080/Mrlenny/fish/122890
-4K: AUGUST AMES,http://lunar.pm:8080/Mrlenny/fish/122891
-4K: BRANDI LOVE,http://lunar.pm:8080/Mrlenny/fish/122892
-4K: DANI DANIELS,http://lunar.pm:8080/Mrlenny/fish/122893
-4K: DANI JENSEN,http://lunar.pm:8080/Mrlenny/fish/122894
-4K: ELSA JEAN,http://lunar.pm:8080/Mrlenny/fish/122895
-4K: EMILY WILLIS,http://lunar.pm:8080/Mrlenny/fish/122896
-4K: EVA LOVIA,http://lunar.pm:8080/Mrlenny/fish/122897
-4K: GINA VALENTINA,http://lunar.pm:8080/Mrlenny/fish/122898
-4K: JANICE GRIFFITH,http://lunar.pm:8080/Mrlenny/fish/122899
-4K: AUTUMN FALLS,http://lunar.pm:8080/Mrlenny/fish/122900
-VIP: TINY4K,http://lunar.pm:8080/Mrlenny/fish/122901
-VIP: TUSHY,http://lunar.pm:8080/Mrlenny/fish/122902
-VIP: VIXEN,http://lunar.pm:8080/Mrlenny/fish/122903
-VIP: ASIAN BONDAGE,http://lunar.pm:8080/Mrlenny/fish/122904
-VIP: ASIAN SEX DIARY,http://lunar.pm:8080/Mrlenny/fish/122905
-VIP: BLACK GFS,http://lunar.pm:8080/Mrlenny/fish/122906
-VIP: BLACK NEED,http://lunar.pm:8080/Mrlenny/fish/122907
-VIP: BLACKED,http://lunar.pm:8080/Mrlenny/fish/122908
-VIP: Blacked HD,http://lunar.pm:8080/Mrlenny/fish/122909
-VIP: Brand New Amateurs,http://lunar.pm:8080/Mrlenny/fish/122910
-VIP: Bratty Sis,http://lunar.pm:8080/Mrlenny/fish/122911
-VIP: BRATTY SIS,http://lunar.pm:8080/Mrlenny/fish/122912
-VIP: Brazzers HD,http://lunar.pm:8080/Mrlenny/fish/122913
-VIP: Brazzers TV Europe,http://lunar.pm:8080/Mrlenny/fish/122914
-VIP: CHINA XXX,http://lunar.pm:8080/Mrlenny/fish/122915
-VIP: CUM4K,http://lunar.pm:8080/Mrlenny/fish/122916
-VIP: DOGFART NETWORK,http://lunar.pm:8080/Mrlenny/fish/122917
-VIP: FAKE TAXI,http://lunar.pm:8080/Mrlenny/fish/122918
-VIP: FAMILY STROKES,http://lunar.pm:8080/Mrlenny/fish/122919
-VIP: FILTHY KINGS,http://lunar.pm:8080/Mrlenny/fish/122920
-VIP: FIt 18,http://lunar.pm:8080/Mrlenny/fish/122921
-VIP: GOLDEN ASIA CHERRY,http://lunar.pm:8080/Mrlenny/fish/122922
-VIP: HER LIMIT,http://lunar.pm:8080/Mrlenny/fish/122923
-VIP: IBIZA,http://lunar.pm:8080/Mrlenny/fish/122924
-VIP: JAYS POV,http://lunar.pm:8080/Mrlenny/fish/122925
-VIP: LETS DOEIT,http://lunar.pm:8080/Mrlenny/fish/122926
-VIP: LITTLE ASIANS,http://lunar.pm:8080/Mrlenny/fish/122927
-VIP: MODEL MEDIA ASIAN,http://lunar.pm:8080/Mrlenny/fish/122928
-VIP: MOMS TEACH,http://lunar.pm:8080/Mrlenny/fish/122929
-VIP:  MOFOS,http://lunar.pm:8080/Mrlenny/fish/122930
-VIP: MY FAMILY PIES,http://lunar.pm:8080/Mrlenny/fish/122931
-VIP: MY PERVY FAMILY,http://lunar.pm:8080/Mrlenny/fish/122932
-VIP: NET VIDEO GIRLS,http://lunar.pm:8080/Mrlenny/fish/122933
-VIP: NEW SENSATIONS,http://lunar.pm:8080/Mrlenny/fish/122934
-VIP: NUBILE FILMS,http://lunar.pm:8080/Mrlenny/fish/122935
-VIP: PRIVATE BLACK,http://lunar.pm:8080/Mrlenny/fish/122936
-VIP: PROPERTY SEX,http://lunar.pm:8080/Mrlenny/fish/122937
-VIP: PUPLIC AGENT,http://lunar.pm:8080/Mrlenny/fish/122938
-VIP: REALITY KINGS,http://lunar.pm:8080/Mrlenny/fish/122939
-VIP: SPANK MONSTER,http://lunar.pm:8080/Mrlenny/fish/122940
+
+//======================================================
+
+
+
+   _0000,#genre#
+
+PORNBOX TRANS: TRANS ANGELS,http://206.212.244.71:8080/4wVQA7/625159/159951
+PORNBOX TRANS: TRANS EROTICA,http://206.212.244.71:8080/4wVQA7/625159/159952
+PORNBOX: A GIRL KNOWS,http://206.212.244.71:8080/4wVQA7/625159/159953
+PORNBOX: ADULT TIME,http://206.212.244.71:8080/4wVQA7/625159/159954
+PORNBOX: ALL BLACK X,http://206.212.244.71:8080/4wVQA7/625159/159955
+PORNBOX: ALL GROUP SEX,http://206.212.244.71:8080/4wVQA7/625159/159956
+PORNBOX: AMATEUR EURO,http://206.212.244.71:8080/4wVQA7/625159/159957
+PORNBOX: ANALIZED,http://206.212.244.71:8080/4wVQA7/625159/159958
+PORNBOX: BABES,http://206.212.244.71:8080/4wVQA7/625159/159959
+PORNBOX: BANG BROS NETWORK,http://206.212.244.71:8080/4wVQA7/625159/159960
+PORNBOX: BIPHORIA,http://206.212.244.71:8080/4wVQA7/625159/159961
+PORNBOX: BLACKED,http://206.212.244.71:8080/4wVQA7/625159/159962
+PORNBOX: BLOW ME POV,http://206.212.244.71:8080/4wVQA7/625159/159963
+PORNBOX: BOX OF PORN,http://206.212.244.71:8080/4wVQA7/625159/159964
+PORNBOX: BRATTY SIS,http://206.212.244.71:8080/4wVQA7/625159/159965
+PORNBOX: BRAZZERS,http://206.212.244.71:8080/4wVQA7/625159/159966
+PORNBOX: BUMS BUS,http://206.212.244.71:8080/4wVQA7/625159/159967
+PORNBOX: CASTING COUCH,http://206.212.244.71:8080/4wVQA7/625159/159968
+PORNBOX: CUM 4K,http://206.212.244.71:8080/4wVQA7/625159/159969
+PORNBOX: DAGFS,http://206.212.244.71:8080/4wVQA7/625159/159970
+PORNBOX: DDF BUSTY,http://206.212.244.71:8080/4wVQA7/625159/159971
+PORNBOX: DIABOLIC,http://206.212.244.71:8080/4wVQA7/625159/159972
+PORNBOX: DIGITAL PLAYGROUND,http://206.212.244.71:8080/4wVQA7/625159/159973
+PORNBOX: DOGFART NETWORK,http://206.212.244.71:8080/4wVQA7/625159/159974
+PORNBOX: DORCEL CLUB,http://206.212.244.71:8080/4wVQA7/625159/159975
+PORNBOX: DREAMROOM,http://206.212.244.71:8080/4wVQA7/625159/159976
+PORNBOX: EROTIKVONBENAN,http://206.212.244.71:8080/4wVQA7/625159/159977
+PORNBOX: FAKE HOSTEL,http://206.212.244.71:8080/4wVQA7/625159/159979
+PORNBOX: FAKE TAXI,http://206.212.244.71:8080/4wVQA7/625159/159980
+PORNBOX: FAMILY STROKES,http://206.212.244.71:8080/4wVQA7/625159/159981
+PORNBOX: FAMILY SWAP XXX,http://206.212.244.71:8080/4wVQA7/625159/159982
+PORNBOX: FAPADOO,http://206.212.244.71:8080/4wVQA7/625159/159983
+PORNBOX: FILTHY POV,http://206.212.244.71:8080/4wVQA7/625159/159984
+PORNBOX: FIRST ANAL QUEST,http://206.212.244.71:8080/4wVQA7/625159/159985
+PORNBOX: FIT 18,http://206.212.244.71:8080/4wVQA7/625159/159986
+PORNBOX: GOTMYLF,http://206.212.244.71:8080/4wVQA7/625159/159987
+PORNBOX: HENTAINED,http://206.212.244.71:8080/4wVQA7/625159/159988
+PORNBOX: HER LIMIT,http://206.212.244.71:8080/4wVQA7/625159/159989
+PORNBOX: HOLED,http://206.212.244.71:8080/4wVQA7/625159/159990
+PORNBOX: HOT WIFE XXX,http://206.212.244.71:8080/4wVQA7/625159/159991
+PORNBOX: HUSSIE PASS,http://206.212.244.71:8080/4wVQA7/625159/159992
+PORNBOX: INTERRACIAL PASS,http://206.212.244.71:8080/4wVQA7/625159/159993
+PORNBOX: JAYS POV,http://206.212.244.71:8080/4wVQA7/625159/159994
+PORNBOX: JESH BY JESH,http://206.212.244.71:8080/4wVQA7/625159/159995
+PORNBOX: JOI BABES,http://206.212.244.71:8080/4wVQA7/625159/159996
+PORNBOX: JULES JORDAN,http://206.212.244.71:8080/4wVQA7/625159/159997
+PORNBOX: KINKY FAMILY,http://206.212.244.71:8080/4wVQA7/625159/159998
+PORNBOX: KINKY INLAWS,http://206.212.244.71:8080/4wVQA7/625159/159999
+PORNBOX: LETHAL HARDCORE,http://206.212.244.71:8080/4wVQA7/625159/160001
+PORNBOX: LETHAL TEENS,http://206.212.244.71:8080/4wVQA7/625159/160002
+PORNBOX: LETS DOE IT,http://206.212.244.71:8080/4wVQA7/625159/160003
+PORNBOX: LIFE SELECTOR,http://206.212.244.71:8080/4wVQA7/625159/160004
+PORNBOX: LOVE HER FEET,http://206.212.244.71:8080/4wVQA7/625159/160005
+PORNBOX: LOVE HOME PORN,http://206.212.244.71:8080/4wVQA7/625159/160006
+PORNBOX: LUBED,http://206.212.244.71:8080/4wVQA7/625159/160007
+PORNBOX: LUXURE,http://206.212.244.71:8080/4wVQA7/625159/160008
+PORNBOX: MAMACITAZ,http://206.212.244.71:8080/4wVQA7/625159/160009
+PORNBOX: MASSAGE ROOMS,http://206.212.244.71:8080/4wVQA7/625159/160010
+PORNBOX: MODEL MEDIA ASIA,http://206.212.244.71:8080/4wVQA7/625159/160011
+PORNBOX: MOFOS,http://206.212.244.71:8080/4wVQA7/625159/160012
+PORNBOX: MOM TEACH SEX,http://206.212.244.71:8080/4wVQA7/625159/160013
+PORNBOX: MOM XXX,http://206.212.244.71:8080/4wVQA7/625159/160014
+PORNBOX: MOMMY BLOWS BEST,http://206.212.244.71:8080/4wVQA7/625159/160015
+PORNBOX: MUST NOT FAP,http://206.212.244.71:8080/4wVQA7/625159/160016
+PORNBOX: MY DIRTY HOBBY,http://206.212.244.71:8080/4wVQA7/625159/160017
+PORNBOX: MY FAMILY PIES,http://206.212.244.71:8080/4wVQA7/625159/160018
+PORNBOX: MY LIFE IN MIAMI,http://206.212.244.71:8080/4wVQA7/625159/160019
+PORNBOX: MY PERVY FAMILY,http://206.212.244.71:8080/4wVQA7/625159/160020
+PORNBOX: MY TINY WISH,http://206.212.244.71:8080/4wVQA7/625159/160021
+PORNBOX: MYLF,http://206.212.244.71:8080/4wVQA7/625159/160022
+PORNBOX: NEW SENSATIONS,http://206.212.244.71:8080/4wVQA7/625159/160023
+PORNBOX: NF BUSTY,http://206.212.244.71:8080/4wVQA7/625159/160024
+PORNBOX: NUBILE FILMS,http://206.212.244.71:8080/4wVQA7/625159/160025
+PORNBOX: NURU MASSAGE,http://206.212.244.71:8080/4wVQA7/625159/160026
+PORNBOX: PASSION,http://206.212.244.71:8080/4wVQA7/625159/160027
+PORNBOX: PERV CITY,http://206.212.244.71:8080/4wVQA7/625159/160028
+PORNBOX: PERV MOM,http://206.212.244.71:8080/4wVQA7/625159/160029
+PORNBOX: PORN WORLD HARDCORE,http://206.212.244.71:8080/4wVQA7/625159/160030
+PORNBOX: PORNHOCHIC,http://206.212.244.71:8080/4wVQA7/625159/160031
+PORNBOX: POVD,http://206.212.244.71:8080/4wVQA7/625159/160032
+PORNBOX: PRENCESS CUM,http://206.212.244.71:8080/4wVQA7/625159/160033
+PORNBOX: PRIVATE,http://206.212.244.71:8080/4wVQA7/625159/160034
+PORNBOX: PROPERTY SEX,http://206.212.244.71:8080/4wVQA7/625159/160035
+PORNBOX: PUBLIC AGENT,http://206.212.244.71:8080/4wVQA7/625159/160036
+PORNBOX: PURE MATURE,http://206.212.244.71:8080/4wVQA7/625159/160037
+PORNBOX: REAL DIRTY VIDEOS,http://206.212.244.71:8080/4wVQA7/625159/160038
+PORNBOX: REALITY JUNKIES,http://206.212.244.71:8080/4wVQA7/625159/160040
+PORNBOX: REALITY KINGS,http://206.212.244.71:8080/4wVQA7/625159/160041
+PORNBOX: SLIM 4K,http://206.212.244.71:8080/4wVQA7/625159/160042
+PORNBOX: STROKIES,http://206.212.244.71:8080/4wVQA7/625159/160043
+PORNBOX: SUGAR BABES TV,http://206.212.244.71:8080/4wVQA7/625159/160044
+PORNBOX: SWEET SINNER,http://206.212.244.71:8080/4wVQA7/625159/160045
+PORNBOX: THROATED,http://206.212.244.71:8080/4wVQA7/625159/160046
+PORNBOX: TRUE AMATUERS,http://206.212.244.71:8080/4wVQA7/625159/160047
+PORNBOX: X CHIMERA,http://206.212.244.71:8080/4wVQA7/625159/160048
+
+
+//======================================================
+
+
+
+    _0000,#genre#
+STARS EXCLUSIVE: ABELLA DANGER,http://206.212.244.71:8080/4wVQA7/625159/160049
+STARS EXCLUSIVE: ADRIANA CHECHIK,http://206.212.244.71:8080/4wVQA7/625159/160050
+STARS EXCLUSIVE: ALINA LOPEZ,http://206.212.244.71:8080/4wVQA7/625159/160051
+STARS EXCLUSIVE: ANGELA WHITE,http://206.212.244.71:8080/4wVQA7/625159/160052
+STARS EXCLUSIVE: ARIANA MARIE,http://206.212.244.71:8080/4wVQA7/625159/160053
+STARS EXCLUSIVE: AUGUST AMES,http://206.212.244.71:8080/4wVQA7/625159/160054
+STARS EXCLUSIVE: AUTUMN FALLS,http://206.212.244.71:8080/4wVQA7/625159/160055
+STARS EXCLUSIVE: BRANDI LOVE,http://206.212.244.71:8080/4wVQA7/625159/160056
+STARS EXCLUSIVE: DANI DANIELS,http://206.212.244.71:8080/4wVQA7/625159/160057
+STARS EXCLUSIVE: DANI JENSEN,http://206.212.244.71:8080/4wVQA7/625159/160058
+STARS EXCLUSIVE: ELSA JEAN,http://206.212.244.71:8080/4wVQA7/625159/160059
+STARS EXCLUSIVE: EMILY WILLIS,http://206.212.244.71:8080/4wVQA7/625159/160060
+STARS EXCLUSIVE: EVA LOVIA,http://206.212.244.71:8080/4wVQA7/625159/160061
+STARS EXCLUSIVE: GINA VALENTINA,http://206.212.244.71:8080/4wVQA7/625159/160062
+STARS EXCLUSIVE: JANICE GRIFFITH,http://206.212.244.71:8080/4wVQA7/625159/160063
+STARS EXCLUSIVE: JESSA RHODES,http://206.212.244.71:8080/4wVQA7/625159/160064
+STARS EXCLUSIVE: LANA RHOADES,http://206.212.244.71:8080/4wVQA7/625159/160065
+STARS EXCLUSIVE: LENA PAUL,http://206.212.244.71:8080/4wVQA7/625159/160066
+STARS EXCLUSIVE: LISA ANN,http://206.212.244.71:8080/4wVQA7/625159/160067
+STARS EXCLUSIVE: MADISON IVY,http://206.212.244.71:8080/4wVQA7/625159/160068
+STARS EXCLUSIVE: MIA MALKOVA,http://206.212.244.71:8080/4wVQA7/625159/160069
+STARS EXCLUSIVE: NICOLE ANISTON,http://206.212.244.71:8080/4wVQA7/625159/160070
+STARS EXCLUSIVE: RILEY REID,http://206.212.244.71:8080/4wVQA7/625159/160071
+STARS EXCLUSIVE: UMA JOLIE,http://206.212.244.71:8080/4wVQA7/625159/160072
+STARS EXCLUSIVE: VALENTINA NAPPI,http://206.212.244.71:8080/4wVQA7/625159/160073
+VERIFIED AMATEURS: ALICE REDLIPS,http://206.212.244.71:8080/4wVQA7/625159/160074
+VERIFIED AMATEURS: BIGTITTYGOTHEGG,http://206.212.244.71:8080/4wVQA7/625159/160075
+VERIFIED AMATEURS: CHERRY GRACE,http://206.212.244.71:8080/4wVQA7/625159/160076
+VERIFIED AMATEURS: DIANA DANIELS,http://206.212.244.71:8080/4wVQA7/625159/160078
+VERIFIED AMATEURS: ELLAKAI,http://206.212.244.71:8080/4wVQA7/625159/160079
+VERIFIED AMATEURS: FIAMURR,http://206.212.244.71:8080/4wVQA7/625159/160080
+VERIFIED AMATEURS: KRISS KISS,http://206.212.244.71:8080/4wVQA7/625159/160081
+VERIFIED AMATEURS: LEAH MEOW,http://206.212.244.71:8080/4wVQA7/625159/160082
+VERIFIED AMATEURS: LUXURYGIRL,http://206.212.244.71:8080/4wVQA7/625159/160083
+VERIFIED AMATEURS: MIKANIKA69,http://206.212.244.71:8080/4wVQA7/625159/160084
+VERIFIED AMATEURS: MINI DIVA,http://206.212.244.71:8080/4wVQA7/625159/160085
+VERIFIED AMATEURS: MOLLYREDWOLF,http://206.212.244.71:8080/4wVQA7/625159/160086
+VERIFIED AMATEURS: NOFACEGIRL,http://206.212.244.71:8080/4wVQA7/625159/160087
+VERIFIED AMATEURS: NOTSOAMATEUR,http://206.212.244.71:8080/4wVQA7/625159/160088
+VERIFIED AMATEURS: NYNA FERRAGNI,http://206.212.244.71:8080/4wVQA7/625159/160089
+VERIFIED AMATEURS: PURPLE BITCH,http://206.212.244.71:8080/4wVQA7/625159/160090
+VERIFIED AMATEURS: REISLIN,http://206.212.244.71:8080/4wVQA7/625159/160091
+VERIFIED AMATEURS: SECRETCRUSH,http://206.212.244.71:8080/4wVQA7/625159/160092
+VERIFIED AMATEURS: SHAIDEN ROUGE,http://206.212.244.71:8080/4wVQA7/625159/160093
+VERIFIED AMATEURS: SOLAZOLA,http://206.212.244.71:8080/4wVQA7/625159/160094
+VERIFIED AMATEURS: SWEET BUNNY,http://206.212.244.71:8080/4wVQA7/625159/160095
+VERIFIED AMATEURS: TESSA WINTERS,http://206.212.244.71:8080/4wVQA7/625159/160096
+VERIFIED AMATEURS: TINNA ANGEL,http://206.212.244.71:8080/4wVQA7/625159/160097
+VERIFIED AMATEURS: YINYLEON,http://206.212.244.71:8080/4wVQA7/625159/160098
+
+
+//======================================================
+
+
+
+     _0000,#genre#
+X4 | 404HotFound,http://206.212.244.71:8080/4wVQA7/625159/215434
+X4 | A Girls Knows,http://206.212.244.71:8080/4wVQA7/625159/215435
+X4 | Abella Danger,http://206.212.244.71:8080/4wVQA7/625159/215436
+X4 | Active Duty,http://206.212.244.71:8080/4wVQA7/625159/215437
+X4 | Adria Rae,http://206.212.244.71:8080/4wVQA7/625159/215438
+X4 | Adriana Chechik,http://206.212.244.71:8080/4wVQA7/625159/215439
+X4 | Adult Mobile,http://206.212.244.71:8080/4wVQA7/625159/215440
+X4 | Aeries Steele,http://206.212.244.71:8080/4wVQA7/625159/215441
+X4 | Alex Adams,http://206.212.244.71:8080/4wVQA7/625159/215442
+X4 | Alexis Crystal,http://206.212.244.71:8080/4wVQA7/625159/215443
+X4 | Alexis Fawx,http://206.212.244.71:8080/4wVQA7/625159/215444
+X4 | Alexis Tae,http://206.212.244.71:8080/4wVQA7/625159/215445
+X4 | Alexis Texas,http://206.212.244.71:8080/4wVQA7/625159/215446
+X4 | Alina Lopez,http://206.212.244.71:8080/4wVQA7/625159/215447
+X4 | Alina Rai,http://206.212.244.71:8080/4wVQA7/625159/215448
+X4 | Allinika,http://206.212.244.71:8080/4wVQA7/625159/215449
+X4 | Amadani,http://206.212.244.71:8080/4wVQA7/625159/215450
+X4 | Amateur Euro,http://206.212.244.71:8080/4wVQA7/625159/215451
+X4 | Amateurtwo,http://206.212.244.71:8080/4wVQA7/625159/215452
+X4 | Amber Moore,http://206.212.244.71:8080/4wVQA7/625159/215453
+X4 | Anal,http://206.212.244.71:8080/4wVQA7/625159/215454
+X4 | Anal,http://206.212.244.71:8080/4wVQA7/625159/215455
+X4 | Anal Mom,http://206.212.244.71:8080/4wVQA7/625159/215456
+X4 | Anal4K,http://206.212.244.71:8080/4wVQA7/625159/215457
+X4 | Analized,http://206.212.244.71:8080/4wVQA7/625159/215458
+X4 | Anastangel,http://206.212.244.71:8080/4wVQA7/625159/215459
+X4 | Anastasia Knight,http://206.212.244.71:8080/4wVQA7/625159/215460
+X4 | Angela White,http://206.212.244.71:8080/4wVQA7/625159/215461
+X4 | Anny Walker,http://206.212.244.71:8080/4wVQA7/625159/215462
+X4 | Aria Lee,http://206.212.244.71:8080/4wVQA7/625159/215463
+X4 | ASGmax,http://206.212.244.71:8080/4wVQA7/625159/215464
+X4 | Asian,http://206.212.244.71:8080/4wVQA7/625159/215465
+X4 | Athena Faris,http://206.212.244.71:8080/4wVQA7/625159/215466
+X4 | Aunt Judys XXX,http://206.212.244.71:8080/4wVQA7/625159/215467
+X4 | Autumn Falls,http://206.212.244.71:8080/4wVQA7/625159/215468
+X4 | Ava Addams,http://206.212.244.71:8080/4wVQA7/625159/215469
+X4 | BadCuteGirl,http://206.212.244.71:8080/4wVQA7/625159/215470
+X4 | BadFamilyPov,http://206.212.244.71:8080/4wVQA7/625159/215471
+X4 | Bang Bros Network,http://206.212.244.71:8080/4wVQA7/625159/215472
+X4 | BBC Pie,http://206.212.244.71:8080/4wVQA7/625159/215473
+X4 | BBW,http://206.212.244.71:8080/4wVQA7/625159/215474
+X4 | Behind the Scenes,http://206.212.244.71:8080/4wVQA7/625159/215475
+X4 | Bellamurr,http://206.212.244.71:8080/4wVQA7/625159/215476
+X4 | BFFs,http://206.212.244.71:8080/4wVQA7/625159/215477
+X4 | Big Ass,http://206.212.244.71:8080/4wVQA7/625159/215478
+X4 | Big Boobs,http://206.212.244.71:8080/4wVQA7/625159/215479
+X4 | BigTittyGothEgg,http://206.212.244.71:8080/4wVQA7/625159/215480
+X4 | Black Money,http://206.212.244.71:8080/4wVQA7/625159/215481
+X4 | Blacks On Boys,http://206.212.244.71:8080/4wVQA7/625159/215482
+X4 | Blair Williams,http://206.212.244.71:8080/4wVQA7/625159/215483
+X4 | Blake Blossom,http://206.212.244.71:8080/4wVQA7/625159/215484
+X4 | Blaze Rager,http://206.212.244.71:8080/4wVQA7/625159/215485
+X4 | Blonde,http://206.212.244.71:8080/4wVQA7/625159/215486
+X4 | Blowjob,http://206.212.244.71:8080/4wVQA7/625159/215487
+X4 | Blowjob,http://206.212.244.71:8080/4wVQA7/625159/215488
+X4 | Bob Big Tula,http://206.212.244.71:8080/4wVQA7/625159/215489
+X4 | Bondage,http://206.212.244.71:8080/4wVQA7/625159/215490
+X4 | Bonniealex,http://206.212.244.71:8080/4wVQA7/625159/215491
+X4 | Brandi Love,http://206.212.244.71:8080/4wVQA7/625159/215492
+X4 | Bratty Milf,http://206.212.244.71:8080/4wVQA7/625159/215493
+X4 | Bratty Sis,http://206.212.244.71:8080/4wVQA7/625159/215494
+X4 | Brazzers,http://206.212.244.71:8080/4wVQA7/625159/215495
+X4 | Bromo,http://206.212.244.71:8080/4wVQA7/625159/215496
+X4 | Brooke Tilli,http://206.212.244.71:8080/4wVQA7/625159/215497
+X4 | Brunette,http://206.212.244.71:8080/4wVQA7/625159/215498
+X4 | Candy Love,http://206.212.244.71:8080/4wVQA7/625159/215499
+X4 | Canela Skin,http://206.212.244.71:8080/4wVQA7/625159/215500
+X4 | Carla Cute,http://206.212.244.71:8080/4wVQA7/625159/215501
+X4 | Casting,http://206.212.244.71:8080/4wVQA7/625159/215502
+X4 | Casting Couch,http://206.212.244.71:8080/4wVQA7/625159/215503
+X4 | Cherie DeVille,http://206.212.244.71:8080/4wVQA7/625159/215504
+X4 | Chessie Rae,http://206.212.244.71:8080/4wVQA7/625159/215505
+X4 | Chole Temple,http://206.212.244.71:8080/4wVQA7/625159/215506
+X4 | Chuck Hunter,http://206.212.244.71:8080/4wVQA7/625159/215507
+X4 | Close Up,http://206.212.244.71:8080/4wVQA7/625159/215508
+X4 | College,http://206.212.244.71:8080/4wVQA7/625159/215509
+X4 | Cory Chase,http://206.212.244.71:8080/4wVQA7/625159/215510
+X4 | Cosplay,http://206.212.244.71:8080/4wVQA7/625159/215511
+X4 | Creampie,http://206.212.244.71:8080/4wVQA7/625159/215512
+X4 | Creamy Spot,http://206.212.244.71:8080/4wVQA7/625159/215513
+X4 | Crystal Lust,http://206.212.244.71:8080/4wVQA7/625159/215514
+X4 | Crystal Rush,http://206.212.244.71:8080/4wVQA7/625159/215515
+X4 | Cuckold,http://206.212.244.71:8080/4wVQA7/625159/215516
+X4 | Cum in Mouth,http://206.212.244.71:8080/4wVQA7/625159/215517
+X4 | Cumshot,http://206.212.244.71:8080/4wVQA7/625159/215518
+X4 | Cutie Kim,http://206.212.244.71:8080/4wVQA7/625159/215519
+X4 | Czech Soles,http://206.212.244.71:8080/4wVQA7/625159/215520
+X4 | Czrok,http://206.212.244.71:8080/4wVQA7/625159/215521
+X4 | Dani Daniels,http://206.212.244.71:8080/4wVQA7/625159/215522
+X4 | Daniela Antury,http://206.212.244.71:8080/4wVQA7/625159/215523
+X4 | Davcina,http://206.212.244.71:8080/4wVQA7/625159/215524
+X4 | Delphine,http://206.212.244.71:8080/4wVQA7/625159/215525
+X4 | DeLuXeGirL,http://206.212.244.71:8080/4wVQA7/625159/215526
+X4 | Diana Daniels,http://206.212.244.71:8080/4wVQA7/625159/215527
+X4 | Diana Rider,http://206.212.244.71:8080/4wVQA7/625159/215528
+X4 | DickForLily,http://206.212.244.71:8080/4wVQA7/625159/215529
+X4 | Digital Climaxxx,http://206.212.244.71:8080/4wVQA7/625159/215530
+X4 | Digital Playground,http://206.212.244.71:8080/4wVQA7/625159/215531
+X4 | Dillion Harper,http://206.212.244.71:8080/4wVQA7/625159/215532
+X4 | Doghouse Digital,http://206.212.244.71:8080/4wVQA7/625159/215533
+X4 | Double Penetration,http://206.212.244.71:8080/4wVQA7/625159/215534
+X4 | Ebony,http://206.212.244.71:8080/4wVQA7/625159/215535
+X4 | Egon Kowalski,http://206.212.244.71:8080/4wVQA7/625159/215536
+X4 | Eliza Ibarra,http://206.212.244.71:8080/4wVQA7/625159/215537
+X4 | Elly Clutch,http://206.212.244.71:8080/4wVQA7/625159/215538
+X4 | Elsa Jean,http://206.212.244.71:8080/4wVQA7/625159/215539
+X4 | Ema Karter,http://206.212.244.71:8080/4wVQA7/625159/215540
+X4 | Emanuelly Raquel,http://206.212.244.71:8080/4wVQA7/625159/215541
+X4 | Emily Willis,http://206.212.244.71:8080/4wVQA7/625159/215542
+X4 | Emma Fiore,http://206.212.244.71:8080/4wVQA7/625159/215543
+X4 | Emma Hix,http://206.212.244.71:8080/4wVQA7/625159/215544
+X4 | Estter Muniz,http://206.212.244.71:8080/4wVQA7/625159/215545
+X4 | Eva Elfie,http://206.212.244.71:8080/4wVQA7/625159/215546
+X4 | Eva Lovia,http://206.212.244.71:8080/4wVQA7/625159/215547
+X4 | Exotic4K,http://206.212.244.71:8080/4wVQA7/625159/215548
+X4 | Family Dick,http://206.212.244.71:8080/4wVQA7/625159/215549
+X4 | Family Hookups,http://206.212.244.71:8080/4wVQA7/625159/215550
+X4 | Family Strokes,http://206.212.244.71:8080/4wVQA7/625159/215551
+X4 | FAMILYxxx,http://206.212.244.71:8080/4wVQA7/625159/215552
+X4 | Feet,http://206.212.244.71:8080/4wVQA7/625159/215553
+X4 | Fetish,http://206.212.244.71:8080/4wVQA7/625159/215554
+X4 | First Class POV,http://206.212.244.71:8080/4wVQA7/625159/215555
+X4 | Fisting,http://206.212.244.71:8080/4wVQA7/625159/215556
+X4 | Full,http://206.212.244.71:8080/4wVQA7/625159/215557
+X4 | Futanari,http://206.212.244.71:8080/4wVQA7/625159/215558
+X4 | Gabbie Carter,http://206.212.244.71:8080/4wVQA7/625159/215559
+X4 | Gangbang,http://206.212.244.71:8080/4wVQA7/625159/215560
+X4 | GentlyPerv,http://206.212.244.71:8080/4wVQA7/625159/215561
+X4 | German Scout,http://206.212.244.71:8080/4wVQA7/625159/215562
+X4 | Gia Paige,http://206.212.244.71:8080/4wVQA7/625159/215563
+X4 | Gina Valentina,http://206.212.244.71:8080/4wVQA7/625159/215564
+X4 | Ginebra Bellucci,http://206.212.244.71:8080/4wVQA7/625159/215565
+X4 | Girl Cum,http://206.212.244.71:8080/4wVQA7/625159/215566
+X4 | GirlGirlXXX,http://206.212.244.71:8080/4wVQA7/625159/215567
+X4 | Girls Only,http://206.212.244.71:8080/4wVQA7/625159/215568
+X4 | Hailey Rose,http://206.212.244.71:8080/4wVQA7/625159/215569
+X4 | Haley Reed,http://206.212.244.71:8080/4wVQA7/625159/215570
+X4 | Handjob,http://206.212.244.71:8080/4wVQA7/625159/215571
+X4 | Hardcore,http://206.212.244.71:8080/4wVQA7/625159/215572
+X4 | Hazel Moore,http://206.212.244.71:8080/4wVQA7/625159/215573
+X4 | Hentai,http://206.212.244.71:8080/4wVQA7/625159/215574
+X4 | Her Limit,http://206.212.244.71:8080/4wVQA7/625159/215575
+X4 | HeteroFlexible,http://206.212.244.71:8080/4wVQA7/625159/215576
+X4 | Hijab,http://206.212.244.71:8080/4wVQA7/625159/215577
+X4 | Holed,http://206.212.244.71:8080/4wVQA7/625159/215578
+X4 | Horny Hostel,http://206.212.244.71:8080/4wVQA7/625159/215579
+X4 | Hot Wife XXX,http://206.212.244.71:8080/4wVQA7/625159/215580
+X4 | Hung Young Brit,http://206.212.244.71:8080/4wVQA7/625159/215581
+X4 | Janice Griffith,http://206.212.244.71:8080/4wVQA7/625159/215582
+X4 | Japan Uncensored,http://206.212.244.71:8080/4wVQA7/625159/215583
+X4 | Jays Pov,http://206.212.244.71:8080/4wVQA7/625159/215584
+X4 | Jenny Lux,http://206.212.244.71:8080/4wVQA7/625159/215585
+X4 | Jessa Rhodes,http://206.212.244.71:8080/4wVQA7/625159/215586
+X4 | Jewelz Blu,http://206.212.244.71:8080/4wVQA7/625159/215587
+X4 | Jia Lissa,http://206.212.244.71:8080/4wVQA7/625159/215588
+X4 | Joey Lee,http://206.212.244.71:8080/4wVQA7/625159/215589
+X4 | John and Sky,http://206.212.244.71:8080/4wVQA7/625159/215590
+X4 | Julie Jess,http://206.212.244.71:8080/4wVQA7/625159/215591
+X4 | Kagney Linn Karter,http://206.212.244.71:8080/4wVQA7/625159/215592
+X4 | Karlee Grey,http://206.212.244.71:8080/4wVQA7/625159/215593
+X4 | Karma Rx,http://206.212.244.71:8080/4wVQA7/625159/215594
+X4 | Kate Koss,http://206.212.244.71:8080/4wVQA7/625159/215595
+X4 | Kate Marley,http://206.212.244.71:8080/4wVQA7/625159/215596
+X4 | Kelsi Monroe,http://206.212.244.71:8080/4wVQA7/625159/215597
+X4 | Kendra Lust,http://206.212.244.71:8080/4wVQA7/625159/215598
+X4 | Kenna James,http://206.212.244.71:8080/4wVQA7/625159/215599
+X4 | Kenzie Madison,http://206.212.244.71:8080/4wVQA7/625159/215600
+X4 | Kenzie Reeves,http://206.212.244.71:8080/4wVQA7/625159/215601
+X4 | Kimmy Granger,http://206.212.244.71:8080/4wVQA7/625159/215602
+X4 | Kitty K,http://206.212.244.71:8080/4wVQA7/625159/215603
+X4 | Klinky Spa,http://206.212.244.71:8080/4wVQA7/625159/215604
+X4 | Kourtney Love,http://206.212.244.71:8080/4wVQA7/625159/215605
+X4 | Kriss Kiss,http://206.212.244.71:8080/4wVQA7/625159/215606
+X4 | Kylie Rocket,http://206.212.244.71:8080/4wVQA7/625159/215607
+X4 | Kylie XY Quinn,http://206.212.244.71:8080/4wVQA7/625159/215608
+X4 | Lacy Lennon,http://206.212.244.71:8080/4wVQA7/625159/215609
+X4 | Lana Rhoades,http://206.212.244.71:8080/4wVQA7/625159/215610
+X4 | LaSirena69,http://206.212.244.71:8080/4wVQA7/625159/215611
+X4 | Latin Leche,http://206.212.244.71:8080/4wVQA7/625159/215612
+X4 | Latina Milf,http://206.212.244.71:8080/4wVQA7/625159/215613
+X4 | Lauren Phillips,http://206.212.244.71:8080/4wVQA7/625159/215614
+X4 | Layla Ray,http://206.212.244.71:8080/4wVQA7/625159/215615
+X4 | Leah Gotti,http://206.212.244.71:8080/4wVQA7/625159/215616
+X4 | Leana Lovings,http://206.212.244.71:8080/4wVQA7/625159/215617
+X4 | Lela Star,http://206.212.244.71:8080/4wVQA7/625159/215618
+X4 | Lena Paul,http://206.212.244.71:8080/4wVQA7/625159/215619
+X4 | LeoLulu,http://206.212.244.71:8080/4wVQA7/625159/215620
+X4 | Lesbian,http://206.212.244.71:8080/4wVQA7/625159/215621
+X4 | LetsDoelt,http://206.212.244.71:8080/4wVQA7/625159/215622
+X4 | LetsDoelt Bonus,http://206.212.244.71:8080/4wVQA7/625159/215623
+X4 | Lexi Lore,http://206.212.244.71:8080/4wVQA7/625159/215624
+X4 | Lexi Luna,http://206.212.244.71:8080/4wVQA7/625159/215625
+X4 | Lily Lou,http://206.212.244.71:8080/4wVQA7/625159/215626
+X4 | Little Caprice,http://206.212.244.71:8080/4wVQA7/625159/215627
+X4 | Little Tina,http://206.212.244.71:8080/4wVQA7/625159/215628
+X4 | Littlebuffbabe,http://206.212.244.71:8080/4wVQA7/625159/215629
+X4 | Loliiiiipop99,http://206.212.244.71:8080/4wVQA7/625159/215630
+X4 | Loly Lips,http://206.212.244.71:8080/4wVQA7/625159/215631
+X4 | Lubed,http://206.212.244.71:8080/4wVQA7/625159/215632
+X4 | Lulu Chu,http://206.212.244.71:8080/4wVQA7/625159/215633
+X4 | Luna Okko,http://206.212.244.71:8080/4wVQA7/625159/215634
+X4 | Luna Roulette,http://206.212.244.71:8080/4wVQA7/625159/215635
+X4 | Luna Star,http://206.212.244.71:8080/4wVQA7/625159/215636
+X4 | Luxury Girl,http://206.212.244.71:8080/4wVQA7/625159/215637
+X4 | Macy Meadows,http://206.212.244.71:8080/4wVQA7/625159/215638
+X4 | Magic Asian Pussy,http://206.212.244.71:8080/4wVQA7/625159/215639
+X4 | MamacitaZ,http://206.212.244.71:8080/4wVQA7/625159/215640
+X4 | Mariana Martix,http://206.212.244.71:8080/4wVQA7/625159/215641
+X4 | MartinPaola,http://206.212.244.71:8080/4wVQA7/625159/215642
+X4 | Massage,http://206.212.244.71:8080/4wVQA7/625159/215643
+X4 | Masturbation,http://206.212.244.71:8080/4wVQA7/625159/215644
+X4 | Mature,http://206.212.244.71:8080/4wVQA7/625159/215645
+X4 | MeeHuTao,http://206.212.244.71:8080/4wVQA7/625159/215646
+X4 | Megan Rain,http://206.212.244.71:8080/4wVQA7/625159/215647
+X4 | Mei Pang,http://206.212.244.71:8080/4wVQA7/625159/215648
+X4 | Melody Marks,http://206.212.244.71:8080/4wVQA7/625159/215649
+X4 | Men,http://206.212.244.71:8080/4wVQA7/625159/215650
+X4 | MewSlut,http://206.212.244.71:8080/4wVQA7/625159/215651
+X4 | Mia Malkova,http://206.212.244.71:8080/4wVQA7/625159/215652
+X4 | MihaNika69,http://206.212.244.71:8080/4wVQA7/625159/215653
+X4 | Mila Solana,http://206.212.244.71:8080/4wVQA7/625159/215654
+X4 | Milana Milka,http://206.212.244.71:8080/4wVQA7/625159/215655
+X4 | Milf,http://206.212.244.71:8080/4wVQA7/625159/215656
+X4 | Milfed,http://206.212.244.71:8080/4wVQA7/625159/215657
+X4 | Mini Diva,http://206.212.244.71:8080/4wVQA7/625159/215658
+X4 | Mira David,http://206.212.244.71:8080/4wVQA7/625159/215659
+X4 | Mirrari Hub,http://206.212.244.71:8080/4wVQA7/625159/215660
+X4 | Miss Ary,http://206.212.244.71:8080/4wVQA7/625159/215661
+X4 | Miss Savage,http://206.212.244.71:8080/4wVQA7/625159/215662
+X4 | Missionary,http://206.212.244.71:8080/4wVQA7/625159/215663
+X4 | Missionary Boys,http://206.212.244.71:8080/4wVQA7/625159/215664
+X4 | Mofos,http://206.212.244.71:8080/4wVQA7/625159/215665
+X4 | Molly Little,http://206.212.244.71:8080/4wVQA7/625159/215666
+X4 | Molly Moon,http://206.212.244.71:8080/4wVQA7/625159/215667
+X4 | Molly Pills,http://206.212.244.71:8080/4wVQA7/625159/215668
+X4 | MollyRedWolf,http://206.212.244.71:8080/4wVQA7/625159/215669
+X4 | Mom Lover,http://206.212.244.71:8080/4wVQA7/625159/215670
+X4 | Mom Tight,http://206.212.244.71:8080/4wVQA7/625159/215671
+X4 | Mom Wants Creampie,http://206.212.244.71:8080/4wVQA7/625159/215672
+X4 | Mom Wants To Breed,http://206.212.244.71:8080/4wVQA7/625159/215673
+X4 | Moms Teach Sex,http://206.212.244.71:8080/4wVQA7/625159/215674
+X4 | Msbreewc,http://206.212.244.71:8080/4wVQA7/625159/215675
+X4 | My BF Doesnt Know,http://206.212.244.71:8080/4wVQA7/625159/215676
+X4 | My Friends Hot Mom,http://206.212.244.71:8080/4wVQA7/625159/215677
+X4 | My Pervy Family,http://206.212.244.71:8080/4wVQA7/625159/215678
+X4 | MyAnny,http://206.212.244.71:8080/4wVQA7/625159/215679
+X4 | MYLF,http://206.212.244.71:8080/4wVQA7/625159/215680
+X4 | Nadia Foxx,http://206.212.244.71:8080/4wVQA7/625159/215681
+X4 | Nadja Rey,http://206.212.244.71:8080/4wVQA7/625159/215682
+X4 | Natasha Nice,http://206.212.244.71:8080/4wVQA7/625159/215683
+X4 | New Sensations,http://206.212.244.71:8080/4wVQA7/625159/215684
+X4 | Next Door Buddies,http://206.212.244.71:8080/4wVQA7/625159/215685
+X4 | Next Door Raw,http://206.212.244.71:8080/4wVQA7/625159/215686
+X4 | Next Door Studios,http://206.212.244.71:8080/4wVQA7/625159/215687
+X4 | Next Door Taboo,http://206.212.244.71:8080/4wVQA7/625159/215688
+X4 | Next Door Twink,http://206.212.244.71:8080/4wVQA7/625159/215689
+X4 | NF Busty,http://206.212.244.71:8080/4wVQA7/625159/215690
+X4 | Nicole Aniston,http://206.212.244.71:8080/4wVQA7/625159/215691
+X4 | NoFaceGirl,http://206.212.244.71:8080/4wVQA7/625159/215692
+X4 | Nubile Films,http://206.212.244.71:8080/4wVQA7/625159/215693
+X4 | Nubiles,http://206.212.244.71:8080/4wVQA7/625159/215694
+X4 | Nyna Ferragni,http://206.212.244.71:8080/4wVQA7/625159/215695
+X4 | Paige Steele,http://206.212.244.71:8080/4wVQA7/625159/215696
+X4 | Pamsnusnu,http://206.212.244.71:8080/4wVQA7/625159/215697
+X4 | Pantyhose,http://206.212.244.71:8080/4wVQA7/625159/215698
+X4 | Parasited,http://206.212.244.71:8080/4wVQA7/625159/215699
+X4 | Passion,http://206.212.244.71:8080/4wVQA7/625159/215700
+X4 | Payton Preslee,http://206.212.244.71:8080/4wVQA7/625159/215701
+X4 | Penny Barber,http://206.212.244.71:8080/4wVQA7/625159/215702
+X4 | Perv Mom,http://206.212.244.71:8080/4wVQA7/625159/215703
+X4 | Perv Nana,http://206.212.244.71:8080/4wVQA7/625159/215704
+X4 | Peter Fever,http://206.212.244.71:8080/4wVQA7/625159/215705
+X4 | Peters Kingdom,http://206.212.244.71:8080/4wVQA7/625159/215706
+X4 | Pinkloving,http://206.212.244.71:8080/4wVQA7/625159/215707
+X4 | Piper Perri,http://206.212.244.71:8080/4wVQA7/625159/215708
+X4 | Pissing,http://206.212.244.71:8080/4wVQA7/625159/215709
+X4 | Pork Vendors,http://206.212.244.71:8080/4wVQA7/625159/215710
+X4 | Porn Pros,http://206.212.244.71:8080/4wVQA7/625159/215711
+X4 | POV,http://206.212.244.71:8080/4wVQA7/625159/215712
+X4 | Princess Cum,http://206.212.244.71:8080/4wVQA7/625159/215713
+X4 | Proberty Sex,http://206.212.244.71:8080/4wVQA7/625159/215714
+X4 | Public,http://206.212.244.71:8080/4wVQA7/625159/215715
+X4 | Puffy Pink,http://206.212.244.71:8080/4wVQA7/625159/215716
+X4 | Pure Mature,http://206.212.244.71:8080/4wVQA7/625159/215717
+X4 | Pure Pleasure,http://206.212.244.71:8080/4wVQA7/625159/215718
+X4 | Purple Bitch,http://206.212.244.71:8080/4wVQA7/625159/215719
+X4 | Pussy Eating,http://206.212.244.71:8080/4wVQA7/625159/215720
+X4 | Pussy Licking,http://206.212.244.71:8080/4wVQA7/625159/215721
+X4 | QesasTop,http://206.212.244.71:8080/4wVQA7/625159/215722
+X4 | Raw Attack,http://206.212.244.71:8080/4wVQA7/625159/215723
+X4 | Raw White Meat,http://206.212.244.71:8080/4wVQA7/625159/215724
+X4 | Reagan Foxx,http://206.212.244.71:8080/4wVQA7/625159/215725
+X4 | Real Men Fuck,http://206.212.244.71:8080/4wVQA7/625159/215726
+X4 | Reality Dudes,http://206.212.244.71:8080/4wVQA7/625159/215727
+X4 | Reality Junkies,http://206.212.244.71:8080/4wVQA7/625159/215728
+X4 | Reality Kings,http://206.212.244.71:8080/4wVQA7/625159/215729
+X4 | RealTelariLove,http://206.212.244.71:8080/4wVQA7/625159/215730
+X4 | Red Head,http://206.212.244.71:8080/4wVQA7/625159/215731
+X4 | Reislin,http://206.212.244.71:8080/4wVQA7/625159/215732
+X4 | Riley Reid,http://206.212.244.71:8080/4wVQA7/625159/215733
+X4 | Rose Monroe,http://206.212.244.71:8080/4wVQA7/625159/215734
+X4 | Rosie Rider,http://206.212.244.71:8080/4wVQA7/625159/215735
+X4 | Sammm Next Door,http://206.212.244.71:8080/4wVQA7/625159/215736
+X4 | Sara Blonde,http://206.212.244.71:8080/4wVQA7/625159/215737
+X4 | Sara Jay,http://206.212.244.71:8080/4wVQA7/625159/215738
+X4 | Savannah Bond,http://206.212.244.71:8080/4wVQA7/625159/215739
+X4 | Say Uncle,http://206.212.244.71:8080/4wVQA7/625159/215740
+X4 | SecretsFilmed,http://206.212.244.71:8080/4wVQA7/625159/215741
+X4 | See Him Fuck,http://206.212.244.71:8080/4wVQA7/625159/215742
+X4 | Serenity Cox,http://206.212.244.71:8080/4wVQA7/625159/215743
+X4 | She Will Cheat,http://206.212.244.71:8080/4wVQA7/625159/215744
+X4 | Sheena Ryder,http://206.212.244.71:8080/4wVQA7/625159/215745
+X4 | Shinaryen,http://206.212.244.71:8080/4wVQA7/625159/215746
+X4 | Silvana Lee,http://206.212.244.71:8080/4wVQA7/625159/215747
+X4 | Sis Loves Me,http://206.212.244.71:8080/4wVQA7/625159/215748
+X4 | Skylar Vox,http://206.212.244.71:8080/4wVQA7/625159/215749
+X4 | Sloplyfter MYLF,http://206.212.244.71:8080/4wVQA7/625159/215750
+X4 | Slut Inspection,http://206.212.244.71:8080/4wVQA7/625159/215751
+X4 | Small Tits,http://206.212.244.71:8080/4wVQA7/625159/215752
+X4 | Sofia Rizof,http://206.212.244.71:8080/4wVQA7/625159/215753
+X4 | Solazola,http://206.212.244.71:8080/4wVQA7/625159/215754
+X4 | Sophia Leone,http://206.212.244.71:8080/4wVQA7/625159/215755
+X4 | Spy Fam,http://206.212.244.71:8080/4wVQA7/625159/215756
+X4 | Squirt,http://206.212.244.71:8080/4wVQA7/625159/215757
+X4 | Stella Cox,http://206.212.244.71:8080/4wVQA7/625159/215758
+X4 | Step Siblings Caught,http://206.212.244.71:8080/4wVQA7/625159/215759
+X4 | Sweet Sinner,http://206.212.244.71:8080/4wVQA7/625159/215760
+X4 | Sweetheart Video,http://206.212.244.71:8080/4wVQA7/625159/215761
+X4 | Sweeti Fox,http://206.212.244.71:8080/4wVQA7/625159/215762
+X4 | Syndicete,http://206.212.244.71:8080/4wVQA7/625159/215763
+X4 | Team Skeet,http://206.212.244.71:8080/4wVQA7/625159/215764
+X4 | Teen,http://206.212.244.71:8080/4wVQA7/625159/215765
+X4 | The White Boxxx,http://206.212.244.71:8080/4wVQA7/625159/215766
+X4 | Thelexisstar,http://206.212.244.71:8080/4wVQA7/625159/215767
+X4 | Threesome,http://206.212.244.71:8080/4wVQA7/625159/215768
+X4 | Thundercock,http://206.212.244.71:8080/4wVQA7/625159/215769
+X4 | Tiktok,http://206.212.244.71:8080/4wVQA7/625159/215770
+X4 | Tiny 4K,http://206.212.244.71:8080/4wVQA7/625159/215771
+X4 | Tonights Girlfriend,http://206.212.244.71:8080/4wVQA7/625159/215772
+X4 | Tru Kait,http://206.212.244.71:8080/4wVQA7/625159/215773
+X4 | True Amateurs,http://206.212.244.71:8080/4wVQA7/625159/215774
+X4 | Try Not To Cum,http://206.212.244.71:8080/4wVQA7/625159/215775
+X4 | Twistys,http://206.212.244.71:8080/4wVQA7/625159/215776
+X4 | Up Close,http://206.212.244.71:8080/4wVQA7/625159/215777
+X4 | Valentina Nappi,http://206.212.244.71:8080/4wVQA7/625159/215778
+X4 | Valerica Steele,http://206.212.244.71:8080/4wVQA7/625159/215779
+X4 | Veronica Leal,http://206.212.244.71:8080/4wVQA7/625159/215780
+X4 | VibeWithMommy,http://206.212.244.71:8080/4wVQA7/625159/215781
+X4 | Vic Alouqua,http://206.212.244.71:8080/4wVQA7/625159/215782
+X4 | Vina Sky,http://206.212.244.71:8080/4wVQA7/625159/215783
+X4 | Vintage,http://206.212.244.71:8080/4wVQA7/625159/215784
+X4 | Violet Moreau,http://206.212.244.71:8080/4wVQA7/625159/215785
+X4 | Violet Myers,http://206.212.244.71:8080/4wVQA7/625159/215786
+X4 | Willow Ryder,http://206.212.244.71:8080/4wVQA7/625159/215787
+X4 | Xev Bellringer,http://206.212.244.71:8080/4wVQA7/625159/215788
+X4 | Xreindeers,http://206.212.244.71:8080/4wVQA7/625159/215789
+X4 | Yoshi Kawasaki XXX,http://206.212.244.71:8080/4wVQA7/625159/215790
+X4 | Yoursexwife,http://206.212.244.71:8080/4wVQA7/625159/215791
+X4 | Youthlust,http://206.212.244.71:8080/4wVQA7/625159/215792
+X4 | Elle Lee,http://206.212.244.71:8080/4wVQA7/625159/215793
