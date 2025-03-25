@@ -2,39 +2,39 @@
 1
 
 #1（欧美）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/1.txt
+https://fastly.jsdelivr.net/gh/80947108/jiekou@latest//1.txt
 
 #2（日本）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/2.txt
+https://fastly.jsdelivr.net/gh/80947108/jiekou@latest//2.txt
 
 #3（大杂烩）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/3.txt
+https://fastly.jsdelivr.net/gh/80947108/jiekou@latest//3.txt
 
 #4（mycam）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/4.txt
+https://fastly.jsdelivr.net/gh/80947108/jiekou@latest//4.txt
 
 #5（欧美直播）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/5.txt
+https://fastly.jsdelivr.net/gh/80947108/jiekou@latest//5.txt
 
 #6（一本）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/6.txt
+https://fastly.jsdelivr.net/gh/80947108/jiekou@latest//6.txt
 
 #7（传媒）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/7.txt
+https://fastly.jsdelivr.net/gh/80947108/jiekou@latest//7.txt
 
 #8（MD）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/8.txt
+https://fastly.jsdelivr.net/gh/80947108/jiekou@latest//8.txt
 
 #9（大杂烩）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/9.txt
+https://fastly.jsdelivr.net/gh/80947108/jiekou@latest//9.txt
 
 #10（大杂烩）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/10.txt
+https://fastly.jsdelivr.net/gh/80947108/jiekou@latest//10.txt
 
 #H（杂项）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/H.txt
+https://fastly.jsdelivr.net/gh/80947108/jiekou@latest//H.txt
 
 #11（大杂烩）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/80947108/jiekou/main/11.txt
+https://fastly.jsdelivr.net/gh/80947108/jiekou@latest//11.txt
 
 
