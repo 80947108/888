@@ -5243,6 +5243,19 @@ X--未知的元素（英语）,https://hyf000.eu.org/DSJ/KHDY39
 
 
   _0000,#genre#
+奧視香蕉臺,https://hyf.serv00.net/测试.php?id=Banana
+奧視驚艷臺,https://hyf.serv00.net/测试.php?id=Amazing
+潘朵啦高畫質玩美台,https://hyf.serv00.net/测试.php?id=Pandora
+彩虹Movie台,https://hyf.serv00.net/测试.php?id=RAINBOW
+松視1臺,https://hyf.serv00.net/测试.php?id=Sonsee1
+松視2臺,https://hyf.serv00.net/测试.php?id=Sonsee2
+松視3臺,https://hyf.serv00.net/测试.php?id=Sonsee3
+写真臺,https://hyf.serv00.net/测试.php?id=XZT
+写真臺,https://hyf.serv00.net/测试.php?id=XZT1
+JStar極限台電影頻道,https://hyf.serv00.net/测试.php?id=Jstar
+HAPPY頻道,https://hyf.serv00.net/测试.php?id=HAPPY
+彩虹E台,https://hyf.serv00.net/测试.php?id=RainbowE
+K頻道,https://hyf.serv00.net/测试.php?id=KChannel
 
 奧視香蕉臺,https://hyf000.eu.org/80947108/Banana
 奧視驚艷臺,https://hyf000.eu.org/80947108/Amazing
@@ -6646,3 +6659,4 @@ X4|YoshiKawasakiXXX,https://hyf000.eu.org/h/501
 X4|Yoursexwife,https://hyf000.eu.org/h/502
 X4|Youthlust,https://hyf000.eu.org/h/503
 X4|ElleLee,https://hyf000.eu.org/h/504
+
