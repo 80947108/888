@@ -4,7 +4,8 @@
 国,https://hyf000.eu.org/live/video.php
 庆,https://hyf000.eu.org/live/video.php
 20251001,https://hyf000.eu.org/live/video.php
-
+经典MV,https://hyf.serv00.net/中国MV.php
+韩国MV,https://hyf.serv00.net/韩国MV.php
 
 飞哥精选,#genre#
 抖音小姐姐,https://hyf000.eu.org/live/video.php
@@ -5529,7 +5530,13 @@ HAPPY頻道,https://hyf000.eu.org/iptv/HAPPY
 彩虹E台,https://hyf000.eu.org/iptv/RainbowE
 K頻道,https://hyf000.eu.org/iptv/KChannel
 
-
+随机小电影,https://hyf.serv00.net/随机.php
+经典无码,https://hyf.serv00.net/经典.php
+随机FC,https://hyf.serv00.net/FC.php
+随机国产,https://hyf.serv00.net/gc.php
+随机欧美,https://hyf.serv00.net/wo.php
+随机三级,https://hyf.serv00.net/sj.php
+随机无码,https://hyf.serv00.net/wm.php
 
 花花公子,https://hyf000.eu.org/iptv/A1
 DigitalDesire,https://hyf000.eu.org/iptv/A2
@@ -6903,5 +6910,6 @@ X4|YoshiKawasakiXXX,https://hyf000.eu.org/h/501
 X4|Yoursexwife,https://hyf000.eu.org/h/502
 X4|Youthlust,https://hyf000.eu.org/h/503
 X4|ElleLee,https://hyf000.eu.org/h/504
+
 
 
