@@ -3,7 +3,7 @@
 自用,https://hyf000.eu.org/live/video.php
 随缘,https://hyf000.eu.org/live/video.php
 更新,https://hyf000.eu.org/live/video.php
-20251130,https://hyf000.eu.org/live/video.php
+20251210,https://hyf000.eu.org/live/video.php
 经典MV,https://hyf.serv00.net/中国MV.php
 韩国MV,https://hyf.serv00.net/韩国MV.php
 李子柒,http://cfss.cc/cdn/hy/21969336.m3u8
@@ -25,8 +25,7 @@ CCTV6,http://live.iill.top/douyin/cctv6media.
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
-NOW爆谷,https://hyf000.eu.org/80947108/NOWBG
-NOW星影,https://hyf000.eu.org/80947108/NOWXY
+
 
 
 
@@ -74,27 +73,6 @@ CCTV14少儿,https://hyf.serv00.net/稳定.php?id=14
 CCTV15音乐,https://hyf.serv00.net/稳定.php?id=15
 
 
-CCTV1,https://hyf000.eu.org/80947108/CCTV1
-CCTV2,https://hyf000.eu.org/80947108/CCTV2
-CCTV3,https://hyf000.eu.org/80947108/CCTV3
-CCTV4,https://hyf000.eu.org/80947108/CCTV4
-CCTV5,https://hyf000.eu.org/80947108/CCTV5
-CCTV5+,https://hyf000.eu.org/80947108/CCTV5+
-CCTV6,https://hyf000.eu.org/80947108/CCTV6
-CCTV7,https://hyf000.eu.org/80947108/CCTV7
-CCTV8,https://hyf000.eu.org/80947108/CCTV8
-CCTV9,https://hyf000.eu.org/80947108/CCTV9
-CCTV10,https://hyf000.eu.org/80947108/CCTV10
-CCTV11,https://hyf000.eu.org/80947108/CCTV11
-CCTV12,https://hyf000.eu.org/80947108/CCTV12
-CCTV13,https://hyf000.eu.org/80947108/CCTV13
-CCTV14,https://hyf000.eu.org/80947108/CCTV14
-CCTV15,https://hyf000.eu.org/80947108/CCTV15
-CCTV16,https://hyf000.eu.org/80947108/CCTV16
-CCTV17,https://hyf000.eu.org/80947108/CCTV17
-CCTV4K,https://hyf000.eu.org/80947108/CCTV4K
-
-
 
 
 
@@ -137,31 +115,21 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
 
-
-
-
-
-
-北京纪实科教8K,https://hyf000.eu.org/80947108/BJJSKJ8K
-CGTN,https://hyf000.eu.org/80947108/CGTN
-CGTN纪录,https://hyf000.eu.org/80947108/CGTNJL
-CGTN俄语,https://hyf000.eu.org/80947108/CGTNEY
-CGTN法语,https://hyf000.eu.org/80947108/CGTNFY
-CGTN西语,https://hyf000.eu.org/80947108/CGTNXY
-CGTN阿语,https://hyf000.eu.org/80947108/CGTNAY
-中国国际教育1,https://hyf000.eu.org/80947108/GJJY1
-中国国际教育2,https://hyf000.eu.org/80947108/GJJY2
-中国国际教育3,https://hyf000.eu.org/80947108/GJJY3
-中国国际教育4,https://hyf000.eu.org/80947108/GJJY4
-邵氏电影,https://hyf000.eu.org/80947108/SSDY
-重温经典,https://hyf000.eu.org/80947108/CWJD
-凤凰电影,https://hyf000.eu.org/80947108/FHDY
 CHC家庭电影,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcym
 
 
-
+CGTN,https://hyf.serv00.net/飞哥.php?id=CGTN
+CGTN纪录,https://hyf.serv00.net/飞哥.php?id=CGTNJL
+CGTN俄语,https://hyf.serv00.net/飞哥.php?id=CGTNEY
+CGTN法语,https://hyf.serv00.net/飞哥.php?id=CGTNFY
+CGTN西语,https://hyf.serv00.net/飞哥.php?id=CGTNXY
+CGTN阿语,https://hyf.serv00.net/飞哥.php?id=CGTNAY
+中国国际教育1,https://hyf.serv00.net/飞哥.php?id=GJJY1
+中国国际教育2,https://hyf.serv00.net/飞哥.php?id=GJJY2
+中国国际教育3,https://hyf.serv00.net/飞哥.php?id=GJJY3
+中国国际教育4,https://hyf.serv00.net/飞哥.php?id=GJJY4
 
 
 
@@ -246,41 +214,6 @@ BTV-卡酷,https://hyf.serv00.net/稳定.php?id=51
 
 
 
-邵氏电影,https://hyf000.eu.org/80947108/SSDY
-邵氏武侠,https://hyf000.eu.org/80947108/SSWX
-重温经典,https://hyf000.eu.org/80947108/CWJD
-重温经典,https://hyf000.eu.org/80947108/CWJD1
-重温经典,https://hyf000.eu.org/80947108/CWJD2
-凤凰电影,https://hyf000.eu.org/80947108/FHDY
-凤凰中文,https://hyf000.eu.org/80947108/FHZW
-凤凰资讯,https://hyf000.eu.org/80947108/FHZX
-凤凰香港,https://hyf000.eu.org/80947108/FHXG
-莲花卫视,https://hyf000.eu.org/80947108/LHWS
-莲花卫视,https://hyf000.eu.org/80947108/LHWS1
-莲花卫视,https://hyf000.eu.org/80947108/LHWS2
-CHC动作电影,https://hyf000.eu.org/80947108/CHCDZ
-CHC家庭影院,https://hyf000.eu.org/80947108/CHCJT
-CHC影迷电影,https://hyf000.eu.org/80947108/CHCYM
-
-
-北京卫视,https://hyf000.eu.org/80947108/BEIJINGWS
-浙江卫视,https://hyf000.eu.org/80947108/ZHEJIANGWS1
-江苏卫视,https://hyf000.eu.org/80947108/JIANGSUWS
-广东卫视,https://hyf000.eu.org/80947108/GUANGDONGWS
-黑龙江卫视,https://hyf000.eu.org/80947108/HLJWS
-黑龙江卫视,https://hyf000.eu.org/80947108/HLJWS1
-浙江卫视,https://hyf000.eu.org/80947108/ZHEJIANGWS
-吉林卫视,https://hyf000.eu.org/80947108/JILINWS
-河北卫视,https://hyf000.eu.org/80947108/HEBEIWS
-江西卫视,https://hyf000.eu.org/80947108/JIANGXIWS
-陕西卫视,https://hyf000.eu.org/80947108/SHAANXIWS
-青海卫视,https://hyf000.eu.org/80947108/QINGHAIWS
-安多卫视,https://hyf000.eu.org/80947108/ANDUOWS
-兵团卫视,https://hyf000.eu.org/80947108/BINGTUANWS
-海南卫视,https://hyf000.eu.org/80947108/HAINANWS
-内蒙古卫视,https://hyf000.eu.org/80947108/NMGWS
-
-
 
 
 
@@ -322,279 +255,31 @@ CHC影迷电影,https://hyf000.eu.org/80947108/CHCYM
 青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8
 兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 
-
-//======================================================
-
-
-飞哥数字,#genre#
-家庭剧场,https://hyf000.eu.org/80947108/SZ1
-怀旧年代,https://hyf000.eu.org/80947108/SZ2
-都市生活,https://hyf000.eu.org/80947108/SZ3
-传奇剧场,https://hyf000.eu.org/80947108/SZ4
-警匪悬疑,https://hyf000.eu.org/80947108/SZ5
-古装剧场,https://hyf000.eu.org/80947108/SZ6
-抗战剧场,https://hyf000.eu.org/80947108/SZ7
-谍战剧场,https://hyf000.eu.org/80947108/SZ8
-欢乐剧场,https://hyf000.eu.org/80947108/SZ9
-经典老剧,https://hyf000.eu.org/80947108/SZ10
-乡村剧场,https://hyf000.eu.org/80947108/SZ11
-电影大片,https://hyf000.eu.org/80947108/SZ12
-爆笑综艺,https://hyf000.eu.org/80947108/SZ13
-智勇闯关,https://hyf000.eu.org/80947108/SZ14
-相声小品,https://hyf000.eu.org/80947108/SZ15
-中国通史,https://hyf000.eu.org/80947108/SZ16
-世界历史,https://hyf000.eu.org/80947108/SZ17
-传奇故事,https://hyf000.eu.org/80947108/SZ18
-经典传奇,https://hyf000.eu.org/80947108/SZ19
-纪实档案,https://hyf000.eu.org/80947108/SZ20
-王者荣耀,https://hyf000.eu.org/80947108/SZ21
-蛋仔派对,https://hyf000.eu.org/80947108/SZ22
-金牌调解,https://hyf000.eu.org/80947108/SZ23
-第三调解室,https://hyf000.eu.org/80947108/SZ24
-
-
-
-//======================================================
-
-
-飞哥小果,#genre#
-凤凰中文HD,https://hyf.serv00.net/xg.php?id=1
-凤凰资讯HD,https://hyf.serv00.net/xg.php?id=2
-CCTV4K,https://hyf.serv00.net/xg.php?id=3
-CCTV-1HD,https://hyf.serv00.net/xg.php?id=4
-CCTV-2HD,https://hyf.serv00.net/xg.php?id=5
-CCTV-3HD,https://hyf.serv00.net/xg.php?id=6
-CCTV-4HD,https://hyf.serv00.net/xg.php?id=7
-CCTV-5HD,https://hyf.serv00.net/xg.php?id=8
-CCTV-6HD,https://hyf.serv00.net/xg.php?id=9
-CCTV-7HD,https://hyf.serv00.net/xg.php?id=10
-CCTV-8HD,https://hyf.serv00.net/xg.php?id=11
-CCTV-9HD,https://hyf.serv00.net/xg.php?id=12
-CCTV-10HD,https://hyf.serv00.net/xg.php?id=13
-CCTV-11HD,https://hyf.serv00.net/xg.php?id=14
-CCTV-12HD,https://hyf.serv00.net/xg.php?id=15
-CCTV-13HD,https://hyf.serv00.net/xg.php?id=16
-CCTV-14HD,https://hyf.serv00.net/xg.php?id=17
-CCTV-15HD,https://hyf.serv00.net/xg.php?id=18
-CCTV-16HD,https://hyf.serv00.net/xg.php?id=19
-CCTV-16 4K,https://hyf.serv00.net/xg.php?id=20
-CCTV-17HD,https://hyf.serv00.net/xg.php?id=21
-CCTV5+HD,https://hyf.serv00.net/xg.php?id=22
-CHC高清电影,https://hyf.serv00.net/xg.php?id=23
-CHC动作影院,https://hyf.serv00.net/xg.php?id=24
-CHC家庭影院,https://hyf.serv00.net/xg.php?id=25
-中国教育HD,https://hyf.serv00.net/xg.php?id=26
-江苏卫视HD,https://hyf.serv00.net/xg.php?id=27
-北京卫视HD,https://hyf.serv00.net/xg.php?id=28
-东方卫视HD,https://hyf.serv00.net/xg.php?id=29
-湖南卫视HD,https://hyf.serv00.net/xg.php?id=30
-浙江卫视HD,https://hyf.serv00.net/xg.php?id=31
-辽宁卫视HD,https://hyf.serv00.net/xg.php?id=32
-广东卫视HD,https://hyf.serv00.net/xg.php?id=33
-江西卫视HD,https://hyf.serv00.net/xg.php?id=34
-湖北卫视HD,https://hyf.serv00.net/xg.php?id=35
-重庆卫视HD,https://hyf.serv00.net/xg.php?id=36
-安徽卫视HD,https://hyf.serv00.net/xg.php?id=37
-东南卫视HD,https://hyf.serv00.net/xg.php?id=38
-山东卫视HD,https://hyf.serv00.net/xg.php?id=39
-深圳卫视HD,https://hyf.serv00.net/xg.php?id=40
-天津卫视HD,https://hyf.serv00.net/xg.php?id=41
-贵州卫视HD,https://hyf.serv00.net/xg.php?id=42
-湖北卫视HD,https://hyf.serv00.net/xg.php?id=43
-吉林卫视HD,https://hyf.serv00.net/xg.php?id=44
-河南卫视HD,https://hyf.serv00.net/xg.php?id=45
-黑龙江卫视HD,https://hyf.serv00.net/xg.php?id=46
-天府一品,https://hyf.serv00.net/xg.php?id=47
-Channel[V]HD,https://hyf.serv00.net/xg.php?id=48
-星空卫视HD,https://hyf.serv00.net/xg.php?id=49
-国机重装HD,https://hyf.serv00.net/xg.php?id=50
-峨眉电影4K,https://hyf.serv00.net/xg.php?id=51
-峨眉电影HD,https://hyf.serv00.net/xg.php?id=52
-欢笑剧场4K,https://hyf.serv00.net/xg.php?id=53
-川网导视HD,https://hyf.serv00.net/xg.php?id=54
-精品导视HD,https://hyf.serv00.net/xg.php?id=55
-沙湾融媒HD,https://hyf.serv00.net/xg.php?id=56
-四川卫视HD,https://hyf.serv00.net/xg.php?id=57
-四川经济HD,https://hyf.serv00.net/xg.php?id=58
-四川文化旅游HD,https://hyf.serv00.net/xg.php?id=59
-四川新闻HD,https://hyf.serv00.net/xg.php?id=60
-四川影视文化HD,https://hyf.serv00.net/xg.php?id=61
-四川妇儿HD,https://hyf.serv00.net/xg.php?id=62
-四川科教HD,https://hyf.serv00.net/xg.php?id=63
-四川乡村HD,https://hyf.serv00.net/xg.php?id=64
-成都综合HD,https://hyf.serv00.net/xg.php?id=65
-成都公共HD,https://hyf.serv00.net/xg.php?id=66
-成都经济HD,https://hyf.serv00.net/xg.php?id=67
-成都生活HD,https://hyf.serv00.net/xg.php?id=68
-成都影视HD,https://hyf.serv00.net/xg.php?id=69
-成都高新HD,https://hyf.serv00.net/xg.php?id=70
-都市剧场HD,https://hyf.serv00.net/xg.php?id=71
-上海视觉HD,https://hyf.serv00.net/xg.php?id=72
-生活时尚HD,https://hyf.serv00.net/xg.php?id=73
-法治天地HD,https://hyf.serv00.net/xg.php?id=74
-上海乐游HD,https://hyf.serv00.net/xg.php?id=75
-魅力足球HD,https://hyf.serv00.net/xg.php?id=76
-金色学堂HD,https://hyf.serv00.net/xg.php?id=77
-劲爆体育HD,https://hyf.serv00.net/xg.php?id=78
-动漫秀场HD,https://hyf.serv00.net/xg.php?id=79
-先锋乒羽,https://hyf.serv00.net/xg.php?id=80
-快乐垂钓HD,https://hyf.serv00.net/xg.php?id=81
-湖南茶道HD,https://hyf.serv00.net/xg.php?id=82
-金鹰纪实HD,https://hyf.serv00.net/xg.php?id=83
-梨园频道HD,https://hyf.serv00.net/xg.php?id=84
-武术世界HD,https://hyf.serv00.net/xg.php?id=85
-文物宝库HD,https://hyf.serv00.net/xg.php?id=86
-阿坝综合HD,https://hyf.serv00.net/xg.php?id=87
-阿坝文艺HD,https://hyf.serv00.net/xg.php?id=88
-巴中综合HD,https://hyf.serv00.net/xg.php?id=89
-巴中公共HD,https://hyf.serv00.net/xg.php?id=90
-达州综合HD,https://hyf.serv00.net/xg.php?id=91
-达州公共HD,https://hyf.serv00.net/xg.php?id=92
-达州导视HD,https://hyf.serv00.net/xg.php?id=93
-广元综合HD,https://hyf.serv00.net/xg.php?id=94
-广元公共HD,https://hyf.serv00.net/xg.php?id=95
-乐山综合HD,https://hyf.serv00.net/xg.php?id=96
-乐山公共HD,https://hyf.serv00.net/xg.php?id=97
-凉山综合HD,https://hyf.serv00.net/xg.php?id=98
-凉山彝语HD,https://hyf.serv00.net/xg.php?id=99
-绵阳综合HD,https://hyf.serv00.net/xg.php?id=100
-绵阳科技HD,https://hyf.serv00.net/xg.php?id=101
-眉山综合HD,https://hyf.serv00.net/xg.php?id=102
-眉山公共HD,https://hyf.serv00.net/xg.php?id=103
-南充综合HD,https://hyf.serv00.net/xg.php?id=104
-南充科教HD,https://hyf.serv00.net/xg.php?id=105
-遂宁综合HD,https://hyf.serv00.net/xg.php?id=106
-遂宁公共HD,https://hyf.serv00.net/xg.php?id=107
-雅安综合HD,https://hyf.serv00.net/xg.php?id=108
-宜宾新闻综合,https://hyf.serv00.net/xg.php?id=109
-宜宾公共HD,https://hyf.serv00.net/xg.php?id=110
-宜宾导视HD,https://hyf.serv00.net/xg.php?id=111
-自贡综合HD,https://hyf.serv00.net/xg.php?id=112
-自贡公共HD,https://hyf.serv00.net/xg.php?id=113
-安州综合HD,https://hyf.serv00.net/xg.php?id=114
-安岳综合HD,https://hyf.serv00.net/xg.php?id=115
-北川新闻HD,https://hyf.serv00.net/xg.php?id=116
-巴州综合HD,https://hyf.serv00.net/xg.php?id=117
-宝兴综合HD,https://hyf.serv00.net/xg.php?id=118
-朝天综合HD,https://hyf.serv00.net/xg.php?id=119
-崇州综合HD,https://hyf.serv00.net/xg.php?id=120
-长宁综合HD,https://hyf.serv00.net/xg.php?id=121
-苍溪综合HD,https://hyf.serv00.net/xg.php?id=122
-大英综合HD,https://hyf.serv00.net/xg.php?id=123
-达川综合HD,https://hyf.serv00.net/xg.php?id=124
-恩阳综合HD,https://hyf.serv00.net/xg.php?id=125
-峨眉综合HD,https://hyf.serv00.net/xg.php?id=126
-峨边综合HD,https://hyf.serv00.net/xg.php?id=127
-高县综合HD,https://hyf.serv00.net/xg.php?id=128
-甘孜综合HD,https://hyf.serv00.net/xg.php?id=129
-古蔺综合HD,https://hyf.serv00.net/xg.php?id=130
-珙县综合HD,https://hyf.serv00.net/xg.php?id=131
-洪雅综合HD,https://hyf.serv00.net/xg.php?id=132
-井研新闻综合,https://hyf.serv00.net/xg.php?id=133
-剑阁综合HD,https://hyf.serv00.net/xg.php?id=134
-金堂综合HD,https://hyf.serv00.net/xg.php?id=135
-夹江综合HD,https://hyf.serv00.net/xg.php?id=136
-康定综合HD,https://hyf.serv00.net/xg.php?id=137
-芦山综合HD,https://hyf.serv00.net/xg.php?id=138
-泸定综合HD,https://hyf.serv00.net/xg.php?id=139
-隆昌综合HD,https://hyf.serv00.net/xg.php?id=140
-利州综合HD,https://hyf.serv00.net/xg.php?id=141
-木里综合HD,https://hyf.serv00.net/xg.php?id=142
-米易综合HD,https://hyf.serv00.net/xg.php?id=143
-名山综合HD,https://hyf.serv00.net/xg.php?id=144
-南江综合HD,https://hyf.serv00.net/xg.php?id=145
-宁南综合HD,https://hyf.serv00.net/xg.php?id=146
-平昌综合HD,https://hyf.serv00.net/xg.php?id=147
-平武综合HD,https://hyf.serv00.net/xg.php?id=148
-屏山综合HD,https://hyf.serv00.net/xg.php?id=149
-彭山综合HD,https://hyf.serv00.net/xg.php?id=150
-彭州综合HD,https://hyf.serv00.net/xg.php?id=151
-蓬溪综合HD,https://hyf.serv00.net/xg.php?id=152
-郫县综合HD,https://hyf.serv00.net/xg.php?id=153
-浦江综合HD,https://hyf.serv00.net/xg.php?id=154
-攀枝花市综合HD,https://hyf.serv00.net/xg.php?id=155
-攀枝花市文旅,https://hyf.serv00.net/xg.php?id=156
-攀钢新闻HD,https://hyf.serv00.net/xg.php?id=157
-青白江综合高,https://hyf.serv00.net/xg.php?id=158
-青神综合HD,https://hyf.serv00.net/xg.php?id=159
-渠县综合HD,https://hyf.serv00.net/xg.php?id=160
-邛崃综合HD,https://hyf.serv00.net/xg.php?id=161
-仁和新闻HD,https://hyf.serv00.net/xg.php?id=162
-仁寿综合HD,https://hyf.serv00.net/xg.php?id=163
-三台新闻HD,https://hyf.serv00.net/xg.php?id=164
-松潘综合HD,https://hyf.serv00.net/xg.php?id=165
-通江综合HD,https://hyf.serv00.net/xg.php?id=166
-天泉综合HD,https://hyf.serv00.net/xg.php?id=167
-万源综合HD,https://hyf.serv00.net/xg.php?id=168
-旺苍综合HD,https://hyf.serv00.net/xg.php?id=169
-温江综合HD,https://hyf.serv00.net/xg.php?id=170
-汶川新闻综合,https://hyf.serv00.net/xg.php?id=171
-兴文综合HD,https://hyf.serv00.net/xg.php?id=172
-宣汉综合HD,https://hyf.serv00.net/xg.php?id=173
-新都综合HD,https://hyf.serv00.net/xg.php?id=174
-新津综合HD,https://hyf.serv00.net/xg.php?id=175
-荥经综合HD,https://hyf.serv00.net/xg.php?id=176
-岳池综合HD,https://hyf.serv00.net/xg.php?id=177
-越西综合HD,https://hyf.serv00.net/xg.php?id=178
-盐边综合HD,https://hyf.serv00.net/xg.php?id=179
-盐亭综合HD,https://hyf.serv00.net/xg.php?id=180
-昭化综合HD,https://hyf.serv00.net/xg.php?id=181
-资阳综合HD,https://hyf.serv00.net/xg.php?id=182
-资中综合HD,https://hyf.serv00.net/xg.php?id=183
-梓潼综合HD,https://hyf.serv00.net/xg.php?id=184
-大邑新闻HD,https://hyf.serv00.net/xg.php?id=185
-营山新闻HD,https://hyf.serv00.net/xg.php?id=186
-沐川新闻HD,https://hyf.serv00.net/xg.php?id=187
-开江新闻HD,https://hyf.serv00.net/xg.php?id=188
-南溪新闻HD,https://hyf.serv00.net/xg.php?id=189
-荣县新闻HD,https://hyf.serv00.net/xg.php?id=190
-五通桥区HD,https://hyf.serv00.net/xg.php?id=191
-西充新闻HD,https://hyf.serv00.net/xg.php?id=192
-金口河区HD,https://hyf.serv00.net/xg.php?id=193
-宜宾新闻HD,https://hyf.serv00.net/xg.php?id=194
-仪陇新闻HD,https://hyf.serv00.net/xg.php?id=195
-筠连新闻HD,https://hyf.serv00.net/xg.php?id=196
-叙州新闻HD,https://hyf.serv00.net/xg.php?id=197
-阆中新闻HD,https://hyf.serv00.net/xg.php?id=198
-涪城综合,https://hyf.serv00.net/xg.php?id=199
-喜德综合,https://hyf.serv00.net/xg.php?id=200
-广安新闻,https://hyf.serv00.net/xg.php?id=201
-广安公共,https://hyf.serv00.net/xg.php?id=202
-广安区台,https://hyf.serv00.net/xg.php?id=203
-内江新闻,https://hyf.serv00.net/xg.php?id=204
-内江公共,https://hyf.serv00.net/xg.php?id=205
-安居新闻,https://hyf.serv00.net/xg.php?id=206
-东兴新闻,https://hyf.serv00.net/xg.php?id=207
-丹棱新闻,https://hyf.serv00.net/xg.php?id=208
-德昌新闻,https://hyf.serv00.net/xg.php?id=209
-都江堰市,https://hyf.serv00.net/xg.php?id=210
-富顺新闻,https://hyf.serv00.net/xg.php?id=211
-广汉新闻,https://hyf.serv00.net/xg.php?id=212
-汉源新闻,https://hyf.serv00.net/xg.php?id=213
-合江新闻,https://hyf.serv00.net/xg.php?id=214
-简阳新闻,https://hyf.serv00.net/xg.php?id=215
-金牛新闻,https://hyf.serv00.net/xg.php?id=216
-江安新闻,https://hyf.serv00.net/xg.php?id=217
-江油综合,https://hyf.serv00.net/xg.php?id=218
-泸县新闻,https://hyf.serv00.net/xg.php?id=219
-龙泉新闻,https://hyf.serv00.net/xg.php?id=220
-罗江新闻,https://hyf.serv00.net/xg.php?id=221
-邻水新闻,https://hyf.serv00.net/xg.php?id=222
-绵竹新闻,https://hyf.serv00.net/xg.php?id=223
-犍为新闻,https://hyf.serv00.net/xg.php?id=224
-冕宁新闻,https://hyf.serv00.net/xg.php?id=225
-马尔康区,https://hyf.serv00.net/xg.php?id=226
-南部新闻,https://hyf.serv00.net/xg.php?id=227
-纳溪新闻,https://hyf.serv00.net/xg.php?id=228
-普格新闻,https://hyf.serv00.net/xg.php?id=229
-蓬安新闻,https://hyf.serv00.net/xg.php?id=230
-青川新闻,https://hyf.serv00.net/xg.php?id=231
-双流新闻,https://hyf.serv00.net/xg.php?id=232
-射洪新闻,https://hyf.serv00.net/xg.php?id=233
-石棉新闻,https://hyf.serv00.net/xg.php?id=234
-武胜新闻,https://hyf.serv00.net/xg.php?id=235
-叙永新闻,https://hyf.serv00.net/xg.php?id=236
-成都每日购物,https://hyf.serv00.net/xg.php?id=237
+浙江卫视,https://hyf.serv00.net/飞哥.php?id=ZHEJIANGWS1
+黑龙江卫视,https://hyf.serv00.net/飞哥.php?id=HLJWS1
+浙江卫视,https://hyf.serv00.net/飞哥.php?id=ZHEJIANGWS
+河北卫视,https://hyf.serv00.net/飞哥.php?id=HEBEIWS
+陕西卫视,https://hyf.serv00.net/飞哥.php?id=SHAANXIWS
+凤凰电影,https://hyf.serv00.net/飞哥.php?id=FHDY
+星空卫视,https://hyf.serv00.net/飞哥.php?id=XKWS
+星空国际,https://hyf.serv00.net/飞哥.php?id=XKGJ
+星空音乐,https://hyf.serv00.net/飞哥.php?id=XKYY
+邵氏电影,https://hyf.serv00.net/飞哥.php?id=SSDY
+邵氏武侠,https://hyf.serv00.net/飞哥.php?id=SSWX
+邵氏动作,https://hyf.serv00.net/飞哥.php?id=SSDZ
+邵氏喜剧,https://hyf.serv00.net/飞哥.php?id=SSXJ
+重温经典,https://hyf.serv00.net/飞哥.php?id=CWJD
+重温经典,https://hyf.serv00.net/飞哥.php?id=CWJD1
+重温经典,https://hyf.serv00.net/飞哥.php?id=CWJD2
+翡翠台,https://hyf.serv00.net/飞哥.php?id=FCT
+凤凰中文,https://hyf.serv00.net/飞哥.php?id=FHZW
+凤凰资讯,https://hyf.serv00.net/飞哥.php?id=FHZX
+凤凰香港,https://hyf.serv00.net/飞哥.php?id=FHXG
+莲花卫视,https://hyf.serv00.net/飞哥.php?id=LHWS
+莲花卫视,https://hyf.serv00.net/飞哥.php?id=LHWS1
+莲花卫视,https://hyf.serv00.net/飞哥.php?id=LHWS2
+爆谷台,https://hyf.serv00.net/飞哥.php?id=NOWBG
+星影台,https://hyf.serv00.net/飞哥.php?id=NOWXY
 
 
 
@@ -690,43 +375,6 @@ GGTN英语,https://hyf.serv00.net/飞哥极速.php?id=66
 中文国际,https://hyf.serv00.net/飞哥极速.php?id=85
 中文国际欧洲,https://hyf.serv00.net/飞哥极速.php?id=86
 
-
-
-//======================================================
-
-
-飞哥FM,#genre#
-
-广东音乐,https://hyf000.eu.org/80947108/YY1
-广东音乐1,https://hyf000.eu.org/80947108/YY2
-广东音乐2,https://hyf000.eu.org/80947108/YY3
-广东汽车,https://hyf000.eu.org/80947108/YY4
-广东音乐3,https://hyf000.eu.org/80947108/YY5
-香港第三,https://hyf000.eu.org/80947108/YY6
-亚洲经典,https://hyf000.eu.org/80947108/YY7
-亚洲热歌,https://hyf000.eu.org/80947108/YY8
-HD音乐,https://hyf000.eu.org/80947108/YY9
-亚洲粤语,https://hyf000.eu.org/80947108/YY10
-亚洲天空,https://hyf000.eu.org/80947108/YY11
-亚洲音乐,https://hyf000.eu.org/80947108/YY12
-澳门绿坉,https://hyf000.eu.org/80947108/YY13
-重庆音乐,https://hyf000.eu.org/80947108/YY14
-江苏音乐,https://hyf000.eu.org/80947108/YY15
-广西音乐,https://hyf000.eu.org/80947108/YY16
-陕西音乐,https://hyf000.eu.org/80947108/YY17
-河南音乐,https://hyf000.eu.org/80947108/YY18
-河南音乐2,https://hyf000.eu.org/80947108/YY19
-香港古典,https://hyf000.eu.org/80947108/YY20
-四川音乐,https://hyf000.eu.org/80947108/YY21
-贵州音乐,https://hyf000.eu.org/80947108/YY22
-湖北音乐,https://hyf000.eu.org/80947108/YY23
-湖南音乐,https://hyf000.eu.org/80947108/YY24
-吉林音乐,https://hyf000.eu.org/80947108/YY25
-江西音乐,https://hyf000.eu.org/80947108/YY26
-山西音乐,https://hyf000.eu.org/80947108/YY27
-福建音乐,https://hyf000.eu.org/80947108/YY28
-河北音乐,https://hyf000.eu.org/80947108/YY29
-浙江音乐,https://hyf000.eu.org/80947108/YY30
 
 
 //======================================================
@@ -5859,270 +5507,6 @@ LIBERTY EROTIKA HD,https://hyf.serv00.net/测试.php?id=258
 Kinoshka Adult HD,https://hyf.serv00.net/测试.php?id=261
 Eromania 4K,https://hyf.serv00.net/测试.php?id=262
 DuckTV HD,https://hyf.serv00.net/测试.php?id=263
-
-Brazzers HD,https://hyf000.eu.org/80947108/1
-Brazzers TV Europe,https://hyf000.eu.org/80947108/2
-Brazzers eXXtra,https://hyf000.eu.org/80947108/3
-Hustler HD orig,https://hyf000.eu.org/80947108/4
-Hustler HD Europe,https://hyf000.eu.org/80947108/5
-Blue Hustler,https://hyf000.eu.org/80947108/6
-Penthouse Passion HD,https://hyf000.eu.org/80947108/7
-Penthouse Gold HD,https://hyf000.eu.org/80947108/8
-Penthouse Quickies HD,https://hyf000.eu.org/80947108/9
-DDF Network,https://hyf000.eu.org/80947108/10
-DDF Busty,https://hyf000.eu.org/80947108/11
-Naughty America,https://hyf000.eu.org/80947108/12
-Русская Ночь,https://hyf000.eu.org/80947108/13
-Нюарт TV,https://hyf000.eu.org/80947108/14
-Шалун,https://hyf000.eu.org/80947108/15
-Playboy,https://hyf000.eu.org/80947108/16
-Sexto Senso,https://hyf000.eu.org/80947108/17
-Penthouse Quickies 1300k,https://hyf000.eu.org/80947108/18
-Candy,https://hyf000.eu.org/80947108/19
-FrenchLover,https://hyf000.eu.org/80947108/20
-Redlight HD,https://hyf000.eu.org/80947108/21
-Vivid Red HD,https://hyf000.eu.org/80947108/22
-Eroxxx HD,https://hyf000.eu.org/80947108/23
-XXL,https://hyf000.eu.org/80947108/24
-Passion XXX,https://hyf000.eu.org/80947108/25
-O-la-la,https://hyf000.eu.org/80947108/26
-Extasy 4K,https://hyf000.eu.org/80947108/27
-Private TV,https://hyf000.eu.org/80947108/28
-Barely legal,https://hyf000.eu.org/80947108/29
-Exxxotica HD,https://hyf000.eu.org/80947108/30
-Dorcel TV HD,https://hyf000.eu.org/80947108/31
-Adult Time,https://hyf000.eu.org/80947108/32
-Anal Red TV,https://hyf000.eu.org/80947108/33
-Analized HD,https://hyf000.eu.org/80947108/34
-AST TV,https://hyf000.eu.org/80947108/35
-AST TV 2,https://hyf000.eu.org/80947108/36
-A3 Bikini,https://hyf000.eu.org/80947108/37
-Babes TV HD,https://hyf000.eu.org/80947108/38
-Bang Bros HD,https://hyf000.eu.org/80947108/39
-Bang!,https://hyf000.eu.org/80947108/40
-Big Ass Adult TV,https://hyf000.eu.org/80947108/41
-Big Dick Red TV,https://hyf000.eu.org/80947108/42
-Big Tits Adult TV,https://hyf000.eu.org/80947108/43
-Blacked HD,https://hyf000.eu.org/80947108/44
-Blonde Adult TV,https://hyf000.eu.org/80947108/45
-Blowjob Red TV,https://hyf000.eu.org/80947108/46
-Brunette Adult TV,https://hyf000.eu.org/80947108/47
-Cherry Pimps,https://hyf000.eu.org/80947108/48
-Club 17,https://hyf000.eu.org/80947108/49
-Русская ночь orig,https://hyf000.eu.org/80947108/50
-Compilation Adult TV,https://hyf000.eu.org/80947108/51
-Cuckold Red TV,https://hyf000.eu.org/80947108/52
-Cum Louder,https://hyf000.eu.org/80947108/53
-Cum4k,https://hyf000.eu.org/80947108/54
-cento x cento,https://hyf000.eu.org/80947108/55
-Day with a Pornstar,https://hyf000.eu.org/80947108/56
-Digital Desire HD,https://hyf000.eu.org/80947108/57
-Digital Playground HD,https://hyf000.eu.org/80947108/58
-Dorcel Club,https://hyf000.eu.org/80947108/59
-Dusk,https://hyf000.eu.org/80947108/60
-Evil Angel HD,https://hyf000.eu.org/80947108/61
-Evolved Fights,https://hyf000.eu.org/80947108/62
-Extasy HD,https://hyf000.eu.org/80947108/63
-Fake Taxi HD,https://hyf000.eu.org/80947108/64
-Fap TV 2,https://hyf000.eu.org/80947108/65
-Fap TV 3,https://hyf000.eu.org/80947108/66
-Fap TV Anal,https://hyf000.eu.org/80947108/67
-Fap TV BBW,https://hyf000.eu.org/80947108/68
-Fap TV Compilation,https://hyf000.eu.org/80947108/69
-Fap TV Lesbian,https://hyf000.eu.org/80947108/70
-Fap TV Parody,https://hyf000.eu.org/80947108/71
-Fap TV Teens,https://hyf000.eu.org/80947108/72
-FemJoy,https://hyf000.eu.org/80947108/73
-Fetish Red TV,https://hyf000.eu.org/80947108/74
-Gangbang Adult TV,https://hyf000.eu.org/80947108/75
-Gay Adult TV,https://hyf000.eu.org/80947108/76
-Got MYLF,https://hyf000.eu.org/80947108/77
-Hands on Hardcore,https://hyf000.eu.org/80947108/78
-Hard X,https://hyf000.eu.org/80947108/79
-Hardcore Red TV,https://hyf000.eu.org/80947108/80
-Hitzefrei HD,https://hyf000.eu.org/80947108/81
-Holed,https://hyf000.eu.org/80947108/82
-Hot and Mean,https://hyf000.eu.org/80947108/83
-Hot Guys Fuck,https://hyf000.eu.org/80947108/84
-Interracial Red TV,https://hyf000.eu.org/80947108/85
-Japan HDV,https://hyf000.eu.org/80947108/86
-Latina Red TV,https://hyf000.eu.org/80947108/87
-Lesbea,https://hyf000.eu.org/80947108/88
-Lesbian Red TV,https://hyf000.eu.org/80947108/89
-Lethal Hardcore,https://hyf000.eu.org/80947108/90
-Little Asians HD,https://hyf000.eu.org/80947108/91
-Live Cams Adult TV,https://hyf000.eu.org/80947108/92
-Lust Cinema,https://hyf000.eu.org/80947108/93
-MetArt HD,https://hyf000.eu.org/80947108/94
-MILF Red TV,https://hyf000.eu.org/80947108/95
-Monsters of Cock,https://hyf000.eu.org/80947108/96
-MYLF TV HD,https://hyf000.eu.org/80947108/97
-Nubiles TV HD,https://hyf000.eu.org/80947108/98
-ox-ax HD,https://hyf000.eu.org/80947108/99
-Pink Erotic 3,https://hyf000.eu.org/80947108/100
-Pink Erotic 4,https://hyf000.eu.org/80947108/101
-Playboy Plus,https://hyf000.eu.org/80947108/102
-Pornstar Red TV,https://hyf000.eu.org/80947108/103
-POV Adult TV,https://hyf000.eu.org/80947108/104
-Private HD,https://hyf000.eu.org/80947108/105
-Public Agent,https://hyf000.eu.org/80947108/106
-Reality Kings HD,https://hyf000.eu.org/80947108/107
-RK Prime,https://hyf000.eu.org/80947108/108
-RK TV,https://hyf000.eu.org/80947108/109
-Rough Adult TV,https://hyf000.eu.org/80947108/110
-Russian Adult TV,https://hyf000.eu.org/80947108/111
-Sex With Muslims,https://hyf000.eu.org/80947108/112
-SexArt,https://hyf000.eu.org/80947108/113
-sext 6 senso,https://hyf000.eu.org/80947108/114
-SINematica,https://hyf000.eu.org/80947108/115
-Teen Red TV,https://hyf000.eu.org/80947108/116
-Threesome Red TV,https://hyf000.eu.org/80947108/117
-Tiny4K,https://hyf000.eu.org/80947108/118
-Trans Angels,https://hyf000.eu.org/80947108/119
-True Amateurs,https://hyf000.eu.org/80947108/120
-Tushy HD,https://hyf000.eu.org/80947108/121
-TushyRAW,https://hyf000.eu.org/80947108/122
-Visit-X TV,https://hyf000.eu.org/80947108/123
-Vivid TV Europe,https://hyf000.eu.org/80947108/124
-Vixen HD,https://hyf000.eu.org/80947108/125
-We Live Together,https://hyf000.eu.org/80947108/126
-White Boxxx,https://hyf000.eu.org/80947108/127
-Wicked,https://hyf000.eu.org/80947108/128
-Xpanded TV,https://hyf000.eu.org/80947108/129
-Balkan Erotic,https://hyf000.eu.org/80947108/130
-Bangerz,https://hyf000.eu.org/80947108/131
-Emanuelle HD,https://hyf000.eu.org/80947108/132
-Extreme,https://hyf000.eu.org/80947108/133
-Fast Boyz,https://hyf000.eu.org/80947108/134
-HOT,https://hyf000.eu.org/80947108/135
-HOT XXL HD,https://hyf000.eu.org/80947108/136
-Hot Pleasure,https://hyf000.eu.org/80947108/137
-Lesbian Affair,https://hyf000.eu.org/80947108/138
-Oldtimer,https://hyf000.eu.org/80947108/139
-Playboy LA,https://hyf000.eu.org/80947108/140
-Red XXX,https://hyf000.eu.org/80947108/141
-Sexy Hot,https://hyf000.eu.org/80947108/142
-Taboo,https://hyf000.eu.org/80947108/143
-Venus,https://hyf000.eu.org/80947108/144
-X-MO,https://hyf000.eu.org/80947108/145
-XY Max HD,https://hyf000.eu.org/80947108/146
-XY Mix HD,https://hyf000.eu.org/80947108/147
-XY Plus HD,https://hyf000.eu.org/80947108/148
-Erotic,https://hyf000.eu.org/80947108/149
-Erotic 2,https://hyf000.eu.org/80947108/150
-Erotic 3,https://hyf000.eu.org/80947108/151
-Erotic 4,https://hyf000.eu.org/80947108/152
-Erotic 6,https://hyf000.eu.org/80947108/153
-Erotic 7,https://hyf000.eu.org/80947108/154
-Erotic 8,https://hyf000.eu.org/80947108/155
-Erox HD,https://hyf000.eu.org/80947108/156
-MvH Hard,https://hyf000.eu.org/80947108/157
-SuperOne HD,https://hyf000.eu.org/80947108/158
-Dorcel HD orig,https://hyf000.eu.org/80947108/159
-Redlight HD orig,https://hyf000.eu.org/80947108/160
-Passion XXX orig,https://hyf000.eu.org/80947108/161
-O-La-La orig,https://hyf000.eu.org/80947108/162
-XXL orig,https://hyf000.eu.org/80947108/163
-EXXXOTICA HD orig,https://hyf000.eu.org/80947108/164
-ОХ-АХ HD,https://hyf000.eu.org/80947108/165
-KinoXXX,https://hyf000.eu.org/80947108/166
-EXTASY HD,https://hyf000.eu.org/80947108/167
-VF Cartoon 18+,https://hyf000.eu.org/80947108/168
-Alba 1 HD,https://hyf000.eu.org/80947108/169
-Alba 1,https://hyf000.eu.org/80947108/170
-Alba 2 HD,https://hyf000.eu.org/80947108/171
-Alba 2,https://hyf000.eu.org/80947108/172
-Alba 3,https://hyf000.eu.org/80947108/173
-Alba 4,https://hyf000.eu.org/80947108/174
-Alba 5,https://hyf000.eu.org/80947108/175
-PURE BABES,https://hyf000.eu.org/80947108/176
-BRAZZERS TV,https://hyf000.eu.org/80947108/177
-Bang U,https://hyf000.eu.org/80947108/178
-XY Plus 1,https://hyf000.eu.org/80947108/179
-XY Plus 2,https://hyf000.eu.org/80947108/180
-XY Plus 6,https://hyf000.eu.org/80947108/181
-XY Plus 12,https://hyf000.eu.org/80947108/182
-XY Plus 24,https://hyf000.eu.org/80947108/183
-PASSION XXX,https://hyf000.eu.org/80947108/184
-Super one HD,https://hyf000.eu.org/80947108/185
-X1 TV,https://hyf000.eu.org/80947108/186
-LEO TV FHD,https://hyf000.eu.org/80947108/187
-French Lover,https://hyf000.eu.org/80947108/188
-Meiden Van Holland,https://hyf000.eu.org/80947108/189
-EROCOM TV,https://hyf000.eu.org/80947108/190
-DUSK TV,https://hyf000.eu.org/80947108/191
-X Plus Milf HD,https://hyf000.eu.org/80947108/192
-DORCEL TV FHD,https://hyf000.eu.org/80947108/193
-DORCEL XXX TV,https://hyf000.eu.org/80947108/194
-Venus HD,https://hyf000.eu.org/80947108/195
-FREE X TV,https://hyf000.eu.org/80947108/196
-PLAYBOY TV,https://hyf000.eu.org/80947108/197
-PASSIE TV,https://hyf000.eu.org/80947108/198
-VERAPORN 4K,https://hyf000.eu.org/80947108/199
-VERAPORN 4K 2,https://hyf000.eu.org/80947108/200
-VERAPORN TEENS,https://hyf000.eu.org/80947108/201
-VERAPORN TEENS 2,https://hyf000.eu.org/80947108/202
-VERAPORN GROUP SEX,https://hyf000.eu.org/80947108/203
-VERAPORN GROUP SEX 2,https://hyf000.eu.org/80947108/204
-VERAPORN ANAL,https://hyf000.eu.org/80947108/205
-VERAPORN FEET,https://hyf000.eu.org/80947108/206
-VERAPORN BIG TITS,https://hyf000.eu.org/80947108/207
-PINK EROTICA 1,https://hyf000.eu.org/80947108/208
-PINK EROTICA 2,https://hyf000.eu.org/80947108/209
-PINK EROTICA 3,https://hyf000.eu.org/80947108/210
-PINK EROTICA 4,https://hyf000.eu.org/80947108/211
-PINK EROTICA 5,https://hyf000.eu.org/80947108/212
-PINK EROTICA 6,https://hyf000.eu.org/80947108/213
-PINK EROTICA 7,https://hyf000.eu.org/80947108/214
-PINK EROTICA 8,https://hyf000.eu.org/80947108/215
-TURKCE ALTAZILI YENI,https://hyf000.eu.org/80947108/216
-TURKCE ALTAZILI YENI 1,https://hyf000.eu.org/80947108/217
-TURKCE ALTAZILI YENI 2,https://hyf000.eu.org/80947108/218
-TURKCE ALTAZILI YENI 3,https://hyf000.eu.org/80947108/219
-TURKCE ALTAZILI YENI 4,https://hyf000.eu.org/80947108/220
-SL EROTIC HD,https://hyf000.eu.org/80947108/221
-SL HOT 1 HD,https://hyf000.eu.org/80947108/222
-SL HOT 2 HD,https://hyf000.eu.org/80947108/223
-SL HOT 3 HD,https://hyf000.eu.org/80947108/224
-SL HOT 4 HD,https://hyf000.eu.org/80947108/225
-SL HOT 5 HD,https://hyf000.eu.org/80947108/226
-SL HOT 6 HD,https://hyf000.eu.org/80947108/227
-SL HOT 7 HD,https://hyf000.eu.org/80947108/228
-SL HOT 8 HD,https://hyf000.eu.org/80947108/229
-SL HOT 9 HD,https://hyf000.eu.org/80947108/230
-BAG U,https://hyf000.eu.org/80947108/231
-XXXINTERRACIAL TV,https://hyf000.eu.org/80947108/232
-LATINA TV,https://hyf000.eu.org/80947108/233
-MILF TV,https://hyf000.eu.org/80947108/234
-PORNSTAR TV,https://hyf000.eu.org/80947108/235
-POV TV,https://hyf000.eu.org/80947108/236
-ROUGH TV,https://hyf000.eu.org/80947108/237
-RUSSIAN TV,https://hyf000.eu.org/80947108/238
-TEEN TV,https://hyf000.eu.org/80947108/239
-THREESOME TV,https://hyf000.eu.org/80947108/240
-BANGBROS UHD 4K,https://hyf000.eu.org/80947108/241
-DIRTY HOBBY,https://hyf000.eu.org/80947108/242
-GANGBANG CREAMPIE,https://hyf000.eu.org/80947108/243
-HOTWIFE PREMIUM,https://hyf000.eu.org/80947108/244
-TUSHY TV,https://hyf000.eu.org/80947108/245
-ROCCO TV 7/24,https://hyf000.eu.org/80947108/246
-BLACKED TV PREMIUM,https://hyf000.eu.org/80947108/247
-BLACKED TV ELITE,https://hyf000.eu.org/80947108/248
-GLORYHOLE LOVE FHD,https://hyf000.eu.org/80947108/249
-TRANS PREMIUM,https://hyf000.eu.org/80947108/250
-MAD SEX PARTY,https://hyf000.eu.org/80947108/251
-GAY PREMIUM,https://hyf000.eu.org/80947108/252
-FAST BOYZ GAY,https://hyf000.eu.org/80947108/253
-XXX Love's Berry HD,https://hyf000.eu.org/80947108/254
-YOSSO TV SEXY,https://hyf000.eu.org/80947108/255
-SKY HIGH ADULT HD,https://hyf000.eu.org/80947108/256
-Kaloopy hd tv,https://hyf000.eu.org/80947108/257
-LIBERTY EROTIKA HD,https://hyf000.eu.org/80947108/258
-Кино 18+ HD,https://hyf000.eu.org/80947108/259
-Кино 18+ International,https://hyf000.eu.org/80947108/260
-Kinoshka Adult HD,https://hyf000.eu.org/80947108/261
-Eromania 4K,https://hyf000.eu.org/80947108/262
-DuckTV HD,https://hyf000.eu.org/80947108/263
 
 
 //======================================================
