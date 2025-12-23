@@ -1,16 +1,38 @@
 # -*- coding: utf-8 -*-
-# by @嗷呜
-import concurrent.futures
+# 金牌影视
 import json
 import sys
+import threading
+import uuid
+from pprint import pprint
+import requests
 sys.path.append('..')
 from base.spider import Spider
-
+import time
+from Crypto.Hash import MD5, SHA1
 
 class Spider(Spider):
 
     def init(self, extend=""):
-        self.ihost=self.imgsite()
+        '''
+        {
+            "key": "",
+            "name": "",
+            "type": 3,
+            "api": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+            }
+        },
+        fm写法
+        '''
+        if extend:
+            hosts=json.loads(extend)['site']
+        # hosts = "https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+        self.host = self.host_late(hosts)
         pass
 
     def getName(self):
@@ -25,82 +47,73 @@ class Spider(Spider):
     def destroy(self):
         pass
 
-    host='https://api.ubj83.com'
-
-    headers={
-        'User-Agent': 'Mozilla/5.0 (Linux; Android 11; M2012K10C Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Safari/537.36;webank/h5face;webank/1.0;netType:NETWORK_WIFI;appVersion:416;packageName:com.jp3.xg3',
-        'Accept': 'application/json, text/plain, */*',
-        'x-requested-with': 'com.jp3.xg3',
-        'accept-language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
-    }
-
-    def imgsite(self):
-        data=self.fetch(f"{self.host}/api/appAuthConfig",headers=self.headers).json()
-        host=data['data']['imgDomain']
-        return host if host.startswith('http') else f"https://{host}"
-
-    def getfts(self,id):
-        data=self.fetch(f"{self.host}/api/crumb/filterOptions",params={'fcate_pid':id},headers=self.headers).json()
-        fts=[{
-            'key': i['key'],
-            'name':i['key'],
-            'value': [{
-                'n': j['name'],
-                'v': j['id']
-            } for j in i['data']]
-        } for i in data['data']]
-        return id,fts
-
-    def build_cl(self,data,tid=''):
-        videos=[]
-        for i in data:
-            text=json.dumps(i.get('res_categories',[]))
-            videos.append({
-                'vod_id': f"{i.get('id')}@{'67' if json.dumps('短剧') in text and '67' in text else tid}",
-                'vod_name': i.get('title'),
-                'vod_pic': f"{self.ihost}{i.get('path') or i.get('cover_image') or i.get('thumbnail')}",
-                'vod_remarks': i.get('mask'),
-                'vod_year': i.get('score'),
-            })
-        return videos
-
     def homeContent(self, filter):
+        cdata = self.fetch(f"{self.host}/api/mw-movie/anonymous/get/filer/type", headers=self.getheaders()).json()
+        fdata = self.fetch(f"{self.host}/api/mw-movie/anonymous/v1/get/filer/list", headers=self.getheaders()).json()
         result = {}
-        cdata=self.fetch(f"{self.host}/api/term/home_fenlei",headers=self.headers).json()
-        hdata=self.fetch(f"{self.host}/api/dyTag/hand_data",params={'category_id':cdata['data'][0]['id']},headers=self.headers).json()
         classes = []
-        filters = {}
+        filters={}
         for k in cdata['data']:
-            if 'abbr' in k:
-                classes.append({
-                    'type_name': k['name'],
-                    'type_id': k['id']
-                })
-        with concurrent.futures.ThreadPoolExecutor(max_workers=len(classes)) as executor:
-            future_to_aid = {
-                executor.submit(self.getfts, aid['type_id']): aid['type_id']
-                for aid in classes
-            }
-            for future in concurrent.futures.as_completed(future_to_aid):
-                aid = future_to_aid[future]
-                try:
-                    aid_id, fts = future.result()
-                    filters[aid_id] = fts
-                except Exception as e:
-                    print(f"Error processing aid {aid}: {e}")
+            classes.append({
+                'type_name': k['typeName'],
+                'type_id': str(k['typeId']),
+            })
+        sort_values = [{"n": "最近更新", "v": "2"},{"n": "人气高低", "v": "3"}, {"n": "评分高低", "v": "4"}]
+        for tid, d in fdata['data'].items():
+            current_sort_values = sort_values.copy()
+            if tid == '1':
+                del current_sort_values[0]
+            filters[tid] = [
+                {"key": "type", "name": "类型",
+                 "value": [{"n": i["itemText"], "v": i["itemValue"]} for i in d["typeList"]]},
+
+                *([] if not d["plotList"] else [{"key": "v_class", "name": "剧情",
+                                                 "value": [{"n": i["itemText"], "v": i["itemText"]}
+                                                           for i in d["plotList"]]}]),
+
+                {"key": "area", "name": "地区",
+                 "value": [{"n": i["itemText"], "v": i["itemText"]} for i in d["districtList"]]},
+
+                {"key": "year", "name": "年份",
+                 "value": [{"n": i["itemText"], "v": i["itemText"]} for i in d["yearList"]]},
+
+                {"key": "lang", "name": "语言",
+                 "value": [{"n": i["itemText"], "v": i["itemText"]} for i in d["languageList"]]},
+
+                {"key": "sort", "name": "排序", "value": current_sort_values}
+            ]
         result['class'] = classes
         result['filters'] = filters
-        result['list'] = [item for i in hdata['data'].values() for item in self.build_cl(i)]
         return result
 
     def homeVideoContent(self):
-        pass
+        data1 = self.fetch(f"{self.host}/api/mw-movie/anonymous/v1/home/all/list", headers=self.getheaders()).json()
+        data2=self.fetch(f"{self.host}/api/mw-movie/anonymous/home/hotSearch",headers=self.getheaders()).json()
+        data=[]
+        for i in data1['data'].values():
+            data.extend(i['list'])
+        data.extend(data2['data'])
+        vods=self.getvod(data)
+        return {'list':vods}
+
     def categoryContent(self, tid, pg, filter, extend):
-        params={**{'fcate_pid': tid, 'page': pg}, **extend}
-        path= '/api/crumb/shortList' if tid=='67' else '/api/crumb/list'
-        data=self.fetch(f"{self.host}{path}",params=params,headers=self.headers).json()
+
+        params = {
+          "area": extend.get('area', ''),
+          "filterStatus": "1",
+          "lang": extend.get('lang', ''),
+          "pageNum": pg,
+          "pageSize": "30",
+          "sort": extend.get('sort', '1'),
+          "sortBy": "1",
+          "type": extend.get('type', ''),
+          "type1": tid,
+          "v_class": extend.get('v_class', ''),
+          "year": extend.get('year', '')
+        }
+        data = self.fetch(f"{self.host}/api/mw-movie/anonymous/video/list?{self.js(params)}", headers=self.getheaders(params)).json()
         result = {}
-        result['list'] = self.build_cl(data['data'],tid)
+        result['list'] = self.getvod(data['data']['list'])
         result['page'] = pg
         result['pagecount'] = 9999
         result['limit'] = 90
@@ -108,40 +121,106 @@ class Spider(Spider):
         return result
 
     def detailContent(self, ids):
-        ids=ids[0].split('@')
-        path, ikey = ('/api/detail', 'vid') if ids[-1] == '67' else ('/api/video/detailv2', 'id')
-        data=self.fetch(f"{self.host}{path}",params={ikey:ids[0]},headers=self.headers).json()
-        v=data['data']
-        if ids[-1]=='67':
-            pdata=v.get('playlist',[])
-            n,p=[pdata[0].get('source_config_name')],['#'.join([f"{i.get('title')}${i['url']}" for i in pdata])]
-        else:
-            n,p=[],[]
-            for i in v.get('source_list_source',[]):
-                n.append('飞哥'+i.get('name'))
-                p.append('#'.join([f"{j.get('source_name') or j.get('weight')}${j['url']}" for j in i.get('source_list',[])]))
-
-        vod = {
-            'type_name': '/'.join([i.get('name') for i in v.get('types',[])]),
-            'vod_year': v.get('year'),
-            'vod_area': v.get('area'),
-            'vod_remarks': v.get('update_cycle'),
-            'vod_actor': '/'.join([i.get('name') for i in v.get('actors',[])]),
-            'vod_content': v.get('description'),
-            'vod_play_from': '$$$'.join(n),
-            'vod_play_url': '$$$'.join(p)
-        }
+        data=self.fetch(f"{self.host}/api/mw-movie/anonymous/video/detail?id={ids[0]}",headers=self.getheaders({'id':ids[0]})).json()
+        vod=self.getvod([data['data']])[0]
+        vod['vod_play_from']='🌺风言锋语88🌺金牌'
+        vod['vod_play_url'] = '#'.join(
+            f"{i['name'] if len(vod['episodelist']) > 1 else vod['vod_name']}${ids[0]}@@{i['nid']}" for i in
+            vod['episodelist'])
+        vod.pop('episodelist', None)
         return {'list':[vod]}
 
     def searchContent(self, key, quick, pg="1"):
-        data=self.fetch(f"{self.host}/api/v2/search/videoV2",params={'key':key,'page':pg,'pageSize':20},headers=self.headers).json()
-        return {'list':self.build_cl(data['data']),'page':pg}
+        params = {
+          "keyword": key,
+          "pageNum": pg,
+          "pageSize": "8",
+          "sourceCode": "1"
+        }
+        data=self.fetch(f"{self.host}/api/mw-movie/anonymous/video/searchByWord?{self.js(params)}",headers=self.getheaders(params)).json()
+        vods=self.getvod(data['data']['result']['list'])
+        return {'list':vods,'page':pg}
 
     def playerContent(self, flag, id, vipFlags):
-        return  {'parse': 0, 'url': id, 'header': {'User-Agent':self.headers['User-Agent']}}
+        self.header = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8  Safari/537.36',
+            'sec-ch-ua-platform': '"Windows"',
+            'DNT': '1',
+            'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+            'sec-ch-ua-mobile': '?0',
+            'Origin': self.host,
+            'Referer': f'{self.host}/'
+        }
+        ids=id.split('@@')
+        pdata = self.fetch(f"{self.host}/api/mw-movie/anonymous/v2/video/episode/url?clientType=1&id={ids[0]}&nid={ids[1]}",headers=self.getheaders({'clientType':'1','id': ids[0], 'nid': ids[1]})).json()
+        vlist=[]
+        for i in pdata['data']['list']:vlist.extend([i['resolutionName'],i['url']])
+        return {'parse':0,'url':vlist,'header':self.header}
 
     def localProxy(self, param):
         pass
 
-    def liveContent(self, url):
-        pass
+    def host_late(self, url_list):
+        if isinstance(url_list, str):
+            urls = [u.strip() for u in url_list.split(',')]
+        else:
+            urls = url_list
+        if len(urls) <= 1:
+            return urls[0] if urls else ''
+
+        results = {}
+        threads = []
+
+        def test_host(url):
+            try:
+                start_time = time.time()
+                response = requests.head(url, timeout=1.0, allow_redirects=False)
+                delay = (time.time() - start_time) * 1000
+                results[url] = delay
+            except Exception as e:
+                results[url] = float('inf')
+        for url in urls:
+            t = threading.Thread(target=test_host, args=(url,))
+            threads.append(t)
+            t.start()
+        for t in threads:
+            t.join()
+        return min(results.items(), key=lambda x: x[1])[0]
+
+    def md5(self, sign_key):
+        md5_hash = MD5.new()
+        md5_hash.update(sign_key.encode('utf-8'))
+        md5_result = md5_hash.hexdigest()
+        return md5_result
+
+    def js(self, param):
+        return '&'.join(f"{k}={v}" for k, v in param.items())
+
+    def getheaders(self, param=None):
+        if param is None:param = {}
+        t=str(int(time.time()*1000))
+        param['key']='cb808529bae6b6be45ecfab29a4889bc'
+        param['t']=t
+        sha1_hash = SHA1.new()
+        sha1_hash.update(self.md5(self.js(param)).encode('utf-8'))
+        sign = sha1_hash.hexdigest()
+        deviceid = str(uuid.uuid4())
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8  Safari/537.36',
+            'Accept': 'application/json, text/plain, */*',
+            'sign': sign,
+            't': t,
+            'deviceid':deviceid
+        }
+        return headers
+
+    def convert_field_name(self, field):
+        field = field.lower()
+        if field.startswith('vod') and len(field) > 3:
+            field = field.replace('vod', 'vod_')
+        if field.startswith('type') and len(field) > 4:
+            field = field.replace('type', 'type_')
+        return field
+
+    def getvod(self, array):
+        return [{self.convert_field_name(k): v for k, v in item.items()} for item in array]
